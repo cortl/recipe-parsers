@@ -1,0 +1,42 @@
+{
+    "title": "Steak Kabobs",
+    "rating": 9,
+    "notes": ["If using wood skewers, soak for 20 minutes in water prior to cooking."],
+    "source": "https://civilizedcaveman.com/recipes/beef/kabobs/",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "name": "Sirloin steak"
+        },
+        {
+            "quantity": "1",
+            "name": "Onion"
+        },
+        {
+            "quantity": "3",
+            "name": "Red/Green bell peppers"
+        },
+        {
+            "quantity": "16oz",
+            "name": "Cherry tomatoes"
+        },
+        {
+            "quantity": "3 cloves",
+            "name": "Garlic"
+        },
+        {
+            "quantity": "2 Tbsp",
+            "name": "Italian seasoning"
+        },
+        {
+            "quantity": "2 Tbsp",
+            "name": "Olive oil"
+        }
+    ],
+    "instructions": [
+        "Place all of your ingredients in a mixing bowl and ensure you get a nice even coating. Use enough olive oil to lightly coat everything. Marinate for anywhere from 1 hour to overnight.",
+        "Preheat your grill for a medium-high heat.",
+        "Once your skewers are soaked, start alternately threading your ingredients onto your skewers, steak, pepper, onion, tomato and so on.",
+        "Once done, grill for 8-10 minutes uncovered turning occasionally for medium-rare to medium steaks."
+    ]
+}
