@@ -1,0 +1,17 @@
+{
+    "title": "Recipe name",
+    "rating": "0-10 as a number",
+    "notes": [
+        "anything additional people should know about this recipe"
+    ],
+    "source": "source of the recipe, if possible",
+    "ingredients": [
+        {
+            "quantity": "(number) Cups/Oz/g/Tbsp/Tsp",
+            "name": "Slice/grated/etc food"
+        }
+    ],
+    "instructions": [
+        "Assembly instructions"
+    ]
+}
