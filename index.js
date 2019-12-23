@@ -41,7 +41,7 @@ const createRecipeFromSheet = client =>
         auth: client.oAuth2Client,
     }).spreadsheets.values.get({
         spreadsheetId: SHEET_ID,
-        range: 'Recipes!A2:D99',
+        range: 'Recipes!A2:D1000',
     }).then(res => Promise.all(res.data.values.map(row => ({
         rating: row[1],
         notes: row[2],
@@ -51,17 +51,19 @@ const createRecipeFromSheet = client =>
         .filter(recipe => Boolean(recipe.url))
         .map(createRecipe)));
 
+const updateMarkdown = recipes => {
+    const toMarkdownLink = ({ title }) => `    - [${title}](recipes/${createFileName(title)})`;
+    const template = fs.readFileSync('TEMPLATE.md');
+    const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
+    fs.writeFileSync('README.md', write);
+    console.log('updated table of contents');
+}
+
 const main = () => {
-    const toMarkdownLink = ({title}) => `    - [${title}](recipes/${createFileName(title)})`;
     authenticate(SCOPES)
         .then(createRecipeFromSheet)
         .then(recipes => recipes.filter(Boolean))
-        .then(recipes => {
-            const template = fs.readFileSync('TEMPLATE.md');
-            const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
-            fs.writeFileSync('README.md', write);
-            console.log('updated table of contents');
-        })
+        .then(updateMarkdown)
         .catch(console.error);
 }
 
