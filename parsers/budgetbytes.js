@@ -16,15 +16,16 @@ const parse = async (source) => {
             name
         }
     }).get()
-
+    const instructions = $('.wprm-recipe-instruction-text').map((_, element) => $(element).text()).get();
     const title = $('h1').text();
-    console.log(JSON.stringify({
+    return {
         title,
         rating: 0,
         notes: [],
         source: source,
-        ingredients
-    }, null, 2));
+        ingredients,
+        instructions
+    };
 }
 
 module.exports = {
