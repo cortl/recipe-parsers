@@ -11,7 +11,6 @@ const parse = async (source) => {
         const name = select('.wprm-recipe-ingredient-name').text();
         const unit = select('.wprm-recipe-ingredient-unit').text();
         const amount = select('.wprm-recipe-ingredient-amount').text();
-        console.log(name, unit, amount);
         return {
             quantity: Boolean(unit) ? `${amount} ${unit}` : `${amount}`,
             name
