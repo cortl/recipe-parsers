@@ -1,0 +1,24 @@
+{
+  "name": "cooking",
+  "version": "1.0.0",
+  "description": "Web scraper for collecting recipes from websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortl/cooking.git"
+  },
+  "author": "Cortlan Bainbridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortl/cooking/issues"
+  },
+  "homepage": "https://github.com/cortl/cooking#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
