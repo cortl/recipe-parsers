@@ -1,8 +1,10 @@
 {
   "title": "Hearty Black Bean Quesadillas",
-  "rating": 8,
-  "notes": ["Added 93% groundbeef, dense af"],
-  "source": "https://www.budgetbytes.com/hearty-black-bean-quesadillas/",
+  "rating": "8",
+  "notes": [
+    "Added 93% groundbeef, dense af"
+  ],
+  "source": "https://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/",
   "ingredients": [
     {
       "quantity": "1 15 oz. can",

@@ -1,8 +1,10 @@
 {
   "title": "Easy Homemade Orange Chicken",
-  "rating": 8,
-  "notes": ["dank asf with chicken breasts"],
-  "source": "https://www.budgetbytes.com/easy-orange-chicken/",
+  "rating": "8",
+  "notes": [
+    "dank asf with chicken breasts"
+  ],
+  "source": "https://www.budgetbytes.com/2017/02/easy-orange-chicken/",
   "ingredients": [
     {
       "quantity": "1",
