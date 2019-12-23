@@ -1,7 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-const parse = async (source) => {
+const parse = async (source, notes, rating) => {
     const $ = await axios.get(source)
     .then(res => res.data)
     .then(data => cheerio.load(data));
@@ -20,8 +20,8 @@ const parse = async (source) => {
     const title = $('h1').text();
     return {
         title,
-        rating: 0,
-        notes: [],
+        rating,
+        notes: [notes],
         source: source,
         ingredients,
         instructions
