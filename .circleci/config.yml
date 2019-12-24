@@ -1,4 +1,16 @@
-version: 2
+version: 2.1
+
+commands:
+  setup-git:
+    steps:
+      - run:
+          name: Setup Git
+          command: |
+            git config user.email "cortlan.bainbridge@gmail.com"
+            git config user.name "Circle CI"
+      - add_ssh_keys
+
+
 workflows:
   version: 2
   commit:
@@ -23,6 +35,7 @@ jobs:
     working_directory: /tmp/workspace
     steps:
       - checkout
+      - setup-git
       - restore_cache:
           keys:
             - v1-dependencies-{{ checksum "package.json" }}
@@ -37,7 +50,5 @@ jobs:
       - run: rm README.md
       - run: mkdir recipes
       - run: npm start
-      - run: git config --global user.email "cortlan.bainbridge@gmail.com"
-      - run: git config --global user.name "cortl"
       - run: git commit -am '[skip ci] updating recipes'
-      - run: git push
+      - run: git push origin HEAD
