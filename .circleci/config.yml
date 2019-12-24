@@ -35,6 +35,7 @@ jobs:
       - run: echo $GCP_KEY > credentials.json
       - run: rm -R recipes/
       - run: rm README.md
+      - run: mkdir recipes
       - run: npm start
       - run: git config --global user.email "cortlan.bainbridge@gmail.com"
       - run: git config --global user.name "cortl"
