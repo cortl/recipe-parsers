@@ -2,7 +2,16 @@ version: 2
 workflows:
   version: 2
   generate:
+    triggers:
+       - schedule:
+           cron: "0 0 * * *"
+           filters:
+             branches:
+               only:
+                 - master
+                 - beta
     jobs:
+      - clean
       - update
 
 jobs:
@@ -23,6 +32,8 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: echo $GCP_KEY > credentials.json
+      - run: rm -R recipes/
+      - run: rm README.md
       - run: npm start
       - run: git config --global user.email "cortlan.bainbridge@gmail.com"
       - run: git config --global user.name "cortl"
