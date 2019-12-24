@@ -1,6 +1,6 @@
 const URL = require('url-parse');
 const { google } = require('googleapis');
-const { authenticate } = require('./client.js');
+const { GoogleAuth } = require('google-auth-library');
 const fs = require('fs');
 const budgetbytes = require('./parsers/budgetbytes');
 
@@ -35,10 +35,10 @@ const createRecipe = ({ url, notes, rating }) => {
     };
 }
 
-const createRecipeFromSheet = client =>
+const createRecipeFromSheet = auth =>
     google.sheets({
         version: 'v4',
-        auth: client.oAuth2Client,
+        auth
     }).spreadsheets.values.get({
         spreadsheetId: SHEET_ID,
         range: 'Recipes!A2:D1000',
@@ -60,7 +60,10 @@ const updateMarkdown = recipes => {
 }
 
 const main = () => {
-    authenticate(SCOPES)
+    const auth = new GoogleAuth({
+        scopes: SCOPES
+    });
+    auth.getClient()
         .then(createRecipeFromSheet)
         .then(recipes => recipes.filter(Boolean))
         .then(updateMarkdown)
