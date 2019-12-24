@@ -46,7 +46,6 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: echo $GCP_KEY > credentials.json
-      - run: rm -R recipes/
       - run: rm README.md
       - run: mkdir recipes
       - run: npm start
