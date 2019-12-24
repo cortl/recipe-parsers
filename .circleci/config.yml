@@ -1,0 +1,28 @@
+version: 2
+workflows:
+  version: 2
+  generate:
+    jobs:
+      - update
+
+jobs:
+  update:
+    docker:
+      - image: circleci/node:lts
+    parallelism: 1
+    working_directory: /tmp/workspace
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "package.json" }}
+            - v1-dependencies-
+      - run: npm install
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+      - run: echo $GCP_KEY > credentials.json
+      - run: npm start
+      - run: git commit -am '[skip ci] updating recipes'
+      - run: git push
