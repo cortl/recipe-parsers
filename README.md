@@ -63,4 +63,3 @@
     - [Oven Roasted Frozen Broccoli](recipes/oven-roasted-frozen-broccoli.json)
     - [One Pot Bacon Broccoli Mac and Cheese](recipes/one-pot-bacon-broccoli-mac-and-cheese.json)
     - [Secret Ingredient Tomato Soup](recipes/secret-ingredient-tomato-soup.json)
-    - [How to Make Pickled Red Onions in 15 minutes](recipes/how-to-make-pickled-red-onions-in-15-minutes.json)
