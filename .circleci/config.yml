@@ -1,6 +1,9 @@
 version: 2
 workflows:
   version: 2
+  commit:
+    jobs:
+      - update
   generate:
     triggers:
        - schedule:
@@ -9,9 +12,7 @@ workflows:
              branches:
                only:
                  - master
-                 - beta
     jobs:
-      - clean
       - update
 
 jobs:
