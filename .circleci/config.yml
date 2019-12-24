@@ -48,8 +48,5 @@ jobs:
       - run: echo $GCP_KEY > credentials.json
       - run: rm README.md
       - run: npm start
-      - run:
-          name: update repo
-          command: |
-              git commit -am '[skip ci] updating recipes'
-              git push origin HEAD
+      - run: git commit -am '[skip ci] updating recipes'
+      - run: git push origin HEAD
