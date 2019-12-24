@@ -47,7 +47,9 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: echo $GCP_KEY > credentials.json
       - run: rm README.md
-      - run: mkdir recipes
       - run: npm start
-      - run: git commit -am '[skip ci] updating recipes'
-      - run: git push origin HEAD
+      - run:
+          name: update repo
+          command: \
+              git commit -am '[skip ci] updating recipes'
+              git push origin HEAD
