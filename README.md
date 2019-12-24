@@ -3,6 +3,9 @@
 ## Table of Contents
 - [Template](template.json)
 - [Recipes](recipes/)
+    - [Butter Chicken](recipes/butter-chicken.json)
+    - [Steak Kabobs](recipes/steak-kabobs.json)
+    - [Garlic Butter Steak and Potatoes Skillet](recipes/garlic-butter-steak-and-potatoes-skillet.json)
     - [Pork Gyoza (Potstickers)](recipes/pork-gyoza-potstickers.json)
     - [Easy Homemade Cornbread](recipes/easy-homemade-cornbread.json)
     - [Easy Homemade Orange Chicken](recipes/easy-homemade-orange-chicken.json)
