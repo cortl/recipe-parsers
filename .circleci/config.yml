@@ -50,6 +50,6 @@ jobs:
       - run: npm start
       - run:
           name: update repo
-          command: \
+          command: |
               git commit -am '[skip ci] updating recipes'
               git push origin HEAD
