@@ -24,5 +24,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: echo $GCP_KEY > credentials.json
       - run: npm start
+      - run: git config --global user.email "cortlan.bainbridge@gmail.com"
+      - run: git config --gloabl user.name cortl
       - run: git commit -am '[skip ci] updating recipes'
       - run: git push
