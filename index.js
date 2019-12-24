@@ -10,6 +10,8 @@ const PARSERS = {
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
 
+let sitesNeeded = {};
+
 const getParser = (url) => {
     const hostname = URL(url).hostname;
     const parser = PARSERS[hostname];
@@ -31,8 +33,16 @@ const createRecipe = ({ url, notes, rating }) => {
             })
             .catch(console.error);
     } else {
-        console.log(`Parser does not exist for ${URL(url).hostname}`);
+        const site = URL(url).hostname;
+        sitesNeeded[site] = (sitesNeeded[site] || 0) + 1;
+        console.log(`Parser does not exist for ${site}`);
     };
+}
+
+const reportMissing = () => {
+    Object.keys(sitesNeeded).forEach(site => {
+        console.log(`Missing ${sitesNeeded[site]} total for ${site}`);
+    });
 }
 
 const createRecipeFromSheet = auth =>
@@ -67,6 +77,7 @@ const main = () => {
         .then(createRecipeFromSheet)
         .then(recipes => recipes.filter(Boolean))
         .then(updateMarkdown)
+        .then(reportMissing)
         .catch(console.error);
 }
 
