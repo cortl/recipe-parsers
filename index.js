@@ -5,11 +5,14 @@ const fs = require('fs');
 
 const budgetbytes = require('./parsers/budgetbytes');
 const seriouseats = require('./parsers/seriouseats');
+const allrecipes = require('./parsers/allrecipes');
 
 const PARSERS = {
     'www.budgetbytes.com': budgetbytes.parse,
-    'www.seriouseats.com': seriouseats.parse
-}
+    'www.seriouseats.com': seriouseats.parse,
+    'www.allrecipes.com': allrecipes.parse
+};
+
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
 
