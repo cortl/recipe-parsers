@@ -32,8 +32,7 @@ const createRecipe = ({url, notes, rating}) => {
     if (parser) {
         return parser(url, notes, rating)
             .then(recipe => {
-                const fileName = createFileName(recipe.slug);
-                const location = `recipes/${fileName}`
+                const location = `recipes/${recipe.slug}.json`
                 fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
                 console.log(`Recipe wrote to ${location}`);
                 return recipe;
