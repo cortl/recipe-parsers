@@ -1,11 +1,14 @@
 const URL = require('url-parse');
-const { google } = require('googleapis');
-const { GoogleAuth } = require('google-auth-library');
+const {google} = require('googleapis');
+const {GoogleAuth} = require('google-auth-library');
 const fs = require('fs');
+
 const budgetbytes = require('./parsers/budgetbytes');
+const seriouseats = require('./parsers/seriouseats');
 
 const PARSERS = {
-    'www.budgetbytes.com': budgetbytes.parse
+    'www.budgetbytes.com': budgetbytes.parse,
+    'www.seriouseats.com': seriouseats.parse
 }
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
@@ -20,7 +23,7 @@ const getParser = (url) => {
 
 const createFileName = title => `${title.toLowerCase().replace(/[^\w\s]/gi, '').replace(/\s/g, '-')}.json`;
 
-const createRecipe = ({ url, notes, rating }) => {
+const createRecipe = ({url, notes, rating}) => {
     const parser = getParser(url)
     if (parser) {
         return parser(url, notes, rating)
@@ -62,7 +65,7 @@ const createRecipeFromSheet = auth =>
         .map(createRecipe)));
 
 const updateMarkdown = recipes => {
-    const toMarkdownLink = ({ title }) => `    - [${title}](recipes/${createFileName(title)})`;
+    const toMarkdownLink = ({title}) => `    - [${title}](recipes/${createFileName(title)})`;
     const template = fs.readFileSync('TEMPLATE.md');
     const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
     fs.writeFileSync('README.md', write);
