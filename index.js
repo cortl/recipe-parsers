@@ -12,6 +12,7 @@ const PARSERS = {
     'www.budgetbytes.com': budgetbytes.parse,
     'www.seriouseats.com': seriouseats.parse,
     'allrecipes.com': allrecipes.parse,
+    'www.allrecipes.com': allrecipes.parse,
     'www.pressurecookingtoday.com': pressurecookingtoday.parse
 };
 
