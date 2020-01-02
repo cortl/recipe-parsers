@@ -1,5 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const util = require('./util');
 
 const parse = async (source, notes, rating) => {
     const $ = await axios.get(source)
@@ -19,6 +20,7 @@ const parse = async (source, notes, rating) => {
     const title = $('h1').text();
     return {
         title,
+        slug: util.createSlug(title),
         rating,
         notes: [notes],
         source: source,

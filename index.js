@@ -27,14 +27,14 @@ const getParser = (url) => {
     return parser;
 }
 
-const createFileName = title => `${title.toLowerCase().replace(/[^\w\s]/gi, '').replace(/\s/g, '-')}.json`;
+const createFileName = slug => `${slug}.json`;
 
 const createRecipe = ({url, notes, rating}) => {
     const parser = getParser(url)
     if (parser) {
         return parser(url, notes, rating)
             .then(recipe => {
-                const fileName = createFileName(recipe.title);
+                const fileName = createFileName(recipe.slug);
                 const location = `recipes/${fileName}`
                 fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
                 console.log(`Recipe wrote to ${location}`);
