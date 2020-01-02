@@ -11,7 +11,7 @@ const pressurecookingtoday = require('./parsers/pressurecookingtoday');
 const PARSERS = {
     'www.budgetbytes.com': budgetbytes.parse,
     'www.seriouseats.com': seriouseats.parse,
-    'www.allrecipes.com': allrecipes.parse,
+    'allrecipes.com': allrecipes.parse,
     'www.pressurecookingtoday.com': pressurecookingtoday.parse
 };
 
