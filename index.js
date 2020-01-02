@@ -62,7 +62,7 @@ const createRecipeFromSheet = auth =>
         spreadsheetId: SHEET_ID,
         range: 'Recipes!A2:D1000',
     }).then(res => Promise.all(res.data.values.map(row => ({
-        rating: row[1],
+        rating: parseInt(row[1], 10),
         notes: row[2],
         url: row[3]
     }))
