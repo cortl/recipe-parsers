@@ -6,11 +6,13 @@ const fs = require('fs');
 const budgetbytes = require('./parsers/budgetbytes');
 const seriouseats = require('./parsers/seriouseats');
 const allrecipes = require('./parsers/allrecipes');
+const pressurecookingtoday = require('./parsers/pressurecookingtoday');
 
 const PARSERS = {
     'www.budgetbytes.com': budgetbytes.parse,
     'www.seriouseats.com': seriouseats.parse,
-    'www.allrecipes.com': allrecipes.parse
+    'www.allrecipes.com': allrecipes.parse,
+    'www.pressurecookingtoday.com': pressurecookingtoday.parse
 };
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
