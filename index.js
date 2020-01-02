@@ -27,8 +27,6 @@ const getParser = (url) => {
     return parser;
 }
 
-const createFileName = slug => `${slug}.json`;
-
 const createRecipe = ({url, notes, rating}) => {
     const parser = getParser(url)
     if (parser) {
@@ -71,7 +69,7 @@ const createRecipeFromSheet = auth =>
         .map(createRecipe)));
 
 const updateMarkdown = recipes => {
-    const toMarkdownLink = ({title}) => `    - [${title}](recipes/${createFileName(title)})`;
+    const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
     const template = fs.readFileSync('TEMPLATE.md');
     const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
     fs.writeFileSync('README.md', write);
