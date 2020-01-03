@@ -7,78 +7,24 @@
     ],
     "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
     "ingredients": [
-        {
-            "quantity": "400g",
-            "name": "Chicken breast"
-        },
-        {
-            "quantity": "1 Tbsp",
-            "name": "Ginger paste"
-        },
-        {
-            "quantity": "1 Tbsp",
-            "name": "Garlic"
-        },
-        {
-            "quantity": "1/2 Tsp",
-            "name": "Salt"
-        },
-        {
-            "quantity": "1 Tsp",
-            "name": "Red Chili Flakes"
-        },
-        {
-            "quantity": "1 Tsp",
-            "name": "Paprika"
-        },
-        {
-            "quantity": "3-4 Tbsp",
-            "name": "Butter"
-        },
-        {
-            "quantity": "60g",
-            "name": "Cashews"
-        },
-        {
-            "quantity": "150g",
-            "name": "Red Onion"
-        },
-        {
-            "quantity": "450g",
-            "name": "Tomatoes"
-        },
-        {
-            "quantity": "1 Tbsp",
-            "name": "Sugar"
-        },
-        {
-            "quantity": "1 Tbsp",
-            "name": "Ginger paste"
-        },
-        {
-            "quantity": "1 Tbsp",
-            "name": "garlic paste"
-        },
-        {
-            "quantity": "1/2 Tsp",
-            "name": "Paprika"
-        },
-        {
-            "quantity": "1/2 Tsp",
-            "name": "Red Chili powder"
-        },
-        {
-            "quantity": "1/2 Tbsp + 1 Tsp",
-            "name": "Garam Massala"
-        },
-        {
-            "quantity": "1 Tsp",
-            "name": "Salt"
-        },
-        {
-            "quantity": "4 Tbsp",
-            "name": "Heavy Cream"
-        }
+        "400g Chicken breast",
+        "1 Tbsp Ginger paste",
+        "1 Tbsp Garlic",
+        "1/2 Tsp Salt",
+        "1 Tsp Red Chili Flakes",
+        "1 Tsp Paprika",
+        "3-4 Tbsp Butter",
+        "60g Cashews",
+        "150g Red Onion",
+        "450g Tomatoes",
+        "1 Tbsp Sugar",
+        "1 Tbsp Ginger paste",
+        "1 Tbsp garlic paste",
+        "1/2 Tsp Paprika",
+        "1/2 Tsp Red Chili powder",
+        "1/2 Tbsp + 1 Tsp Garam Massala",
+        "1 Tsp Salt",
+        "4 Tbsp Heavy Cream"
     ],
     "instructions": [
         "Marinade the chicken with 1 Tbsp ginger paste, 1 Tbsp garlic, 1/2 tsp salt, 1 tsp red chili peppers, 1 tsp paprika for 1-2 hours.",
