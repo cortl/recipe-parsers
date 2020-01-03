@@ -33,8 +33,18 @@ const createRecipe = ({url, notes, rating}) => {
         return parser(url, notes, rating)
             .then(recipe => {
                 const location = `recipes/${recipe.slug}.json`
+                if (fs.existsSync(location)) {
+                    console.log(`file exists: ${location}`)
+                    const oldRecipe = JSON.parse(fs.readFileSync(location));
+                    recipe = {
+                        ...oldRecipe,
+                        rating,
+                        notes: [notes]
+                    };
+                } else {
+                    console.log(`recipe cached: ${location}`);
+                }
                 fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
-                console.log(`Recipe wrote to ${location}`);
                 return recipe;
             })
             .catch(console.error);
