@@ -16,7 +16,10 @@ const parse = async (source, notes, rating) => {
     const slug = util.createSlug(title);
 
     const imageUrl = $('.photo').attr('src');
-    const image = await util.downloadImage(slug, imageUrl)
+    const image = imageUrl
+        ? await util.downloadImage(slug, imageUrl)
+        : "";
+
     return {
         title,
         slug: util.createSlug(title),

@@ -25,7 +25,10 @@ const parse = async (source, notes, rating) => {
         .map((_, element) => $(element).attr('data-lazy-src'))
         .get()[0];
 
-    console.info(`no image for ${title} from ${source}`);
+    if (!Boolean(imageUrl)) {
+        console.log(`no image for ${title} from ${source}`);
+    }
+
     const image = imageUrl ? await util.downloadImage(slug, imageUrl)
         : "";
 
