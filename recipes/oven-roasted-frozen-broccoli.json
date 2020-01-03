@@ -7,18 +7,9 @@
   ],
   "source": "https://www.budgetbytes.com/oven-roasted-frozen-broccoli/",
   "ingredients": [
-    {
-      "quantity": "1/2 lb.",
-      "name": "frozen broccoli florets "
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "olive oil "
-    },
-    {
-      "quantity": "1/2 Tbsp",
-      "name": "Montreal steak seasoning "
-    }
+    "1/2 lb. frozen broccoli florets ",
+    "1 Tbsp olive oil ",
+    "1/2 Tbsp Montreal steak seasoning "
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Line a baking sheet with parchment paper. Spread the frozen florets out over the baking sheet (no need to thaw).",

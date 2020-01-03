@@ -7,46 +7,16 @@
   ],
   "source": "https://www.budgetbytes.com/balsamic-chicken-and-mushrooms/",
   "ingredients": [
-    {
-      "quantity": "4 Tbsp",
-      "name": "balsamic vinegar"
-    },
-    {
-      "quantity": "1.5 Tbsp",
-      "name": "soy sauce"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "brown sugar"
-    },
-    {
-      "quantity": "2 cloves",
-      "name": "garlic, minced"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "dried thyme"
-    },
-    {
-      "quantity": "4",
-      "name": "boneless, skinless chicken thighs (about 1.25 lbs. total)"
-    },
-    {
-      "quantity": "1 pinch",
-      "name": "salt and pepper"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "olive oil"
-    },
-    {
-      "quantity": "8 oz.",
-      "name": "mushrooms"
-    },
-    {
-      "quantity": "2 Tbsp",
-      "name": "butter"
-    }
+    "4 Tbsp balsamic vinegar",
+    "1.5 Tbsp soy sauce",
+    "1 Tbsp brown sugar",
+    "2 cloves garlic, minced",
+    "1/4 tsp dried thyme",
+    "4 boneless, skinless chicken thighs (about 1.25 lbs. total)",
+    "1 pinch salt and pepper",
+    "1 Tbsp olive oil",
+    "8 oz. mushrooms",
+    "2 Tbsp butter"
   ],
   "instructions": [
     "Prepare the balsamic sauce first. In a small bowl, stir together the balsamic vinegar, soy sauce, brown sugar, minced garlic, and dried thyme. Set the sauce aside.",

@@ -7,86 +7,26 @@
   ],
   "source": "https://www.budgetbytes.com/2018/02/enchilada-bubble-casserole/",
   "ingredients": [
-    {
-      "quantity": "1 Tbsp",
-      "name": "vegetable oil"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "flour"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "chili powder*"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "water"
-    },
-    {
-      "quantity": "2 Tbsp",
-      "name": "tomato paste"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "cumin"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "garlic powder"
-    },
-    {
-      "quantity": "1/8 tsp",
-      "name": "cayenne pepper"
-    },
-    {
-      "quantity": "",
-      "name": "salt, to taste"
-    },
-    {
-      "quantity": "1/4 cup",
-      "name": "hot water"
-    },
-    {
-      "quantity": "1 tsp",
-      "name": "active dry or instant yeast"
-    },
-    {
-      "quantity": "1.5 cups",
-      "name": "all-purpose flour (plus some for dusting)"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "salt"
-    },
-    {
-      "quantity": "2 tsp",
-      "name": "baking powder"
-    },
-    {
-      "quantity": "1 tsp",
-      "name": "sugar"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "heavy cream"
-    },
-    {
-      "quantity": "2 cups",
-      "name": "cooked chicken, shredded or chopped**"
-    },
-    {
-      "quantity": "15 oz",
-      "name": "can black beans, drained"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "cheese, shredded"
-    },
-    {
-      "quantity": "2",
-      "name": "green onions, sliced"
-    }
+    "1 Tbsp vegetable oil",
+    "1 Tbsp flour",
+    "1 Tbsp chili powder*",
+    "1 cup water",
+    "2 Tbsp tomato paste",
+    "1/4 tsp cumin",
+    "1/4 tsp garlic powder",
+    "1/8 tsp cayenne pepper",
+    " salt, to taste",
+    "1/4 cup hot water",
+    "1 tsp active dry or instant yeast",
+    "1.5 cups all-purpose flour (plus some for dusting)",
+    "1/2 tsp salt",
+    "2 tsp baking powder",
+    "1 tsp sugar",
+    "1 cup heavy cream",
+    "2 cups cooked chicken, shredded or chopped**",
+    "15 oz can black beans, drained",
+    "1 cup cheese, shredded",
+    "2 green onions, sliced"
   ],
   "instructions": [
     "Begin the biscuit dough first, so it can rest for one hour. Dissolve the yeast into 1/4 cup hot water. Let that sit for a few minutes.",

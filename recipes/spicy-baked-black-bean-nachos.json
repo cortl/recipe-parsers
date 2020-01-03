@@ -7,66 +7,21 @@
   ],
   "source": "https://www.budgetbytes.com/2017/04/spicy-baked-black-bean-nachos/",
   "ingredients": [
-    {
-      "quantity": "1 Tbsp",
-      "name": "olive oil"
-    },
-    {
-      "quantity": "1",
-      "name": "small onion "
-    },
-    {
-      "quantity": "10 oz",
-      "name": "can petite diced tomatoes with green chiles"
-    },
-    {
-      "quantity": "15 oz",
-      "name": "can black beans"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "chipotle powder "
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "cumin "
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "garlic powder "
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "salt "
-    },
-    {
-      "quantity": "8 oz",
-      "name": "sturdy corn tortilla chips "
-    },
-    {
-      "quantity": "4 oz",
-      "name": "cheddar, shredded*"
-    },
-    {
-      "quantity": "1",
-      "name": "Roma tomato"
-    },
-    {
-      "quantity": "1",
-      "name": "jalapeño"
-    },
-    {
-      "quantity": "1/3 cup",
-      "name": "pickled red onions "
-    },
-    {
-      "quantity": "",
-      "name": "Handful cilantro"
-    },
-    {
-      "quantity": "1/4 cup",
-      "name": "sour cream"
-    }
+    "1 Tbsp olive oil",
+    "1 small onion ",
+    "10 oz can petite diced tomatoes with green chiles",
+    "15 oz can black beans",
+    "1/2 tsp chipotle powder ",
+    "1/2 tsp cumin ",
+    "1/4 tsp garlic powder ",
+    "1/4 tsp salt ",
+    "8 oz sturdy corn tortilla chips ",
+    "4 oz cheddar, shredded*",
+    "1 Roma tomato",
+    "1 jalapeño",
+    "1/3 cup pickled red onions ",
+    " Handful cilantro",
+    "1/4 cup sour cream"
   ],
   "instructions": [
     "Finely dice the onion. Add the olive oil and onion to a large skillet and sauté over medium heat until the onion is soft and transparent (about 5 minutes). Drain, but do not rinse the black beans, allowing some of the starchy liquid to remain coating the beans. Add the beans and diced tomatoes with chiles (not drained) to the skillet, along with the chipotle powder, cumin, garlic powder, and salt. Stir and simmer the mixture until it thickens and liquid no longer pools on the bottom of the skillet (about 10 minutes).",

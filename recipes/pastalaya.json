@@ -7,70 +7,22 @@
   ],
   "source": "https://www.budgetbytes.com/2015/02/pastalaya/",
   "ingredients": [
-    {
-      "quantity": "1 Tbsp",
-      "name": "vegetable oil"
-    },
-    {
-      "quantity": "1/2 lb",
-      "name": "smoked sausage (preferably Andouille)"
-    },
-    {
-      "quantity": "2 cloves",
-      "name": "garlic"
-    },
-    {
-      "quantity": "10 oz bag",
-      "name": "frozen \"seasoning mix\"*"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "diced tomatoes"
-    },
-    {
-      "quantity": "1/2 Tbsp",
-      "name": "Creole seasoning**"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "oregano"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "smoked paprika"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "thyme"
-    },
-    {
-      "quantity": "",
-      "name": "Freshly cracked pepper"
-    },
-    {
-      "quantity": "2 cups",
-      "name": "chicken broth"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "water"
-    },
-    {
-      "quantity": "1 lb",
-      "name": "penne pasta"
-    },
-    {
-      "quantity": "2 Tbsp",
-      "name": "half and half or cream"
-    },
-    {
-      "quantity": "1/2 bunch",
-      "name": "fresh parsley"
-    },
-    {
-      "quantity": "1/2 bunch",
-      "name": "green onions"
-    }
+    "1 Tbsp vegetable oil",
+    "1/2 lb smoked sausage (preferably Andouille)",
+    "2 cloves garlic",
+    "10 oz bag frozen \"seasoning mix\"*",
+    "15 oz can diced tomatoes",
+    "1/2 Tbsp Creole seasoning**",
+    "1/2 tsp oregano",
+    "1/2 tsp smoked paprika",
+    "1/4 tsp thyme",
+    " Freshly cracked pepper",
+    "2 cups chicken broth",
+    "1 cup water",
+    "1 lb penne pasta",
+    "2 Tbsp half and half or cream",
+    "1/2 bunch fresh parsley",
+    "1/2 bunch green onions"
   ],
   "instructions": [
     "Slice the smoked sausage into thin rounds, then cut any larger pieces in half. Add the sausage and vegetable oil to a large pot and cook over medium heat until the sausage is well browned (about 5 minutes).",

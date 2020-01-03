@@ -7,70 +7,22 @@
   ],
   "source": "https://www.budgetbytes.com/2016/06/creamy-chicken-fajita-pasta/",
   "ingredients": [
-    {
-      "quantity": "2 tsp",
-      "name": "chili powder*"
-    },
-    {
-      "quantity": "1 tsp",
-      "name": "smoked paprika"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "onion powder"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "garlic powder"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "cumin"
-    },
-    {
-      "quantity": "1/8 tsp",
-      "name": "cayenne"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "sugar"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "salt"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "cooking oil"
-    },
-    {
-      "quantity": "1",
-      "name": "boneless skinless chicken breast (about 0.75 lb.)"
-    },
-    {
-      "quantity": "1",
-      "name": "bell pepper"
-    },
-    {
-      "quantity": "1",
-      "name": "yellow onion"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "fire roasted diced tomatoes"
-    },
-    {
-      "quantity": "4 oz",
-      "name": "cream cheese"
-    },
-    {
-      "quantity": "8 oz",
-      "name": "pasta (any shape)"
-    },
-    {
-      "quantity": "2",
-      "name": "green onions, sliced"
-    }
+    "2 tsp chili powder*",
+    "1 tsp smoked paprika",
+    "1/4 tsp onion powder",
+    "1/4 tsp garlic powder",
+    "1/4 tsp cumin",
+    "1/8 tsp cayenne",
+    "1/2 tsp sugar",
+    "1/2 tsp salt",
+    "1 Tbsp cooking oil",
+    "1 boneless skinless chicken breast (about 0.75 lb.)",
+    "1 bell pepper",
+    "1 yellow onion",
+    "15 oz can fire roasted diced tomatoes",
+    "4 oz cream cheese",
+    "8 oz pasta (any shape)",
+    "2 green onions, sliced"
   ],
   "instructions": [
     "Combine the spices for the fajita spice mix in a bowl and set aside. Dice the onion and bell pepper, and cut the chicken breast into 1/2-inch cubes.",

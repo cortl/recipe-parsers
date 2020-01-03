@@ -7,62 +7,20 @@
   ],
   "source": "https://www.budgetbytes.com/2014/09/snap-challenge-one-pot-chili-pasta/",
   "ingredients": [
-    {
-      "quantity": "1 Tbsp",
-      "name": "olive oil"
-    },
-    {
-      "quantity": "1",
-      "name": "medium onion"
-    },
-    {
-      "quantity": "2 cloves",
-      "name": "garlic"
-    },
-    {
-      "quantity": "1/2 lb",
-      "name": "ground beef"
-    },
-    {
-      "quantity": "2 Tbsp",
-      "name": "flour"
-    },
-    {
-      "quantity": "2 Tbsp",
-      "name": "chili powder"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "tomato sauce"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "diced tomatoes"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "black beans"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "kidney beans"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "frozen corn kernels"
-    },
-    {
-      "quantity": "2 cups",
-      "name": "uncooked elbow macaroni"
-    },
-    {
-      "quantity": "2 cups",
-      "name": "beef broth $0.08*"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "shredded cheese"
-    }
+    "1 Tbsp olive oil",
+    "1 medium onion",
+    "2 cloves garlic",
+    "1/2 lb ground beef",
+    "2 Tbsp flour",
+    "2 Tbsp chili powder",
+    "15 oz can tomato sauce",
+    "15 oz can diced tomatoes",
+    "15 oz can black beans",
+    "15 oz can kidney beans",
+    "1 cup frozen corn kernels",
+    "2 cups uncooked elbow macaroni",
+    "2 cups beef broth $0.08*",
+    "1 cup shredded cheese"
   ],
   "instructions": [
     "Dice the onion and mince the garlic. Cook both in a large pot with olive oil over medium heat for 1-2 minutes, or until soft and transparent. Add the ground beef and continue to stir and cook until it is fully browned. If using a high fat ground beef, drain off the excessive after it is browned.",

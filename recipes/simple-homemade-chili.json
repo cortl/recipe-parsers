@@ -7,74 +7,23 @@
   ],
   "source": "https://www.budgetbytes.com/basic-chili/",
   "ingredients": [
-    {
-      "quantity": "2 Tbsp",
-      "name": "olive oil"
-    },
-    {
-      "quantity": "1",
-      "name": "yellow onion"
-    },
-    {
-      "quantity": "2 cloves",
-      "name": "garlic"
-    },
-    {
-      "quantity": "1 lb",
-      "name": "ground beef"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": " kidney beans"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "black beans"
-    },
-    {
-      "quantity": "15 oz can",
-      "name": "diced tomatoes"
-    },
-    {
-      "quantity": "6 oz can",
-      "name": " tomato paste"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "water"
-    },
-    {
-      "quantity": "1 Tbsp",
-      "name": "chili powder**"
-    },
-    {
-      "quantity": "1 tsp",
-      "name": "ground cumin"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "cayenne powder"
-    },
-    {
-      "quantity": "1/4 tsp",
-      "name": "garlic powder"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "onion powder"
-    },
-    {
-      "quantity": "1/2 Tbsp",
-      "name": "brown sugar"
-    },
-    {
-      "quantity": "1 tsp",
-      "name": "salt"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "Freshly ground pepper"
-    }
+    "2 Tbsp olive oil",
+    "1 yellow onion",
+    "2 cloves garlic",
+    "1 lb ground beef",
+    "15 oz can  kidney beans",
+    "15 oz can black beans",
+    "15 oz can diced tomatoes",
+    "6 oz can  tomato paste",
+    "1 cup water",
+    "1 Tbsp chili powder**",
+    "1 tsp ground cumin",
+    "1/4 tsp cayenne powder",
+    "1/4 tsp garlic powder",
+    "1/2 tsp onion powder",
+    "1/2 Tbsp brown sugar",
+    "1 tsp salt",
+    "1/2 tsp Freshly ground pepper"
   ],
   "instructions": [
     "Dice the onion and mince the garlic. Add both to a large pot with the olive oil and cook over medium heat until they are soft and transparent. Add the ground beef and continue to sauté until the beef is fully browned.",

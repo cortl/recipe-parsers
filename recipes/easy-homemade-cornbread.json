@@ -7,38 +7,14 @@
   ],
   "source": "https://www.budgetbytes.com/2015/09/everyday-cornbread/",
   "ingredients": [
-    {
-      "quantity": "1 cup",
-      "name": "yellow cornmeal"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "all-purpose flour"
-    },
-    {
-      "quantity": "1/4 cup",
-      "name": "sugar"
-    },
-    {
-      "quantity": "4 tsp",
-      "name": "baking powder"
-    },
-    {
-      "quantity": "1/2 tsp",
-      "name": "salt"
-    },
-    {
-      "quantity": "1 cup",
-      "name": "milk"
-    },
-    {
-      "quantity": "1",
-      "name": "large egg"
-    },
-    {
-      "quantity": "1/4 cup",
-      "name": "cooking oil"
-    }
+    "1 cup yellow cornmeal",
+    "1 cup all-purpose flour",
+    "1/4 cup sugar",
+    "4 tsp baking powder",
+    "1/2 tsp salt",
+    "1 cup milk",
+    "1 large egg",
+    "1/4 cup cooking oil"
   ],
   "instructions": [
     "Preheat the oven to 425 degrees and coat the inside of a 9-inch pie plate, cast iron skillet, or 8x8 casserole dish with non-stick spray (or butter for more flavor).",

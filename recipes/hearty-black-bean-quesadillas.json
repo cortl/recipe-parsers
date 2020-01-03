@@ -7,38 +7,14 @@
   ],
   "source": "https://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/",
   "ingredients": [
-    {
-      "quantity": "1 15 oz. can",
-      "name": "black beans** "
-    },
-    {
-      "quantity": "1 cup",
-      "name": "frozen corn kernels "
-    },
-    {
-      "quantity": "1/2",
-      "name": "small red onion "
-    },
-    {
-      "quantity": "1 clove",
-      "name": "garlic "
-    },
-    {
-      "quantity": "1/4",
-      "name": "bunch fresh cilantro "
-    },
-    {
-      "quantity": "2 cups",
-      "name": "shredded cheese "
-    },
-    {
-      "quantity": "1",
-      "name": "batch taco seasoning "
-    },
-    {
-      "quantity": "10",
-      "name": "taco sized tortillas "
-    }
+    "1 15 oz. can black beans** ",
+    "1 cup frozen corn kernels ",
+    "1/2 small red onion ",
+    "1 clove garlic ",
+    "1/4 bunch fresh cilantro ",
+    "2 cups shredded cheese ",
+    "1 batch taco seasoning ",
+    "10 taco sized tortillas "
   ],
   "instructions": [
     "Drain the can of beans and rinse lightly. Place the beans in a large bowl along with the corn (no need to thaw).",
