@@ -1,7 +1,10 @@
 {
     "title": "Steak Kabobs",
     "rating": 9,
-    "notes": ["If using wood skewers, soak for 20 minutes in water prior to cooking."],
+    "slug": "steak-kabobs",
+    "notes": [
+        "If using wood skewers, soak for 20 minutes in water prior to cooking."
+    ],
     "source": "https://civilizedcaveman.com/recipes/beef/kabobs/",
     "ingredients": [
         {
