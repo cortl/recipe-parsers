@@ -1,8 +1,8 @@
-const budgetbytes = require('./seriouseats');
+const budgetbytes = require('./pressurecookingtoday');
 
 const main = async () => {
     const rating = 8.2, notes = 'test';
-    const source = 'https://www.seriouseats.com/recipes/2016/10/pressure-cooker-beef-stew-recipe.html';
+    const source = 'https://www.pressurecookingtoday.com/spinach-artichoke-dip-in-the-pressure-cooker/';
 
     const result = await budgetbytes.parse(source, notes, rating);
     console.log(JSON.stringify(result, null, 2));

@@ -16,12 +16,15 @@ const parse = async (source, notes, rating) => {
     select = cheerio.load(cheerio.html($(ingredientBlock)));
     const ingredients = select('li').map((_, element) => $(element).text()).get()
         .map(ingredient => ingredient.split(' ').filter(Boolean).join(' '));
-
     const title = $('h1').text();
+    const slug = util.createSlug(title);
+    const imageUrl = $('img').map((_, element) => $(element).attr('data-lazy-src')).get()[0]
+    const image = await util.downloadImage(slug, imageUrl);
     return {
         title,
-        slug: util.createSlug(title),
+        slug,
         rating,
+        image,
         notes: [notes],
         source: source,
         ingredients,
