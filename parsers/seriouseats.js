@@ -13,9 +13,14 @@ const parse = async (source, notes, rating) => {
         .map(instruction => instruction.replace(/\n/gi, ''))
         .map(instruction => instruction.replace(/\s{2,}/gi, ''));
     const title = $('.recipe-title').text();
+    const slug = util.createSlug(title);
+
+    const imageUrl = $('.photo').attr('src');
+    const image = await util.downloadImage(slug, imageUrl)
     return {
         title,
         slug: util.createSlug(title),
+        image,
         rating,
         notes: [notes],
         source: source,
