@@ -10,7 +10,6 @@ commands:
             git config user.name "Circle CI"
       - add_ssh_keys
 
-
 workflows:
   version: 2
   commit:
@@ -18,12 +17,12 @@ workflows:
       - update
   nightly:
     triggers:
-       - schedule:
-           cron: "0 0 * * *"
-           filters:
-             branches:
-               only:
-                 - master
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
     jobs:
       - update
 
@@ -48,5 +47,6 @@ jobs:
       - run: echo $GCP_KEY > credentials.json
       - run: rm README.md
       - run: npm start
-      - run: git commit -am '[skip ci] updating recipes'
+      - run: git add .
+      - run: git commit -m '[skip ci] updating recipes'
       - run: git push origin HEAD
