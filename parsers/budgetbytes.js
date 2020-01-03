@@ -19,9 +19,18 @@ const parse = async (source, notes, rating) => {
     }).get()
     const instructions = $('.wprm-recipe-instruction-text').map((_, element) => $(element).text()).get();
     const title = $('h1').text();
+    const slug = util.createSlug(title);
+
+    const imageUrl = $('#content').find('img.alignnone')
+        .map((_, element) => $(element).attr('data-lazy-src'))
+        .get()[0];
+
+    const image = await util.downloadImage(slug, imageUrl)
+
     return {
         title,
-        slug: util.createSlug(title),
+        slug,
+        image,
         rating,
         notes: [notes],
         source: source,
