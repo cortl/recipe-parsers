@@ -5,11 +5,9 @@
         "anything additional people should know about this recipe"
     ],
     "source": "source of the recipe, if possible",
+    "image": "file name, if applicable",
     "ingredients": [
-        {
-            "quantity": "(number) Cups/Oz/g/Tbsp/Tsp",
-            "name": "Slice/grated/etc food"
-        }
+        "1x Chicken breast"
     ],
     "instructions": [
         "Assembly instructions"
