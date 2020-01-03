@@ -9,13 +9,13 @@ const parse = async (source, notes, rating) => {
 
     const ingredients = $('.wprm-recipe-ingredient').map((_, element) => {
         const select = cheerio.load(cheerio.html($(element)));
+
         const name = select('.wprm-recipe-ingredient-name').text();
         const unit = select('.wprm-recipe-ingredient-unit').text();
         const amount = select('.wprm-recipe-ingredient-amount').text();
-        return {
-            quantity: Boolean(unit) ? `${amount} ${unit}` : `${amount}`,
-            name
-        }
+        const measurement = Boolean(unit) ? `${amount} ${unit}` : `${amount}`;
+
+        return `${measurement} ${name}`
     }).get()
     const instructions = $('.wprm-recipe-instruction-text').map((_, element) => $(element).text()).get();
     const title = $('h1').text();
