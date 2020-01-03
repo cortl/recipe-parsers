@@ -21,7 +21,7 @@ const parse = async (source, notes, rating) => {
     const title = $('h1').text();
     const slug = util.createSlug(title);
 
-    const imageUrl = $('#content').find('img.alignnone')
+    const imageUrl = $('#content').find('img')
         .map((_, element) => $(element).attr('data-lazy-src'))
         .get()[0];
 
