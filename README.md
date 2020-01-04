@@ -6,6 +6,7 @@
     - [Butter Chicken](recipes/butter-chicken.json)
     - [Steak Kabobs](recipes/steak-kabobs.json)
     - [Garlic Butter Steak and Potatoes Skillet](recipes/garlic-butter-steak-and-potatoes-skillet.json)
+    - [Homemade Pita Bread](recipes/json)
     - [Pork Gyoza (Potstickers)](recipes/pork-gyoza-potstickers.json)
     - [Pressure Cooker American Beef Stew Recipe](recipes/pressure-cooker-american-beef-stew-recipe.json)
     - [Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey With Gravy Recipe](recipes/crispskinned-spatchcocked-butterflied-roast-turkey-with-gravy-recipe.json)
