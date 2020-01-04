@@ -2,7 +2,9 @@
     "title": "Creamy Tuscan Garlic Chicken",
     "rating": 6,
     "slug": "creamy-tuscan-garlic-chicken",
-    "notes": [],
+    "notes": [
+        "serves well on top of pasta"
+    ],
     "source": "https://therecipecritic.com/2016/05/creamy-tuscan-garlic-chicken",
     "image": "creamy-tuscan-garlic-chicken.jpg",
     "ingredients": [
