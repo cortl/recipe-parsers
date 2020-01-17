@@ -40,7 +40,7 @@
     - [Easy Sesame Chicken](recipes/easy-sesame-chicken.json)
     - [Beef Kofta Meatballs with Roasted Vegetables](recipes/beef-kofta-meatballs-with-roasted-vegetables.json)
     - [Will It Skillet? Mac and Cheese](recipes/will-it-skillet-mac-and-cheese.json)
-    - [Glazed Chicken Meal PrepGlazed Chicken Meal Prep](recipes/glazed-chicken-meal-prepglazed-chicken-meal-prep.json)
+    - [Glazed Chicken Meal Prep](recipes/glazed-chicken-meal-prep.json)
     - [Garlic Herb Baked Chicken Breast](recipes/garlic-herb-baked-chicken-breast.json)
     - [Pico de Gallo](recipes/pico-de-gallo.json)
     - [Easy Oven Fajitas](recipes/easy-oven-fajitas.json)
