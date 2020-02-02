@@ -13,7 +13,7 @@ const downloadImage = async (slug, url) => {
     }).then(function (response) {
         response.data.pipe(fs.createWriteStream(`images/${imageName}`));
     });
-    return imageName
+    return `../images/${imageName}`
 };
 module.exports = {
     createSlug,

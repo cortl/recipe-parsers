@@ -6,7 +6,7 @@
         "A little bland, but a little bit goes a long way and should easy to use later"
     ],
     "source": "https://fitmencook.com/chili-sauce-recipe/",
-    "image": "orange-chili-sauce.jpg",
+    "image": "../images/orange-chili-sauce.jpg",
     "ingredients": [
         "juice from 3 oranges",
         "1/2 cup chili garlic sauce",

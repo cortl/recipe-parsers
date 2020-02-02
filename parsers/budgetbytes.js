@@ -29,7 +29,8 @@ const parse = async (source, notes, rating) => {
         console.log(`no image for ${title} from ${source}`);
     }
 
-    const image = imageUrl ? await util.downloadImage(slug, imageUrl)
+    const image = imageUrl
+        ? await util.downloadImage(slug, imageUrl)
         : "";
 
     return {

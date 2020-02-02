@@ -5,7 +5,7 @@
         "anything additional people should know about this recipe"
     ],
     "source": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
-    "image": "jalapeno-dijon-chicken.jpg",
+    "image": "../images/jalapeno-dijon-chicken.jpg",
     "slug": "jalapeno-dijon-chicken",
     "ingredients": [
         "3 pounds chicken thighs",

@@ -7,7 +7,7 @@
         "not going to re-write this one, there are better mac and cheese recipes"
     ],
     "source": "https://www.recipetineats.com/baked-mac-and-cheese/",
-    "image": "baked-mac-and-cheese.jpg",
+    "image": "../images/baked-mac-and-cheese.jpg",
     "ingredients": [],
     "instructions": []
 }

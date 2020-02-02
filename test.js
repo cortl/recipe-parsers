@@ -1,5 +1,6 @@
 const fs = require("fs");
 const assert = require('assert');
+const path = require('path');
 
 const items = fs.readdirSync('recipes');
 items.forEach(item => {
@@ -15,6 +16,7 @@ items.forEach(item => {
     assert.strictEqual(typeof(notes), 'object');
 
     if (image) {
-        assert(fs.existsSync(`images/${image}`));
+        const imagePath = path.normalize(`recipes/${image}`);
+        assert(fs.existsSync(imagePath));
     }
 });

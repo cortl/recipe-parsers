@@ -1,12 +1,12 @@
 {
-    "title": "Redit Beef Barbacoa",
+    "title": "Reddit Beef Barbacoa",
     "rating": 6,
     "slug": "reddit-beef-barbacoa",
     "notes": [
         "works great with pico"
     ],
     "source": "https://www.reddit.com/r/slowcooking/comments/88mpyr/i_made_slow_cooker_barbacoa_tastes_exactly_like/",
-    "image": "reddit-beef-barbacoa.jpg",
+    "image": "../images/reddit-beef-barbacoa.jpg",
     "ingredients": [
         "4 lbs beef brisket (or beef chuck roast will also work)",
         "2 Tbsp vegetable oil",

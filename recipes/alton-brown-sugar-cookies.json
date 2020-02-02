@@ -6,7 +6,7 @@
         "Less sugary than other recipes, pretty good"
     ],
     "source": "https://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe-1914697",
-    "image": "alton-brown-sugar-cookies.jpg",
+    "image": "../images/alton-brown-sugar-cookies.jpg",
     "ingredients": [
         "3 cups all-purpose flour",
         "3/4 teaspoon baking powder",

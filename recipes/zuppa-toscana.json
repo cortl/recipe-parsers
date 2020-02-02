@@ -3,7 +3,7 @@
     "rating": 8,
     "notes": [],
     "source": "https://www.myrecipes.com/recipe/zuppa-toscana",
-    "image": "zuppa-toscana-soup.jpg",
+    "image": "../images/zuppa-toscana-soup.jpg",
     "slug": "zuppa-toscana",
     "ingredients": [
         "1 pound Italian sausage (spicy)",
