@@ -52,5 +52,5 @@ jobs:
       - run: git commit -m 'updating recipes [skip ci]'
       - run: npm version patch -m "v%s [skip ci]"
       - run: git push --follow-tags origin HEAD
-      - run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/repo/.npmrc
+      - run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > /tmp/workspace/.npmrc
       - run: npm publish
