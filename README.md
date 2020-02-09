@@ -84,3 +84,4 @@
     - [One Pot Bacon Broccoli Mac and Cheese](recipes/one-pot-bacon-broccoli-mac-and-cheese.json)
     - [Homemade Taco Seasoning](recipes/homemade-taco-seasoning.json)
     - [Smoky Roasted Breakfast Potatoes](recipes/smoky-roasted-breakfast-potatoes.json)
+    - [How to Cook Bacon in the Oven](recipes/how-to-cook-bacon-in-the-oven.json)
