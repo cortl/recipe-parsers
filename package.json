@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cortl/cooking.git"
+    "url": "git+https://github.com/cortl/recipes.git"
   },
   "author": "Cortlan Bainbridge",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cortl/cooking/issues"
+    "url": "https://github.com/cortl/recipes/issues"
   },
   "files": [
     "images",
     "recipes"
   ],
-  "homepage": "https://github.com/cortl/cooking#readme",
+  "homepage": "https://github.com/cortl/recipes#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
