@@ -82,3 +82,4 @@
     - [Sweet Chili Chicken Stir Fry Bowls](recipes/sweet-chili-chicken-stir-fry-bowls.json)
     - [Oven Roasted Frozen Broccoli](recipes/oven-roasted-frozen-broccoli.json)
     - [One Pot Bacon Broccoli Mac and Cheese](recipes/one-pot-bacon-broccoli-mac-and-cheese.json)
+    - [Homemade Taco Seasoning](recipes/homemade-taco-seasoning.json)
