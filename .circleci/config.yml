@@ -49,5 +49,7 @@ jobs:
       - run: npm start
       - run: npm test
       - run: git add .
-      - run: git commit -m '[skip ci] updating recipes'
-      - run: git push origin HEAD
+      - run: npm version patch -m "v%s [skip ci]"
+      - run: git push --follow-tags origin HEAD
+      - run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/repo/.npmrc
+      - run: npm publish

@@ -1,7 +1,7 @@
 {
-  "name": "cooking",
+  "name": "recipes",
   "version": "1.0.0",
-  "description": "Web scraper for collecting recipes from websites",
+  "description": "Collection of recipes scraped from the web",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,6 +16,10 @@
   "bugs": {
     "url": "https://github.com/cortl/cooking/issues"
   },
+  "files": [
+    "images",
+    "recipes"
+  ],
   "homepage": "https://github.com/cortl/cooking#readme",
   "dependencies": {
     "axios": "^0.19.0",
