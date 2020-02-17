@@ -67,7 +67,7 @@
     - [One Pot Creamy Cajun Chicken Pasta](recipes/one-pot-creamy-cajun-chicken-pasta.json)
     - [Easy One Pot American Goulash](recipes/easy-one-pot-american-goulash.json)
     - [Sticky Ginger Soy Glazed Chicken Meal Prep](recipes/sticky-ginger-soy-glazed-chicken-meal-prep.json)
-    - [Louisiana Red Beans & Rice](recipes/louisiana-red-beans--rice.json)
+    - [Louisiana Style Red Beans and Rice](recipes/louisiana-style-red-beans-and-rice.json)
     - [Slow-Cooker Sticky Thai Meatballs Recipe](recipes/slowcooker-sticky-thai-meatballs-recipe.json)
     - [Garden Vegetable Turkey Loaf Meal Prep](recipes/garden-vegetable-turkey-loaf-meal-prep.json)
     - [King Ranch Chicken Casserole](recipes/king-ranch-chicken-casserole.json)
