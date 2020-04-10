@@ -67,7 +67,7 @@ const createRecipeFromSheet = auth =>
         auth
     }).spreadsheets.values.get({
         spreadsheetId: SHEET_ID,
-        range: 'Recipes!A2:D1000',
+        range: 'Recipes!A2:E1000',
     }).then(res => Promise.all(res.data.values.map(row => {
         console.log(...row);
         return {
