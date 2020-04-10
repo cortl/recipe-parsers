@@ -1,6 +1,6 @@
 const URL = require('url-parse');
-const {google} = require('googleapis');
-const {GoogleAuth} = require('google-auth-library');
+const { google } = require('googleapis');
+const { GoogleAuth } = require('google-auth-library');
 const fs = require('fs');
 
 const budgetbytes = require('./parsers/budgetbytes');
@@ -27,7 +27,7 @@ const getParser = (url) => {
     return parser;
 }
 
-const createRecipe = ({url, notes, rating}) => {
+const createRecipe = ({ url, notes, rating }) => {
     const parser = getParser(url)
     if (parser) {
         return parser(url, notes, rating)
@@ -68,16 +68,19 @@ const createRecipeFromSheet = auth =>
     }).spreadsheets.values.get({
         spreadsheetId: SHEET_ID,
         range: 'Recipes!A2:D1000',
-    }).then(res => Promise.all(res.data.values.map(row => ({
-        title: row[0],
-        rating: parseInt(row[1], 10),
-        notes: row[2],
-        url: row[3],
-        skip: row[4]
-    }))
-        .filter(({rating}) => Boolean(rating))
-        .filter(({url}) => Boolean(url))
-        .filter(({skip}) => Boolean(skip))
+    }).then(res => Promise.all(res.data.values.map(row => {
+        console.log(...row);
+        return {
+            title: row[0],
+            rating: parseInt(row[1], 10),
+            notes: row[2],
+            url: row[3],
+            skip: row[4]
+        }
+    })
+        .filter(({ rating }) => Boolean(rating))
+        .filter(({ url }) => Boolean(url))
+        .filter(({ skip }) => skip !== 'TRUE')
         .map(recipe => {
             console.log(`Found ${recipe.title} in spreadsheet`)
             return recipe;
@@ -85,7 +88,7 @@ const createRecipeFromSheet = auth =>
         .map(createRecipe)));
 
 const updateMarkdown = recipes => {
-    const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
+    const toMarkdownLink = ({ title, slug }) => `    - [${title}](recipes/${slug}.json)`;
     const template = fs.readFileSync('TEMPLATE.md');
     const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
     fs.writeFileSync('README.md', write);
