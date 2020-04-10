@@ -72,10 +72,12 @@ const createRecipeFromSheet = auth =>
         title: row[0],
         rating: parseInt(row[1], 10),
         notes: row[2],
-        url: row[3]
+        url: row[3],
+        skip: row[4]
     }))
-        .filter(recipe => Boolean(recipe.rating))
-        .filter(recipe => Boolean(recipe.url))
+        .filter(({rating}) => Boolean(rating))
+        .filter(({url}) => Boolean(url)))
+        .filter(({skip}) => Boolean(skip))
         .map(recipe => {
             console.log(`Found ${recipe.title} in spreadsheet`)
             return recipe;
