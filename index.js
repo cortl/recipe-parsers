@@ -76,13 +76,13 @@ const createRecipeFromSheet = auth =>
         skip: row[4]
     }))
         .filter(({rating}) => Boolean(rating))
-        .filter(({url}) => Boolean(url)))
-        .filter(({skip}) => Boolean(skip))
+        .filter(({url}) => Boolean(url))
+        .filter(({skip}) => Boolean(skip)))
         .map(recipe => {
             console.log(`Found ${recipe.title} in spreadsheet`)
             return recipe;
         })
-        .map(createRecipe)));
+        .map(createRecipe));
 
 const updateMarkdown = recipes => {
     const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
