@@ -43,7 +43,6 @@
     - [Blueberry-Lemon Scones Recipe](recipes/blueberrylemon-scones-recipe.json)
     - [Sweet and Spicy Glazed Chicken Thighs](recipes/sweet-and-spicy-glazed-chicken-thighs.json)
     - [Easy Oven Baked Fish with Tomatoes](recipes/easy-oven-baked-fish-with-tomatoes.json)
-    - [Beef Kofta Meatballs with Roasted Vegetables](recipes/beef-kofta-meatballs-with-roasted-vegetables.json)
     - [One Pot Creamy Pesto Chicken Pasta](recipes/one-pot-creamy-pesto-chicken-pasta.json)
     - [Balsamic Chicken and Mushrooms](recipes/balsamic-chicken-and-mushrooms.json)
     - [Secret Ingredient Tomato Soup](recipes/secret-ingredient-tomato-soup.json)
