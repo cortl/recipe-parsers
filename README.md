@@ -84,3 +84,4 @@
     - [Cheddar Cheeseburger Meatloaf](recipes/cheddar-cheeseburger-meatloaf.json)
     - [Fluffy Garlic Herb Mashed Potatoes](recipes/fluffy-garlic-herb-mashed-potatoes.json)
     - [Smoky Roasted Sausage and Vegetables](recipes/smoky-roasted-sausage-and-vegetables.json)
+    - [Pasta With Vodka Sauce Recipe](recipes/pasta-with-vodka-sauce-recipe.json)
