@@ -85,3 +85,4 @@
     - [Fluffy Garlic Herb Mashed Potatoes](recipes/fluffy-garlic-herb-mashed-potatoes.json)
     - [Smoky Roasted Sausage and Vegetables](recipes/smoky-roasted-sausage-and-vegetables.json)
     - [Pasta With Vodka Sauce Recipe](recipes/pasta-with-vodka-sauce-recipe.json)
+    - [Classic Baked Ziti](recipes/classic-baked-ziti.json)
