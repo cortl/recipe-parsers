@@ -86,3 +86,4 @@
     - [Smoky Roasted Sausage and Vegetables](recipes/smoky-roasted-sausage-and-vegetables.json)
     - [Pasta With Vodka Sauce Recipe](recipes/pasta-with-vodka-sauce-recipe.json)
     - [Classic Baked Ziti](recipes/classic-baked-ziti.json)
+    - [Smoky White Bean Shakshuka](recipes/smoky-white-bean-shakshuka.json)
