@@ -57,6 +57,8 @@ jobs:
     parallelism: 1
     working_directory: /tmp/workspace
     steps:
+      - checkout
+      - setup-git
       - run: npm version patch -m "v%s [skip ci]"
       - run: git push --follow-tags origin HEAD
       - run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > /tmp/workspace/.npmrc
