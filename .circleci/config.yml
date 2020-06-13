@@ -14,7 +14,7 @@ workflows:
   version: 2
   commit:
     jobs:
-      - update
+      - publish
   nightly:
     triggers:
       - schedule:
@@ -25,6 +25,7 @@ workflows:
                 - master
     jobs:
       - update
+      - publish
 
 jobs:
   update:
@@ -50,6 +51,12 @@ jobs:
       - run: npm test
       - run: git add .
       - run: git commit -m 'updating recipes [skip ci]'
+  publish:
+    docker:
+      - image: circleci/node:lts
+    parallelism: 1
+    working_directory: /tmp/workspace
+    steps:
       - run: npm version patch -m "v%s [skip ci]"
       - run: git push --follow-tags origin HEAD
       - run: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > /tmp/workspace/.npmrc
