@@ -5,10 +5,17 @@
     "notes": [
         "anything additional people should know about this recipe"
     ],
+    "createdDate": "01/01/2020",
     "source": "source of the recipe, if possible",
     "image": "file name, if applicable",
     "ingredients": [
-        "1x Chicken breast"
+        "1x Chicken breast",
+        {
+            "category": "Sauce",
+            "items": [
+                "1Tbsp Soy Sauce"
+            ]
+        }
     ],
     "instructions": [
         "Assembly instructions"
