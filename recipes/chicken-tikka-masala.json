@@ -6,7 +6,7 @@
     "don't use salt"
   ],
   "source": "http://allrecipes.com/recipe/45736/chicken-tikka-masala/",
-  "images": "../images/chicken-tikka-masala.jpg",
+  "image": "../images/chicken-tikka-masala.jpg",
   "ingredients": [
     "1 cup yogurt",
     "1 tablespoon lemon juice",

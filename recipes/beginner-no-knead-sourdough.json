@@ -1,0 +1,55 @@
+{
+    "title": "No Knead Sourdough Bread",
+    "rating": 9,
+    "slug": "no-knead-sourdough-bread",
+    "notes": [
+        "Be sure to read the instructions once or twice through first + watch the full video"
+    ],
+    "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
+    "image": "../images/no-knead-sourdough-bread.jpg",
+    "ingredients": [
+        {
+            "category": "Levain",
+            "items": [
+                "45g mature starter",
+                "45g unbleached all purpose flour",
+                "45g stone ground whole wheat flour",
+                "90g filtered water at room temperature"
+            ]
+        },
+        {
+            "category": "Dough",
+            "items": [
+                "273g unbleached bread flour",
+                "500g unbleached all purpose flour",
+                "175g stone ground whole wheat",
+                "660g filtered water @ 90-95°F",
+                "Levain (~180g)",
+                "18g fine sea salt"
+            ]
+        },
+        "Rice flour"
+    ],
+    "instructions": [
+        "9AM: Make your levain using the discard from your sourdough starter and put into an oven with just the light on to keep it at ~78°F for 6 hours",
+        "2:25PM: 30 minutes before your 6 hours is up on your levain, mix your autolyse which is the bread flour, all purpose flour and the whole wheat flour.  Mix with your hand",
+        "2:25PM: add the 660g of water and hydrate all the flour.  Cover your autolyse with plastic wrap or damp towel and put it in your oven next to your levain",
+        "3:00PM: Sprinkle salt on autolyse, then spread levain on top of the autolyse.  Wet your hand and poke the levain down into the autolyse.  Then pinch the dough to full incorporate for about 3 minutes",
+        "Optionally: use your wet hand to do the scoop/slap (rhubaud method) the dough for 3 minutes (mixes a little more).",
+        "Place the dough into the oven for 15 minutes",
+        "3:15PM: Fold the dough from the edge to the other edge (do NOT tear the dough)",
+        "3:30PM: Fold the dough again, same as the previous step",
+        "4:00PM: Do one last fold",
+        "7:00PM: paint a line with flour in the middle of the dough and cut with a bench scraper",
+        "Using a floured bench scraper, push them into the shape of a ball by cutting underneath and twisting it round",
+        "Let the dough rest underneath a bowl for 15 minutes",
+        "Take the bowl off and let the dough rest for 10 more minutes",
+        "Flour a banneton / mixing bowl lined with a kitchen towel dusted with rice flour.",
+        "Flour the top of the dough and flip it upside down.  Grab the bottom of the dough, stretch it to half of the dough, do the same with the left and right sides.  Finish by stretching the top over the full length",
+        "Flip the dough seam side down and use friction and your pinkies to round the dough into a tight ball.  Place seam side up into the banneton and let rest covered for 14-15 hours in the fridge",
+        "9:00AM: Place your cast iron dutch oven into the oven and pre-heat to 500°F for at least 1 hour",
+        "10:00AM: Take your loaves out of the fridge, score your loaves and dust the lid of the dutch oven with flour (to prevent sticking)",
+        "Turn over the dough into the lid (seam side down) and put the dutch oven on top of the lid and put into the oven for 20 minutes",
+        "Reduce to 475°F, take the lid off, and bake for another 25-30 minutes"
+    ]
+}
