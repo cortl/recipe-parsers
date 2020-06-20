@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/2016/06/creamy-chicken-fajita-pasta/",
   "ingredients": [
-    "2 tsp chili powder*",
-    "1 tsp smoked paprika",
-    "1/4 tsp onion powder",
-    "1/4 tsp garlic powder",
-    "1/4 tsp cumin",
-    "1/8 tsp cayenne",
-    "1/2 tsp sugar",
-    "1/2 tsp salt",
-    "1 Tbsp cooking oil",
-    "1 boneless skinless chicken breast (about 0.75 lb.)",
-    "1 bell pepper",
-    "1 yellow onion",
-    "15 oz can fire roasted diced tomatoes",
-    "4 oz cream cheese",
-    "8 oz pasta (any shape)",
-    "2 green onions, sliced"
+    {
+      "category": "All",
+      "items": [
+        "2 tsp chili powder*",
+        "1 tsp smoked paprika",
+        "1/4 tsp onion powder",
+        "1/4 tsp garlic powder",
+        "1/4 tsp cumin",
+        "1/8 tsp cayenne",
+        "1/2 tsp sugar",
+        "1/2 tsp salt",
+        "1 Tbsp cooking oil",
+        "1 boneless skinless chicken breast (about 0.75 lb.)",
+        "1 bell pepper",
+        "1 yellow onion",
+        "15 oz can fire roasted diced tomatoes",
+        "4 oz cream cheese",
+        "8 oz pasta (any shape)",
+        "2 green onions, sliced"
+      ]
+    }
   ],
   "instructions": [
     "Combine the spices for the fajita spice mix in a bowl and set aside. Dice the onion and bell pepper, and cut the chicken breast into 1/2-inch cubes.",

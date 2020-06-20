@@ -1,11 +1,14 @@
 {
-    "title": "Spiced Creamy Chicken Pilaf",
-    "rating": 6,
-    "slug": "spiced-creamy-chicken-pilaf",
-    "notes": [],
-    "source": "https://fitmencook.com/healthy-chicken-recipes/",
-    "image": "../images/spiced-creamy-chicken-pilaf.jpg",
-    "ingredients": [
+  "title": "Spiced Creamy Chicken Pilaf",
+  "rating": 6,
+  "slug": "spiced-creamy-chicken-pilaf",
+  "notes": [],
+  "source": "https://fitmencook.com/healthy-chicken-recipes/",
+  "image": "../images/spiced-creamy-chicken-pilaf.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 1/2 lb raw chicken breast",
         "spray coconut oil",
         "1 tablespoon coconut oil, melted",
@@ -21,12 +24,14 @@
         "2 bay leaves",
         "1 cinnamon stick (or 1/2 teaspoon ground)",
         "season to taste with sea salt & pepper"
-    ],
-    "instructions": [
-        "Spray a pot with a little coconut oil, then toss in diced chicken breast just to lightly sear the outside edges. Cook for about 3 to 5 minutes, then remove the chicken – no worries if it’s not cooked.",
-        "Pour in coconut oil, red onion, garlic, cloves and fresh ginger or paste. Caramelize the onions until fragrant, about 3 minutes, then add uncooked brown basmati rice, turmeric and cumin.  Mix it so the uncooked rice is covered in spices and oil, then fold in the chicken breast.",
-        "Pour in chicken broth, and lite coconut milk, then bring it to a light simmer. Mix it up, then add a pinch of sea salt & pepper, along with bay leaves and a cinnamon stick.",
-        "Cover and cook for 20 or 25 minutes. When it’s almost ready, stir in chopped cilantro for added flavor, then cover and cook for the remaining time (all the liquid is absorbed).",
-        "And there you have it, creamy and brilliantly golden chicken pilaf. Enjoy with roasted or steamed veggies."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Spray a pot with a little coconut oil, then toss in diced chicken breast just to lightly sear the outside edges. Cook for about 3 to 5 minutes, then remove the chicken – no worries if it’s not cooked.",
+    "Pour in coconut oil, red onion, garlic, cloves and fresh ginger or paste. Caramelize the onions until fragrant, about 3 minutes, then add uncooked brown basmati rice, turmeric and cumin.  Mix it so the uncooked rice is covered in spices and oil, then fold in the chicken breast.",
+    "Pour in chicken broth, and lite coconut milk, then bring it to a light simmer. Mix it up, then add a pinch of sea salt & pepper, along with bay leaves and a cinnamon stick.",
+    "Cover and cook for 20 or 25 minutes. When it’s almost ready, stir in chopped cilantro for added flavor, then cover and cook for the remaining time (all the liquid is absorbed).",
+    "And there you have it, creamy and brilliantly golden chicken pilaf. Enjoy with roasted or steamed veggies."
+  ]
 }

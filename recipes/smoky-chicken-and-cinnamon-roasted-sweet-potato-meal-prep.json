@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep/",
   "ingredients": [
-    "2 sweet potatoes (about 3/4 lb. each)",
-    "1 Tbsp cooking oil",
-    "1/2 tsp cinnamon",
-    "pinch cayenne pepper",
-    "pinch salt",
-    "1 tsp smoked paprika",
-    "1 tsp brown sugar",
-    "1/4 tsp garlic powder",
-    "1/8 tsp cayenne pepper",
-    "1/4 tsp salt",
-    " freshly ground pepper",
-    "2 boneless, skinless chicken breasts (about 2/3 lb. each)",
-    "1 Tbsp cooking oil",
-    "1 lb. green beans",
-    "1 Tbsp butter",
-    "pinch salt and pepper"
+    {
+      "category": "All",
+      "items": [
+        "2 sweet potatoes (about 3/4 lb. each)",
+        "1 Tbsp cooking oil",
+        "1/2 tsp cinnamon",
+        "pinch cayenne pepper",
+        "pinch salt",
+        "1 tsp smoked paprika",
+        "1 tsp brown sugar",
+        "1/4 tsp garlic powder",
+        "1/8 tsp cayenne pepper",
+        "1/4 tsp salt",
+        " freshly ground pepper",
+        "2 boneless, skinless chicken breasts (about 2/3 lb. each)",
+        "1 Tbsp cooking oil",
+        "1 lb. green beans",
+        "1 Tbsp butter",
+        "pinch salt and pepper"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Wash the sweet potatoes, pat them dry, and prick their skins a few times with a fork. Slice the sweet potatoes in half lengthwise, then place them on a baking sheet. Drizzle the cooking oil over the potatoes, then use your hands to smear the oil over their entire surface (skin and cut sides), leaving a liberal amount of oil on the baking sheet under the potatoes to keep them from sticking.",

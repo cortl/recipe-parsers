@@ -7,19 +7,24 @@
   ],
   "source": "https://www.allrecipes.com/recipe/13062/cheeseburger-soup-i/",
   "ingredients": [
-    "1/2 pound ground beef",
-    "3/4 cup chopped onion",
-    "3/4 cup shredded carrots",
-    "3/4 cup chopped celery",
-    "1 teaspoon dried basil",
-    "1 teaspoon dried parsley",
-    "4 tablespoons butter",
-    "3 cups chicken broth",
-    "4 cups cubed potatoes",
-    "1/4 cup all-purpose flour",
-    "2 cups cubed Cheddar cheese",
-    "1 1/2 cups milk",
-    "1/4 cup sour cream"
+    {
+      "category": "All",
+      "items": [
+        "1/2 pound ground beef",
+        "3/4 cup chopped onion",
+        "3/4 cup shredded carrots",
+        "3/4 cup chopped celery",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried parsley",
+        "4 tablespoons butter",
+        "3 cups chicken broth",
+        "4 cups cubed potatoes",
+        "1/4 cup all-purpose flour",
+        "2 cups cubed Cheddar cheese",
+        "1 1/2 cups milk",
+        "1/4 cup sour cream"
+      ]
+    }
   ],
   "instructions": [
     "In a large pot, melt 1 tablespoon butter or margarine over medium heat: cook and stir vegetables and beef , until beef is brown.                            ",

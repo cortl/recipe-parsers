@@ -1,11 +1,14 @@
 {
-    "title": "Sesame Beef",
-    "rating": 4,
-    "slug": "sesame-beef",
-    "notes": [],
-    "source": "https://chefsavvy.com/sesame-beef/",
-    "image": "../images/sesame-beef.jpg",
-    "ingredients": [
+  "title": "Sesame Beef",
+  "rating": 4,
+  "slug": "sesame-beef",
+  "notes": [],
+  "source": "https://chefsavvy.com/sesame-beef/",
+  "image": "../images/sesame-beef.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 pound flank steak sliced against the grain into strips",
         "2 tablespoons dark soy sauce",
         "2 tablespoons low sodium soy sauce",
@@ -18,19 +21,21 @@
         "1 tablespoon water",
         "green onions sliced",
         "sesame seeds for garnish"
-    ],
-    "instructions": [
-        "*NOTE: Prep time does not include marinating time*",
-        "Add both soy sauces, brown sugar and water to a medium bowl and stir to combine.",
-        "Pour half of the sauce into another bowl and set aside. (We will be using this when we cook the beef)",
-        "Add steak to the other 1/2 of the sauce and marinade for at least 30 minutes or overnight.",
-        "When you are ready to cook add sesame oil to a large skillet or wok.",
-        "Add in garlic and cook for 1 minute.",
-        "Remove steak from marinade and saute for about 1-2 minutes on each side. (You want the pan to be very hot so the steak cooks quickly and browns.",
-        "Add red bell pepper and saute for 1 minute.",
-        "Add in the reserved sauce and bring to a simmer.",
-        "In a small bowl combine cornstarch and water.",
-        "Slowly add cornstarch mixture to pan. Continuously stir until sauce is thickened, about 1 minute.",
-        "Serve immediately with green onions and sesame seeds for garnish if desired."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "*NOTE: Prep time does not include marinating time*",
+    "Add both soy sauces, brown sugar and water to a medium bowl and stir to combine.",
+    "Pour half of the sauce into another bowl and set aside. (We will be using this when we cook the beef)",
+    "Add steak to the other 1/2 of the sauce and marinade for at least 30 minutes or overnight.",
+    "When you are ready to cook add sesame oil to a large skillet or wok.",
+    "Add in garlic and cook for 1 minute.",
+    "Remove steak from marinade and saute for about 1-2 minutes on each side. (You want the pan to be very hot so the steak cooks quickly and browns.",
+    "Add red bell pepper and saute for 1 minute.",
+    "Add in the reserved sauce and bring to a simmer.",
+    "In a small bowl combine cornstarch and water.",
+    "Slowly add cornstarch mixture to pan. Continuously stir until sauce is thickened, about 1 minute.",
+    "Serve immediately with green onions and sesame seeds for garnish if desired."
+  ]
 }

@@ -7,6 +7,11 @@
     "Decent, lots of vegetables to meat ratio.  Also takes way longer to cook because of vegetable water content"
   ],
   "source": "https://www.budgetbytes.com/garden-vegetable-turkey-loaf-meal-prep/",
-  "ingredients": [],
+  "ingredients": [
+    {
+      "category": "All",
+      "items": []
+    }
+  ],
   "instructions": []
 }

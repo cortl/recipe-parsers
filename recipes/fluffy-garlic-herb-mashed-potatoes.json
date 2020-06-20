@@ -8,17 +8,22 @@
   ],
   "source": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
   "ingredients": [
-    "2.5 lbs. russet potatoes",
-    "1/2 tsp salt",
-    "4 Tbsp butter",
-    "1/2 cup whole milk",
-    "1 tsp dried parsley",
-    "1/2 tsp dried oregano",
-    "1/2  tsp dried basil",
-    "1/4 tsp garlic powder",
-    "1/4 tsp onion powder",
-    "1/4 tsp salt",
-    " freshly cracked pepper"
+    {
+      "category": "All",
+      "items": [
+        "2.5 lbs. russet potatoes",
+        "1/2 tsp salt",
+        "4 Tbsp butter",
+        "1/2 cup whole milk",
+        "1 tsp dried parsley",
+        "1/2 tsp dried oregano",
+        "1/2  tsp dried basil",
+        "1/4 tsp garlic powder",
+        "1/4 tsp onion powder",
+        "1/4 tsp salt",
+        " freshly cracked pepper"
+      ]
+    }
   ],
   "instructions": [
     "Peel and cut the russet potatoes into 1-inch cubes. Place the cubed potatoes in a colander and rinse well with cool water.",

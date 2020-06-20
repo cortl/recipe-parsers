@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/mini-garden-turkey-loaves/",
   "ingredients": [
-    "1 Tbsp olive oil",
-    "1 small onion",
-    "1 clove garlic",
-    "2 medium carrots",
-    "1 small zucchini",
-    "8 oz button mushrooms",
-    "3/4 tsp salt",
-    " Freshly cracked pepper",
-    "1 Tbsp Worcestershire sauce",
-    "1/4 cup ketchup",
-    "1 large egg",
-    "3/4 cup plain breadcrumbs",
-    "19 oz package ground turkey 93% lean*",
-    "1/2 cup ketchup",
-    "2 Tbsp brown sugar",
-    "2 Tbsp apple cider vinegar"
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp olive oil",
+        "1 small onion",
+        "1 clove garlic",
+        "2 medium carrots",
+        "1 small zucchini",
+        "8 oz button mushrooms",
+        "3/4 tsp salt",
+        " Freshly cracked pepper",
+        "1 Tbsp Worcestershire sauce",
+        "1/4 cup ketchup",
+        "1 large egg",
+        "3/4 cup plain breadcrumbs",
+        "19 oz package ground turkey 93% lean*",
+        "1/2 cup ketchup",
+        "2 Tbsp brown sugar",
+        "2 Tbsp apple cider vinegar"
+      ]
+    }
   ],
   "instructions": [
     "Dice the onion and mince the garlic. Sauté both in a large skillet with 1 Tbsp olive oil over medium heat until soft and transparent. Peel the carrots, then use a large holed cheese grater to shred them into the skillet. Cut the ends off the zucchini and shred it into the skillet as well. Continue to sauté over medium heat.",

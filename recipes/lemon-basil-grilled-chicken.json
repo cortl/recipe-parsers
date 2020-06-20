@@ -8,13 +8,18 @@
   ],
   "source": "https://www.allrecipes.com/recipe/236708/lemon-basil-grilled-chicken/",
   "ingredients": [
-    "6 (4 ounce) boneless, skinless chicken breasts, trimmed of excess fat",
-    "1 teaspoon freshly grated lemon peel",
-    "¼ cup fresh lemon juice",
-    "2 teaspoons minced fresh garlic",
-    "¼ teaspoon salt",
-    "2 tablespoons Corn Oil",
-    "½ cup loosely packed fresh basil leaves"
+    {
+      "category": "All",
+      "items": [
+        "6 (4 ounce) boneless, skinless chicken breasts, trimmed of excess fat",
+        "1 teaspoon freshly grated lemon peel",
+        "¼ cup fresh lemon juice",
+        "2 teaspoons minced fresh garlic",
+        "¼ teaspoon salt",
+        "2 tablespoons Corn Oil",
+        "½ cup loosely packed fresh basil leaves"
+      ]
+    }
   ],
   "instructions": [
     "Lightly pound chicken to an even 3/4-inch thickness. Pat chicken dry using paper towels and place in a large resealable plastic bag.",

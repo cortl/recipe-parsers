@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/2013/02/oven-fajitas/",
   "ingredients": [
-    "1 Tbsp chili powder",
-    "1/2 Tbsp paprika",
-    "1/2 tsp onion powder",
-    "1/4 tsp garlic powder",
-    "1/4 tsp cumin",
-    "1/8 tsp cayenne pepper",
-    "1 tsp sugar",
-    "1/2 tsp salt",
-    "2 small or 1 large onion",
-    "3 bell peppers, any color",
-    "1 lb. chicken breast*",
-    "2 Tbsp vegetable oil",
-    "1 medium lime",
-    "8 6-inch tortillas",
-    "1/2 cup sour cream (optional)",
-    "1/4 bunch cilantro (optional)"
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp chili powder",
+        "1/2 Tbsp paprika",
+        "1/2 tsp onion powder",
+        "1/4 tsp garlic powder",
+        "1/4 tsp cumin",
+        "1/8 tsp cayenne pepper",
+        "1 tsp sugar",
+        "1/2 tsp salt",
+        "2 small or 1 large onion",
+        "3 bell peppers, any color",
+        "1 lb. chicken breast*",
+        "2 Tbsp vegetable oil",
+        "1 medium lime",
+        "8 6-inch tortillas",
+        "1/2 cup sour cream (optional)",
+        "1/4 bunch cilantro (optional)"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400 degrees. Mix all of the spices for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, and salt).",

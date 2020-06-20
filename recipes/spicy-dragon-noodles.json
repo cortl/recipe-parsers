@@ -8,15 +8,20 @@
   ],
   "source": "https://www.budgetbytes.com/2012/08/spicy-noodles/",
   "ingredients": [
-    "4 oz. lo mein noodles ",
-    "2 Tbsp butter ",
-    "1/4 tsp crushed red pepper ",
-    "1 large egg",
-    "1 Tbsp brown sugar",
-    "1 Tbsp soy sauce ",
-    "1 Tbsp sriracha rooster sauce",
-    "1 handful fresh cilantro ",
-    "1 sliced green onion "
+    {
+      "category": "All",
+      "items": [
+        "4 oz. lo mein noodles ",
+        "2 Tbsp butter ",
+        "1/4 tsp crushed red pepper ",
+        "1 large egg",
+        "1 Tbsp brown sugar",
+        "1 Tbsp soy sauce ",
+        "1 Tbsp sriracha rooster sauce",
+        "1 handful fresh cilantro ",
+        "1 sliced green onion "
+      ]
+    }
   ],
   "instructions": [
     "Begin to boil water for the noodles. Once the water reaches a full boil, add the noodles and cook according to the package directions (boil for 5-7 minutes).",

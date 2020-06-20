@@ -8,13 +8,18 @@
   ],
   "source": "https://www.budgetbytes.com/taco-seasoning/",
   "ingredients": [
-    "1 Tbsp chili powder ",
-    "1 tsp smoked paprika ",
-    "1 tsp cumin ",
-    "1/4 tsp cayenne pepper",
-    "1/2 tsp oregano ",
-    "1/2 tsp salt ",
-    "1/2 tsp 15 cranks fresh black pepper "
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp chili powder ",
+        "1 tsp smoked paprika ",
+        "1 tsp cumin ",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp oregano ",
+        "1/2 tsp salt ",
+        "1/2 tsp 15 cranks fresh black pepper "
+      ]
+    }
   ],
   "instructions": [
     "Combine everything in a small bowl and stir until evenly mixed. Use immediately, or store in an air-tight container, away from heat and sunlight, until ready to use."

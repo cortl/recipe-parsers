@@ -8,14 +8,19 @@
   ],
   "source": "https://www.budgetbytes.com/naan/",
   "ingredients": [
-    "2 tsp dry active yeast ",
-    "1 tsp sugar ",
-    "1/2 cup water ",
-    "2 1/2-3 cups flour, divided",
-    "1/2 tsp salt ",
-    "1/4 cup olive oil ",
-    "1/3 cup plain yogurt ",
-    "1 large egg "
+    {
+      "category": "All",
+      "items": [
+        "2 tsp dry active yeast ",
+        "1 tsp sugar ",
+        "1/2 cup water ",
+        "2 1/2-3 cups flour, divided",
+        "1/2 tsp salt ",
+        "1/4 cup olive oil ",
+        "1/3 cup plain yogurt ",
+        "1 large egg "
+      ]
+    }
   ],
   "instructions": [
     "In a small bowl, combine the yeast, sugar and water. Stir to dissolve then let sit for a few minutes or until it is frothy on top. Once frothy, whisk in the oil, yogurt, and egg until evenly combined.",

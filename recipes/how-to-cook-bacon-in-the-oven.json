@@ -8,7 +8,12 @@
   ],
   "source": "https://www.budgetbytes.com/how-to-cook-bacon-in-the-oven/",
   "ingredients": [
-    "12 oz. thick cut bacon"
+    {
+      "category": "All",
+      "items": [
+        "12 oz. thick cut bacon"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Prepare a large baking sheet by lining it with aluminum foil and then placing one or two wire racks on top to hold the bacon above the surface of the baking sheet.",

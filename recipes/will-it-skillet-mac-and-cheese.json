@@ -8,13 +8,18 @@
   ],
   "source": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
   "ingredients": [
-    "1/2 tsp salt ",
-    "2 cups elbow macaroni* ",
-    "2 Tbsp butter ",
-    "3/4 cup evaporated milk ",
-    "1/2 tsp Dijon mustard ",
-    " Pinch of cayenne pepper ",
-    "1.5 cups shredded sharp cheddar "
+    {
+      "category": "All",
+      "items": [
+        "1/2 tsp salt ",
+        "2 cups elbow macaroni* ",
+        "2 Tbsp butter ",
+        "3/4 cup evaporated milk ",
+        "1/2 tsp Dijon mustard ",
+        " Pinch of cayenne pepper ",
+        "1.5 cups shredded sharp cheddar "
+      ]
+    }
   ],
   "instructions": [
     "Fill the skillet two-thirds full of water, add the salt, and bring to a boil over medium-high heat.",

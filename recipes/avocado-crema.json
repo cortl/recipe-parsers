@@ -1,20 +1,25 @@
 {
-    "title": "Avocado Crema",
-    "rating": 8,
-    "slug": "avocado-crema",
-    "notes": [],
-    "source": "https://fitmencook.com/",
-    "image": "../images/avocado-crema.jpg",
-    "ingredients": [
+  "title": "Avocado Crema",
+  "rating": 8,
+  "slug": "avocado-crema",
+  "notes": [],
+  "source": "https://fitmencook.com/",
+  "image": "../images/avocado-crema.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 ripe avocado",
         "3/4 – 1 cup 2% Greek yogurt",
         "1 teaspoon cumin",
         "fresh finely chopped cilantro to taste",
         "juice from 1 lime",
         "sea salt & pepper to taste"
-    ],
-    "instructions": [
-        "Mash the avocado fully",
-        "Mix in everything else"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Mash the avocado fully",
+    "Mix in everything else"
+  ]
 }

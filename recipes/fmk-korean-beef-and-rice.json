@@ -1,13 +1,16 @@
 {
-    "title": "Korean Beef and Rice",
-    "rating": 7,
-    "slug": "fmk-korean-beef-and-rice",
-    "notes": [
-        "Healthier than the other recipe on this site"
-    ],
-    "source": "https://fitmencook.com/korean-beef-and-rice/",
-    "image": "../images/fmk-korean-ground-beef.jpg",
-    "ingredients": [
+  "title": "Korean Beef and Rice",
+  "rating": 7,
+  "slug": "fmk-korean-beef-and-rice",
+  "notes": [
+    "Healthier than the other recipe on this site"
+  ],
+  "source": "https://fitmencook.com/korean-beef-and-rice/",
+  "image": "../images/fmk-korean-ground-beef.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "4 cups sugar snap peas",
         "1 lb 90% lean ground beef",
         "1 tablespoon garlic",
@@ -21,12 +24,14 @@
         "2 cups cooked brown rice",
         "green onions",
         "sesame seeds"
-    ],
-    "instructions": [
-        "Mix together the ingredients for the sauce and set aside.  As an alternative to this sauce, you can just use Gochujang.",
-        "Set a skillet on HIGH heat.  Once hot, lightly spray with a little vegetable oil and add sugar snap peas.  Let the peas rest in the skillet for a minute – without stirring – in order to let them sear.  Then begin stirring the peas with a spatula.  Cook for 2 to 3 minutes, then remove from the skillet.",
-        "Reduce the heat to medium high heat, add a drop of oil, then add the beef.  Begin chopping up the meat in the skillet, then add garlic, onions and ginger.  Continue chopping and stirring the beef while folding in the onions, garlic and ginger.  Cook for 6 to 8 minutes.",
-        "When the beef is nearly finished, reduce the heat to low then pour in the sauce.  Stir and ensure all the beef is covered in the sauce.  Remove from the heat.",
-        "Garnish with sesame oil, green onion, sesame seeds and jalapeño (if desired)."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Mix together the ingredients for the sauce and set aside.  As an alternative to this sauce, you can just use Gochujang.",
+    "Set a skillet on HIGH heat.  Once hot, lightly spray with a little vegetable oil and add sugar snap peas.  Let the peas rest in the skillet for a minute – without stirring – in order to let them sear.  Then begin stirring the peas with a spatula.  Cook for 2 to 3 minutes, then remove from the skillet.",
+    "Reduce the heat to medium high heat, add a drop of oil, then add the beef.  Begin chopping up the meat in the skillet, then add garlic, onions and ginger.  Continue chopping and stirring the beef while folding in the onions, garlic and ginger.  Cook for 6 to 8 minutes.",
+    "When the beef is nearly finished, reduce the heat to low then pour in the sauce.  Stir and ensure all the beef is covered in the sauce.  Remove from the heat.",
+    "Garnish with sesame oil, green onion, sesame seeds and jalapeño (if desired)."
+  ]
 }

@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/goulash/",
   "ingredients": [
-    "1 Tbsp olive oil",
-    "1 medium onion ",
-    "4 cloves garlic ",
-    "2 bell peppers ",
-    "1 lb ground beef ",
-    "1/2 cup red wine*",
-    "1 28oz. can diced tomatoes ",
-    "1 15oz. can tomato sauce ",
-    "2 Tbsp soy sauce ",
-    "2 whole bay leaves (optional)",
-    "1/2 tsp oregano ",
-    "1/2 tsp basil ",
-    "1/4 tsp red pepper flakes ",
-    "1/2 cup water",
-    "2 cups elbow macaroni (about 1/2 lb.)",
-    " salt to taste"
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp olive oil",
+        "1 medium onion ",
+        "4 cloves garlic ",
+        "2 bell peppers ",
+        "1 lb ground beef ",
+        "1/2 cup red wine*",
+        "1 28oz. can diced tomatoes ",
+        "1 15oz. can tomato sauce ",
+        "2 Tbsp soy sauce ",
+        "2 whole bay leaves (optional)",
+        "1/2 tsp oregano ",
+        "1/2 tsp basil ",
+        "1/4 tsp red pepper flakes ",
+        "1/2 cup water",
+        "2 cups elbow macaroni (about 1/2 lb.)",
+        " salt to taste"
+      ]
+    }
   ],
   "instructions": [
     "Dice the onion and mince the garlic. Sauté both in a large soup pot with the olive oil over medium heat until the onions are translucent. While the onion and garlic are sautéing, dice the bell peppers, then add them to the pot and continue to sauté for about two minutes more.",

@@ -8,18 +8,23 @@
   ],
   "source": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
   "ingredients": [
-    "1/4 cup plain breadcrumbs",
-    "1 tsp smoked paprika",
-    "1/2  tsp garlic powder",
-    "3/4 tsp salt",
-    "1 large egg",
-    "1/2 cup minced onion",
-    "4 oz. sharp cheddar",
-    "1 lb. ground beef (85/15)",
-    "1/2 cup ketchup",
-    "1 Tbsp brown sugar",
-    "1 tsp yellow mustard",
-    "1 tsp Worcestershire sauce"
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup plain breadcrumbs",
+        "1 tsp smoked paprika",
+        "1/2  tsp garlic powder",
+        "3/4 tsp salt",
+        "1 large egg",
+        "1/2 cup minced onion",
+        "4 oz. sharp cheddar",
+        "1 lb. ground beef (85/15)",
+        "1/2 cup ketchup",
+        "1 Tbsp brown sugar",
+        "1 tsp yellow mustard",
+        "1 tsp Worcestershire sauce"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 350ºF. In a small bowl stir together the breadcrumbs, smoked paprika, garlic powder, and salt. In a separate small bowl, lightly whisk the egg.",

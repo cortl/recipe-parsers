@@ -8,19 +8,24 @@
   ],
   "source": "https://www.pressurecookingtoday.com/pressure-cooker-chicken-shawarma/",
   "ingredients": [
-    "1 lb. boneless, skinless chicken thighs, cut into large bite-size pieces",
-    "3 teaspoons extra-virgin olive oil, divided",
-    "2 teaspoons dried oregano",
-    "1 teaspoon ground cumin",
-    "1 teaspoon ground cinnamon",
-    "1 teaspoon ground coriander",
-    "1 teaspoon salt",
-    "1/2 teaspoon ground allspice",
-    "1/2 teaspoon cayenne",
-    "1 cup thinly slice onions",
-    "1/2 cup water",
-    "4 large lettuce leaves (butter lettuce if available)",
-    "1 cup prepared Tzatziki sauce"
+    {
+      "category": "All",
+      "items": [
+        "1 lb. boneless, skinless chicken thighs, cut into large bite-size pieces",
+        "3 teaspoons extra-virgin olive oil, divided",
+        "2 teaspoons dried oregano",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground coriander",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground allspice",
+        "1/2 teaspoon cayenne",
+        "1 cup thinly slice onions",
+        "1/2 cup water",
+        "4 large lettuce leaves (butter lettuce if available)",
+        "1 cup prepared Tzatziki sauce"
+      ]
+    }
   ],
   "instructions": [
     "Put the chicken in a zip-top bag and add 1 teaspoon of olive oil and the spices. Toss the bag so the chicken is evenly coated in the oil and spices.",

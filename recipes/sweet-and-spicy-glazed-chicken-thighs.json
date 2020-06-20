@@ -8,14 +8,19 @@
   ],
   "source": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
   "ingredients": [
-    "1/4 cup brown sugar",
-    "1/2 tsp cayenne pepper",
-    "1/2 tsp garlic powder",
-    "1/2 tsp paprika",
-    "1/2 tsp salt",
-    " freshly cracked pepper",
-    "1 Tbsp olive oil",
-    "1.5 lbs. boneless, skinless chicken thighs (4-5 pieces)"
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup brown sugar",
+        "1/2 tsp cayenne pepper",
+        "1/2 tsp garlic powder",
+        "1/2 tsp paprika",
+        "1/2 tsp salt",
+        " freshly cracked pepper",
+        "1 Tbsp olive oil",
+        "1.5 lbs. boneless, skinless chicken thighs (4-5 pieces)"
+      ]
+    }
   ],
   "instructions": [
     "In a small bowl, combine the brown sugar, cayenne pepper, garlic powder, paprika, salt, and some freshly cracked pepper (10-15 cranks of a pepper mill). ",

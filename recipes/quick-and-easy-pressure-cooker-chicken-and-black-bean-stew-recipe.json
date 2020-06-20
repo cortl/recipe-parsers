@@ -8,18 +8,23 @@
   ],
   "source": "https://www.seriouseats.com/recipes/2015/01/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe.html",
   "ingredients": [
-    "1 tablespoon vegetable oil",
-    "8 ounces smoked sausage, such as andouille or kielbasa, sliced into 1/4 inch disks",
-    "1 medium onion, diced (about 1 cup)",
-    "2 teaspoons ground cumin",
-    "2 (4-ounce) cans diced green chilies (preferably Hatch)",
-    "8 ounces dried black beans",
-    "12 stems cilantro, leaves roughly chopped, stems tied together with a piece of kitchen twine",
-    "4 chicken legs, divided into thighs and drumsticks (about 2 pounds)",
-    "1 quart homemade or store-bought low-sodium chicken stock",
-    "Kosher salt and freshly ground black pepper",
-    "Sour cream, for serving",
-    "Lime wedges, for serving"
+    {
+      "category": "All",
+      "items": [
+        "1 tablespoon vegetable oil",
+        "8 ounces smoked sausage, such as andouille or kielbasa, sliced into 1/4 inch disks",
+        "1 medium onion, diced (about 1 cup)",
+        "2 teaspoons ground cumin",
+        "2 (4-ounce) cans diced green chilies (preferably Hatch)",
+        "8 ounces dried black beans",
+        "12 stems cilantro, leaves roughly chopped, stems tied together with a piece of kitchen twine",
+        "4 chicken legs, divided into thighs and drumsticks (about 2 pounds)",
+        "1 quart homemade or store-bought low-sodium chicken stock",
+        "Kosher salt and freshly ground black pepper",
+        "Sour cream, for serving",
+        "Lime wedges, for serving"
+      ]
+    }
   ],
   "instructions": [
     "Heat oil in a pressure cooker over medium-high heat until shimmering. Add sausage and cook until starting to crisp around edges, about 2 minutes. Add onions and cook, stirring, until softened, about 3 minutes longer. Add cumin and cook until fragrant, about 30 seconds. Add chilies, dried black beans, cilantro stems, chicken, and broth. Season gently with salt and pepper and stir to combine.",

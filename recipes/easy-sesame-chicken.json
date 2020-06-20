@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/easy-sesame-chicken/",
   "ingredients": [
-    "1 large egg",
-    "2 Tbsp cornstarch",
-    "1 pinch each salt and pepper",
-    "1 lb boneless skinless chicken thighs",
-    "2 Tbsp cooking oil",
-    "1/4 cup soy sauce",
-    "2 Tbsp water",
-    "1 Tbsp toasted sesame oil",
-    "3 Tbsp brown sugar",
-    "1  Tbsp rice vinegar",
-    "1 tsp grated fresh ginger",
-    "2 cloves garlic, minced",
-    "1 Tbsp sesame seeds",
-    "1/2 Tbsp cornstarch",
-    "4 cups cooked jasmine rice",
-    "2 whole green onions"
+    {
+      "category": "All",
+      "items": [
+        "1 large egg",
+        "2 Tbsp cornstarch",
+        "1 pinch each salt and pepper",
+        "1 lb boneless skinless chicken thighs",
+        "2 Tbsp cooking oil",
+        "1/4 cup soy sauce",
+        "2 Tbsp water",
+        "1 Tbsp toasted sesame oil",
+        "3 Tbsp brown sugar",
+        "1  Tbsp rice vinegar",
+        "1 tsp grated fresh ginger",
+        "2 cloves garlic, minced",
+        "1 Tbsp sesame seeds",
+        "1/2 Tbsp cornstarch",
+        "4 cups cooked jasmine rice",
+        "2 whole green onions"
+      ]
+    }
   ],
   "instructions": [
     "First, prepare the sauce. In a small bowl stir together the soy sauce, water, sesame oil, brown sugar, rice vinegar, fresh ginger, minced garlic, cornstarch, and sesame seeds. (Grate the ginger with a small-holed cheese grater). Set the sauce aside.",

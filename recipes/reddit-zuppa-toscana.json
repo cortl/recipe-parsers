@@ -1,13 +1,16 @@
 {
-    "title": "Reddit Zuppa Toscana",
-    "rating": 8,
-    "notes": [
-        "Much better than the other recipe I've been using although a bit more involved.  I used 1/2 cornstarch and also used heavy whipping cream"
-    ],
-    "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
-    "image": "../images/reddit-zuppa-toscana.jpg",
-    "slug": "reddit-zuppa-toscana",
-    "ingredients": [
+  "title": "Reddit Zuppa Toscana",
+  "rating": 8,
+  "notes": [
+    "Much better than the other recipe I've been using although a bit more involved.  I used 1/2 cornstarch and also used heavy whipping cream"
+  ],
+  "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
+  "image": "../images/reddit-zuppa-toscana.jpg",
+  "slug": "reddit-zuppa-toscana",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 package (5 links) hot Italian sausage",
         "4 slices bacon, chopped",
         "1 large onion, diced",
@@ -20,15 +23,17 @@
         "2 tablespoons cornstarch (leave out if you use the heavy cream)",
         "4-5 cups chopped kale",
         "salt and pepper to taste"
-    ],
-    "instructions": [
-        "Brown sausage in Dutch oven or deep soup pot. Cook at medium till no longer pink. Drain sausage and set aside (I just pour it all into a colander in the sink and let it sit there)",
-        "Add bacon to the same pot and cook until crisp. Remove bacon into a paper towel-lined bowl and save about 1 tablespoon of bacon grease in pot.",
-        "Add onions, garlic, carrots, and celery to pot with grease. Cook for about 5 minutes until veggies have softened a bit.",
-        "Pour chicken broth into pot and bring back to a boil. When boiling, add potatoes and turn down to simmer. Cover and let cook for 20-25 minutes or until potatoes are fork-tender.",
-        "(Optional: Use a potato masher to very lightly mash up the potatoes in the soup. You don’t want to lose all those chunks, but I find a few good mashes thickens the soup and makes the potatoes more bite-sized)",
-        "Add the cooked sausage back into the pot. Add the half and half to the pot. Mix your cornstarch with some water to make a slurry, and add to pot. Stir. Bring back to a simmer for about 3-5 minutes.",
-        "Taste your delicious broth and add salt/pepper to taste.",
-        "Add chopped kale and stir. It should wilt within a couple minutes. Once it’s wilted, dish up that soup, top with the reserved bacon, and enjoy!"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Brown sausage in Dutch oven or deep soup pot. Cook at medium till no longer pink. Drain sausage and set aside (I just pour it all into a colander in the sink and let it sit there)",
+    "Add bacon to the same pot and cook until crisp. Remove bacon into a paper towel-lined bowl and save about 1 tablespoon of bacon grease in pot.",
+    "Add onions, garlic, carrots, and celery to pot with grease. Cook for about 5 minutes until veggies have softened a bit.",
+    "Pour chicken broth into pot and bring back to a boil. When boiling, add potatoes and turn down to simmer. Cover and let cook for 20-25 minutes or until potatoes are fork-tender.",
+    "(Optional: Use a potato masher to very lightly mash up the potatoes in the soup. You don’t want to lose all those chunks, but I find a few good mashes thickens the soup and makes the potatoes more bite-sized)",
+    "Add the cooked sausage back into the pot. Add the half and half to the pot. Mix your cornstarch with some water to make a slurry, and add to pot. Stir. Bring back to a simmer for about 3-5 minutes.",
+    "Taste your delicious broth and add salt/pepper to taste.",
+    "Add chopped kale and stir. It should wilt within a couple minutes. Once it’s wilted, dish up that soup, top with the reserved bacon, and enjoy!"
+  ]
 }

@@ -8,20 +8,25 @@
   ],
   "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
   "ingredients": [
-    "1 lb kidney beans, dry ",
-    "1 medium yellow onion ",
-    "3 stalks celery ",
-    "1 large green bell pepper ",
-    "1 lb hot sausage (andouille or kielbasa)",
-    "1 Tbsp vegetable oil ",
-    "4 cloves garlic ",
-    "2 whole bay leaves ",
-    "1 tsp dried thyme ",
-    "1 tsp dried oregano ",
-    "3 cubes chicken bouillon ",
-    "1 tsp to taste tony chachere’s / cajun seasoning ",
-    "6 sliced green onions, garnish",
-    "2 cups uncooked long grain rice "
+    {
+      "category": "All",
+      "items": [
+        "1 lb kidney beans, dry ",
+        "1 medium yellow onion ",
+        "3 stalks celery ",
+        "1 large green bell pepper ",
+        "1 lb hot sausage (andouille or kielbasa)",
+        "1 Tbsp vegetable oil ",
+        "4 cloves garlic ",
+        "2 whole bay leaves ",
+        "1 tsp dried thyme ",
+        "1 tsp dried oregano ",
+        "3 cubes chicken bouillon ",
+        "1 tsp to taste tony chachere’s / cajun seasoning ",
+        "6 sliced green onions, garnish",
+        "2 cups uncooked long grain rice "
+      ]
+    }
   ],
   "instructions": [
     "The night before cooking, place your beans in a large bowl and cover with double the amount of water. Let soak at room temperature over night. If you forget to do this (like I did), begin with step 1b.",

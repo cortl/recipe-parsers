@@ -8,21 +8,26 @@
   ],
   "source": "https://www.budgetbytes.com/smoky-roasted-sausage-and-vegetables/",
   "ingredients": [
-    "1/4 cup olive oil",
-    "2 Tbsp red wine vinegar",
-    "1 tsp coarse deli mustard (or Dijon)",
-    "1/4 tsp garlic powder",
-    "1/4 tsp dried oregano",
-    "1/2 tsp smoked paprika",
-    "1/4 tsp salt",
-    " freshly cracked black pepper",
-    "1/4 tsp sugar",
-    "12 oz. smoked sausage",
-    "1 lb. broccoli crown",
-    "1 bell pepper (any color)",
-    "1 red onion",
-    "1 cup long grain white rice (uncooked)",
-    "1  handful chopped parsley"
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup olive oil",
+        "2 Tbsp red wine vinegar",
+        "1 tsp coarse deli mustard (or Dijon)",
+        "1/4 tsp garlic powder",
+        "1/4 tsp dried oregano",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp salt",
+        " freshly cracked black pepper",
+        "1/4 tsp sugar",
+        "12 oz. smoked sausage",
+        "1 lb. broccoli crown",
+        "1 bell pepper (any color)",
+        "1 red onion",
+        "1 cup long grain white rice (uncooked)",
+        "1  handful chopped parsley"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Line a large baking sheet with parchment paper.",

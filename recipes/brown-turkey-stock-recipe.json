@@ -8,16 +8,21 @@
   ],
   "source": "https://www.seriouseats.com/recipes/2016/11/brown-turkey-stock-recipe.html",
   "ingredients": [
-    "Leftover carcass from 1 (12-pound; 5.5kg) roasted or fried turkey (see note)",
-    "4 tablespoons (60ml) canola or vegetable oil, plus more for drizzling on bones",
-    "2 to 3 large carrots, cut into large dice",
-    "3 large celery ribs, cut into large dice",
-    "2 large onions, cut into large dice",
-    "4 medium cloves garlic, crushed",
-    "2 tablespoons (30ml) tomato paste",
-    "Parsley sprigs and/or thyme sprigs",
-    "2 bay leaves",
-    "5 black peppercorns"
+    {
+      "category": "All",
+      "items": [
+        "Leftover carcass from 1 (12-pound; 5.5kg) roasted or fried turkey (see note)",
+        "4 tablespoons (60ml) canola or vegetable oil, plus more for drizzling on bones",
+        "2 to 3 large carrots, cut into large dice",
+        "3 large celery ribs, cut into large dice",
+        "2 large onions, cut into large dice",
+        "4 medium cloves garlic, crushed",
+        "2 tablespoons (30ml) tomato paste",
+        "Parsley sprigs and/or thyme sprigs",
+        "2 bay leaves",
+        "5 black peppercorns"
+      ]
+    }
   ],
   "instructions": [
     "Preheat oven to 450°F (230°C). Drizzle turkey bones with oil, tossing to lightly coat. Arrange on 2 foil-lined rimmed baking sheets and roast until browned all over, about 45 minutes. (Check turkey often, since browning times can vary depending on the size and condition of the bones.)",

@@ -9,7 +9,6 @@
     "source": "source of the recipe, if possible",
     "image": "file name, if applicable",
     "ingredients": [
-        "1x Chicken breast",
         {
             "category": "Sauce",
             "items": [

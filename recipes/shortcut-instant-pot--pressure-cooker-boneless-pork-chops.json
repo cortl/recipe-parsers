@@ -8,15 +8,20 @@
   ],
   "source": "https://www.pressurecookingtoday.com/shortcut-pressure-cooker-instant-pot-boneless-pork-chops/",
   "ingredients": [
-    "4 thick boneless center-cut pork chops (about 4 to 5 ounces each and at least 1-inch thick)",
-    "1 tablespoon oil",
-    "Salt and pepper to taste",
-    "1 packet onion soup mix (use your favorite flavor, I used Beefy Onion Soup Mix)**",
-    "1 can (8 ounces) mushrooms, drained",
-    "1/4 cup tomato paste (I use tomato paste in a tube)",
-    "2 cups water",
-    "2 tablespoons cornstarch",
-    "2 tablespoons cold water"
+    {
+      "category": "All",
+      "items": [
+        "4 thick boneless center-cut pork chops (about 4 to 5 ounces each and at least 1-inch thick)",
+        "1 tablespoon oil",
+        "Salt and pepper to taste",
+        "1 packet onion soup mix (use your favorite flavor, I used Beefy Onion Soup Mix)**",
+        "1 can (8 ounces) mushrooms, drained",
+        "1/4 cup tomato paste (I use tomato paste in a tube)",
+        "2 cups water",
+        "2 tablespoons cornstarch",
+        "2 tablespoons cold water"
+      ]
+    }
   ],
   "instructions": [
     "Generously season the pork chops with salt and pepper. Select Saute to preheat the pressure cooking pot. When hot, add the oil and brown the pork chops on both sides—do not crowd the pan.",

@@ -7,16 +7,21 @@
   ],
   "source": "http://allrecipes.com/recipe/14041/delicious-black-bean-burritos/",
   "ingredients": [
-    "2 (10 inch) flour tortillas",
-    "2 tablespoons vegetable oil",
-    "1 small onion, chopped",
-    "1/2 red bell pepper, chopped",
-    "1 teaspoon minced garlic",
-    "1 (15 ounce) can black beans, rinsed and drained",
-    "1 teaspoon minced jalapeno peppers",
-    "3 ounces cream cheese",
-    "1/2 teaspoon salt",
-    "2 tablespoons chopped fresh cilantro"
+    {
+      "category": "All",
+      "items": [
+        "2 (10 inch) flour tortillas",
+        "2 tablespoons vegetable oil",
+        "1 small onion, chopped",
+        "1/2 red bell pepper, chopped",
+        "1 teaspoon minced garlic",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 teaspoon minced jalapeno peppers",
+        "3 ounces cream cheese",
+        "1/2 teaspoon salt",
+        "2 tablespoons chopped fresh cilantro"
+      ]
+    }
   ],
   "instructions": [
     "Wrap tortillas in foil and place in oven heated to 350 degrees F (175 degrees C). Bake for 15 minutes or until heated through.                            ",

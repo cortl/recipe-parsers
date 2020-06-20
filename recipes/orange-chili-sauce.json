@@ -1,13 +1,16 @@
 {
-    "title": "Orange Chili Sauce",
-    "rating": 6,
-    "slug": "orange-chili-sauce",
-    "notes": [
-        "A little bland, but a little bit goes a long way and should easy to use later"
-    ],
-    "source": "https://fitmencook.com/chili-sauce-recipe/",
-    "image": "../images/orange-chili-sauce.jpg",
-    "ingredients": [
+  "title": "Orange Chili Sauce",
+  "rating": 6,
+  "slug": "orange-chili-sauce",
+  "notes": [
+    "A little bland, but a little bit goes a long way and should easy to use later"
+  ],
+  "source": "https://fitmencook.com/chili-sauce-recipe/",
+  "image": "../images/orange-chili-sauce.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "juice from 3 oranges",
         "1/2 cup chili garlic sauce",
         "1/3 cup low sodium soy sauce",
@@ -15,12 +18,14 @@
         "2 tablespoons sesame oil",
         "1 tablespoon arrowroot starch mixed with 1 tablespoon water",
         "1 tablespoon apple cider vinegar"
-    ],
-    "instructions": [
-        "Set a nonstick skillet on medium heat.",
-        "Add orange, chili sauce, soy sauce, coconut sugar and sesame oil.  Bring to a gentle simmer.",
-        "Mix arrowroot with water so that it’s slushy, then add to the skillet.  Reduce the heat to low and quickly stir so that it thickens.",
-        "Remove from the heat to cool and thicken, then add the apple cider vinegar to balance the flavors.",
-        "Store in an airtight glass jar in the fridge."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Set a nonstick skillet on medium heat.",
+    "Add orange, chili sauce, soy sauce, coconut sugar and sesame oil.  Bring to a gentle simmer.",
+    "Mix arrowroot with water so that it’s slushy, then add to the skillet.  Reduce the heat to low and quickly stir so that it thickens.",
+    "Remove from the heat to cool and thicken, then add the apple cider vinegar to balance the flavors.",
+    "Store in an airtight glass jar in the fridge."
+  ]
 }

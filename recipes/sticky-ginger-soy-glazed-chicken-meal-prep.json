@@ -7,6 +7,11 @@
     ""
   ],
   "source": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
-  "ingredients": [],
+  "ingredients": [
+    {
+      "category": "All",
+      "items": []
+    }
+  ],
   "instructions": []
 }

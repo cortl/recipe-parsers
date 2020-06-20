@@ -8,12 +8,17 @@
   ],
   "source": "https://www.budgetbytes.com/pickled-red-onions/",
   "ingredients": [
-    "1.5 cups sliced red onion",
-    "1 clove garlic",
-    "3 Tbsp white sugar",
-    "1.5 Tbsp salt",
-    "1/2 tsp peppercorns",
-    "1 cup white vinegar"
+    {
+      "category": "All",
+      "items": [
+        "1.5 cups sliced red onion",
+        "1 clove garlic",
+        "3 Tbsp white sugar",
+        "1.5 Tbsp salt",
+        "1/2 tsp peppercorns",
+        "1 cup white vinegar"
+      ]
+    }
   ],
   "instructions": [
     "Thinly slice the red onion and peel the garlic. Place the onion and garlic in a large glass or ceramic bowl.",

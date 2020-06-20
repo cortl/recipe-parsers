@@ -1,13 +1,16 @@
 {
-    "title": "Buffalo Chicken Quinoa Bowls",
-    "rating": 7,
-    "slug": "buffalo-chicken-meal-prep",
-    "notes": [
-        "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
-    ],
-    "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
-    "image": "",
-    "ingredients": [
+  "title": "Buffalo Chicken Quinoa Bowls",
+  "rating": 7,
+  "slug": "buffalo-chicken-meal-prep",
+  "notes": [
+    "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
+  ],
+  "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
+  "image": "",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 1/4 cups quinoa",
         "2 1/2 cups water",
         "1 tbls blue cheese",
@@ -17,10 +20,12 @@
         "1/2 cup arrowroot",
         "300g carrots (approx 3-4 carrots)",
         "300g celery (approx 3 sticks celery)"
-    ],
-    "instructions": [
-        "Coat chicken breast in arrowroot.  Cook in batches in a pan.  Coat with Franks Red",
-        "While the chicken cooks, cut the carrots and celery",
-        "Cook the quinoa and add in the blue cheese"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Coat chicken breast in arrowroot.  Cook in batches in a pan.  Coat with Franks Red",
+    "While the chicken cooks, cut the carrots and celery",
+    "Cook the quinoa and add in the blue cheese"
+  ]
 }

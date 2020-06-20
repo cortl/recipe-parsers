@@ -7,18 +7,23 @@
   ],
   "source": "http://allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/",
   "ingredients": [
-    "1 pound bacon, chopped",
-    "2 stalks celery, diced",
-    "1 onion, chopped",
-    "3 cloves garlic, minced",
-    "8 potatoes, peeled and cubed",
-    "4 cups chicken stock, or enough to cover potatoes",
-    "3 tablespoons butter",
-    "1/4 cup all-purpose flour",
-    "1 cup heavy cream",
-    "1 teaspoon dried tarragon",
-    "3 teaspoons chopped fresh cilantro",
-    "salt and pepper to taste"
+    {
+      "category": "All",
+      "items": [
+        "1 pound bacon, chopped",
+        "2 stalks celery, diced",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "8 potatoes, peeled and cubed",
+        "4 cups chicken stock, or enough to cover potatoes",
+        "3 tablespoons butter",
+        "1/4 cup all-purpose flour",
+        "1 cup heavy cream",
+        "1 teaspoon dried tarragon",
+        "3 teaspoons chopped fresh cilantro",
+        "salt and pepper to taste"
+      ]
+    }
   ],
   "instructions": [
     "In a Dutch oven, cook the bacon over medium heat until done. Remove bacon from pan, and set aside. Drain off all but 1/4 cup of the bacon grease.                            ",

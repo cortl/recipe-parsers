@@ -8,14 +8,19 @@
   ],
   "source": "https://www.budgetbytes.com/2018/02/herb-butter-chicken-thighs/",
   "ingredients": [
-    "5 boneless skinless chicken thighs (about 1/3 lb. each)",
-    "pinch salt and pepper",
-    "1 Tbsp olive oil",
-    "2 cloves garlic, minced",
-    "1/2 Tbsp Italian seasoning herb blend",
-    "1/2 cup chicken broth*",
-    "1 Tbsp butter",
-    "handful fresh parsley, chopped (optional garnish)"
+    {
+      "category": "All",
+      "items": [
+        "5 boneless skinless chicken thighs (about 1/3 lb. each)",
+        "pinch salt and pepper",
+        "1 Tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1/2 Tbsp Italian seasoning herb blend",
+        "1/2 cup chicken broth*",
+        "1 Tbsp butter",
+        "handful fresh parsley, chopped (optional garnish)"
+      ]
+    }
   ],
   "instructions": [
     "Season the chicken thighs with a pinch of salt and pepper on each side.",

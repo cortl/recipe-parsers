@@ -8,15 +8,20 @@
   ],
   "source": "https://www.budgetbytes.com/2018/03/chorizo-stuffed-bell-peppers/",
   "ingredients": [
-    "1/2 lb. Mexican Chorizo*",
-    "2 cups  cooked rice",
-    "10 oz. can diced tomatoes with green chiles",
-    "15 oz. can black beans",
-    "1/2 Tbsp chili powder",
-    "1/4 tsp salt",
-    "4 oz.  Monterey jack or cheddar cheese, shredded",
-    "2 green onions, sliced",
-    "3 large bell peppers"
+    {
+      "category": "All",
+      "items": [
+        "1/2 lb. Mexican Chorizo*",
+        "2 cups  cooked rice",
+        "10 oz. can diced tomatoes with green chiles",
+        "15 oz. can black beans",
+        "1/2 Tbsp chili powder",
+        "1/4 tsp salt",
+        "4 oz.  Monterey jack or cheddar cheese, shredded",
+        "2 green onions, sliced",
+        "3 large bell peppers"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 350ºF. Add the chorizo to a skillet and sauté over medium heat until fully cooked. Remove it from the heat.",

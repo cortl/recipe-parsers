@@ -8,18 +8,23 @@
   ],
   "source": "https://www.budgetbytes.com/2012/05/chili-cheese-beef-n-mac/",
   "ingredients": [
-    "1 Tbsp olive oil",
-    "1 lb. ground beef ",
-    "2 cloves garlic ",
-    "1 small onion ",
-    "2 Tbsp all-purpose flour ",
-    "1 Tbsp chili powder ",
-    "1/2 tsp smoked paprika ",
-    "1/2 tsp dried oregano ",
-    "1 8 oz. can tomato sauce ",
-    "2 cups beef broth** ",
-    "2 cups 1/2 lb. dry macaroni",
-    "1 cup 4 oz.  shredded sharp cheddar "
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp olive oil",
+        "1 lb. ground beef ",
+        "2 cloves garlic ",
+        "1 small onion ",
+        "2 Tbsp all-purpose flour ",
+        "1 Tbsp chili powder ",
+        "1/2 tsp smoked paprika ",
+        "1/2 tsp dried oregano ",
+        "1 8 oz. can tomato sauce ",
+        "2 cups beef broth** ",
+        "2 cups 1/2 lb. dry macaroni",
+        "1 cup 4 oz.  shredded sharp cheddar "
+      ]
+    }
   ],
   "instructions": [
     "Brown the ground beef in a large pot over medium along with 1 Tbsp of olive oil. Once browned, drain off the excess fat. While the beef is browning, dice the onion and mince the garlic.",

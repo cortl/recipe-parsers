@@ -8,22 +8,27 @@
   ],
   "source": "https://www.budgetbytes.com/2015/07/taco-salad-skillet/",
   "ingredients": [
-    "1 Tbsp vegetable oil ",
-    "1/2 lb.  ground beef $",
-    "1/2 Tbsp chili powder blend",
-    "1/2 tsp cumin ",
-    "1/2 tsp oregano ",
-    "1/4 tsp garlic powder ",
-    "1/8 tsp cayenne pepper ",
-    "1/8 tsp salt ",
-    "15 oz. can black beans, drained",
-    "1 cup frozen corn kernels, thawed",
-    "1 cup shredded cheddar cheese ",
-    "2 cups broken tortilla chips ",
-    "1/2 head iceberg lettuce ",
-    "1 large tomato ",
-    "3 green onions ",
-    "8 oz. tub sour cream"
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp vegetable oil ",
+        "1/2 lb.  ground beef $",
+        "1/2 Tbsp chili powder blend",
+        "1/2 tsp cumin ",
+        "1/2 tsp oregano ",
+        "1/4 tsp garlic powder ",
+        "1/8 tsp cayenne pepper ",
+        "1/8 tsp salt ",
+        "15 oz. can black beans, drained",
+        "1 cup frozen corn kernels, thawed",
+        "1 cup shredded cheddar cheese ",
+        "2 cups broken tortilla chips ",
+        "1/2 head iceberg lettuce ",
+        "1 large tomato ",
+        "3 green onions ",
+        "8 oz. tub sour cream"
+      ]
+    }
   ],
   "instructions": [
     "Heat a deep skillet over medium heat. Add the vegetable oil and ground beef. Sauté the beef, breaking it into crumbles as you go, until fully browned. Drain the excess fat if needed.",

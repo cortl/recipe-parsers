@@ -1,14 +1,17 @@
 {
-    "title": "Tex Mex Chicken Meal Prep Bowls",
-    "rating": 7,
-    "slug": "tex-mex-chicken-meal-prep-bowls",
-    "notes": [
-        "lots of food, fairly diverse meal",
-        "cooking dried black beans in the instant pot for better flavor"
-    ],
-    "source": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
-    "image": "../images/tex-mex-meal-prep-bowls.jpg",
-    "ingredients": [
+  "title": "Tex Mex Chicken Meal Prep Bowls",
+  "rating": 7,
+  "slug": "tex-mex-chicken-meal-prep-bowls",
+  "notes": [
+    "lots of food, fairly diverse meal",
+    "cooking dried black beans in the instant pot for better flavor"
+  ],
+  "source": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
+  "image": "../images/tex-mex-meal-prep-bowls.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 cup rice",
         "2 cups of low-sodium chicken broth",
         "3 tablespoons olive oil, divided",
@@ -25,12 +28,14 @@
         "fresh lime wedges",
         "sour cream",
         "salsa"
-    ],
-    "instructions": [
-        "Cook rice according to package directions, substituting chicken broth for the water, if desired.",
-        "Meanwhile, add 2 tablespoons olive oil to a saute pan and place over MEDIUM heat. Add chicken pieces and season with taco seasoning. Cook, stirring, until chicken is completely cooked through. Remove from heat and transfer chicken to a plate to cool.",
-        "Add remaining olive oil to the same pan and return to MEDIUM heat. Add bell peppers and onion. Cook and stir until bell pepper is slightly softened, about 2 or 3 minutes. Add garlic, zucchini and frozen corn. Cook and stir until zucchini is crisp tender, an additional 2 or 3 minutes. Season veggies with a touch of salt and fresh ground pepper while cooking. Remove from heat and set aside.",
-        "Divide the cooked rice among the 4 meal prep containers. Sprinkle cilantro over rice (if desired). Add an even amount of the cooked chicken, cooked veggies, and black beans on top of the rice in the containers. Add a lime wedge and a topping container filled with your topping of choice.",
-        "Cover and store in refrigerator. When ready to eat, reheat uncovered container in microwave for 1-1/2 to 2 minutes just until warm. Squeeze with lime juice and top with sour cream, salsa, or dressing of your choice."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Cook rice according to package directions, substituting chicken broth for the water, if desired.",
+    "Meanwhile, add 2 tablespoons olive oil to a saute pan and place over MEDIUM heat. Add chicken pieces and season with taco seasoning. Cook, stirring, until chicken is completely cooked through. Remove from heat and transfer chicken to a plate to cool.",
+    "Add remaining olive oil to the same pan and return to MEDIUM heat. Add bell peppers and onion. Cook and stir until bell pepper is slightly softened, about 2 or 3 minutes. Add garlic, zucchini and frozen corn. Cook and stir until zucchini is crisp tender, an additional 2 or 3 minutes. Season veggies with a touch of salt and fresh ground pepper while cooking. Remove from heat and set aside.",
+    "Divide the cooked rice among the 4 meal prep containers. Sprinkle cilantro over rice (if desired). Add an even amount of the cooked chicken, cooked veggies, and black beans on top of the rice in the containers. Add a lime wedge and a topping container filled with your topping of choice.",
+    "Cover and store in refrigerator. When ready to eat, reheat uncovered container in microwave for 1-1/2 to 2 minutes just until warm. Squeeze with lime juice and top with sour cream, salsa, or dressing of your choice."
+  ]
 }

@@ -8,16 +8,21 @@
   ],
   "source": "https://www.budgetbytes.com/apple-spice-pork-chops/",
   "ingredients": [
-    "4 pork chops ",
-    "2 Tbsp vegetable oil ",
-    " Pinch salt and pepper ",
-    "1 med onion ",
-    "2 fuji apples ",
-    "2 Tbsp butter ",
-    "1 Tbsp brown sugar ",
-    "1/4 tsp cinnamon ",
-    "1/8 tsp nutmeg ",
-    "1 cup chicken broth"
+    {
+      "category": "All",
+      "items": [
+        "4 pork chops ",
+        "2 Tbsp vegetable oil ",
+        " Pinch salt and pepper ",
+        "1 med onion ",
+        "2 fuji apples ",
+        "2 Tbsp butter ",
+        "1 Tbsp brown sugar ",
+        "1/4 tsp cinnamon ",
+        "1/8 tsp nutmeg ",
+        "1 cup chicken broth"
+      ]
+    }
   ],
   "instructions": [
     "Heat the vegetable oil in a heavy skillet over medium heat. While the skillet is heating, open the pork chops and season each side with a pinch of salt and freshly ground pepper.",

@@ -33,7 +33,12 @@
         "Pinch red pepper flakes (optional)"
       ]
     },
-    "Cherry tomatoes"
+    {
+      "category": "Toppings",
+      "items": [
+        "Cherry tomatoes"
+      ]
+    }
   ],
   "instructions": [
     "Add the olive oil, lemon juice, garlic, oregano, salt, and pepper to a large zip top bag, or a large shallow dish. Close the bag and massage to combine the ingredients, or stir the ingredients in the dish until combined.",

@@ -8,19 +8,24 @@
   ],
   "source": "https://www.budgetbytes.com/classic-baked-ziti/",
   "ingredients": [
-    "1 lb. Italian sausage (sweet, mild, or hot)",
-    "1 yellow onion",
-    "3 oz. tomato paste",
-    "1 28 oz. can crushed tomatoes",
-    "1 Tbsp Italian seasoning blend",
-    "1/2 cup water",
-    "1 lb. ziti",
-    "1/2 Tbsp salt (for pasta water)",
-    "15 oz. ricotta",
-    "1 cup Italian cheese blend*",
-    " freshly cracked black pepper",
-    "2  cups  shredded mozzarella",
-    "1 handful chopped parsley (optional, for garnish)"
+    {
+      "category": "All",
+      "items": [
+        "1 lb. Italian sausage (sweet, mild, or hot)",
+        "1 yellow onion",
+        "3 oz. tomato paste",
+        "1 28 oz. can crushed tomatoes",
+        "1 Tbsp Italian seasoning blend",
+        "1/2 cup water",
+        "1 lb. ziti",
+        "1/2 Tbsp salt (for pasta water)",
+        "15 oz. ricotta",
+        "1 cup Italian cheese blend*",
+        " freshly cracked black pepper",
+        "2  cups  shredded mozzarella",
+        "1 handful chopped parsley (optional, for garnish)"
+      ]
+    }
   ],
   "instructions": [
     "Brown the sausage in a large skillet or pot over medium heat, until it's brown and crispy on the edges (pork sausage contains a lot of fat, so I didn't add any extra to the skillet).",

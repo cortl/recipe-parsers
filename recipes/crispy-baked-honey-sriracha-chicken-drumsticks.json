@@ -8,12 +8,17 @@
   ],
   "source": "https://www.budgetbytes.com/2016/03/crispy-baked-honey-sriracha-chicken-drumsticks/",
   "ingredients": [
-    "6 chicken drumsticks (about 1.75 lbs.)",
-    " Pinch of salt and pepper",
-    "2 Tbsp cornstarch",
-    "1/4 cup sriracha",
-    "2 Tbsp butter",
-    "2 Tbsp honey"
+    {
+      "category": "All",
+      "items": [
+        "6 chicken drumsticks (about 1.75 lbs.)",
+        " Pinch of salt and pepper",
+        "2 Tbsp cornstarch",
+        "1/4 cup sriracha",
+        "2 Tbsp butter",
+        "2 Tbsp honey"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Line a baking sheet with foil, then top it with wire cooling racks to hold the chicken up off the baking sheet. For easy cleaning, spritz the wire racks with non-stick spray.",

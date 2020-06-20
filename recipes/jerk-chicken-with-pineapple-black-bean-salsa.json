@@ -8,17 +8,22 @@
   ],
   "source": "https://www.budgetbytes.com/jerk-chicken-with-pineapple-black-bean-salsa/",
   "ingredients": [
-    "4 cups cooked rice",
-    "2 cups pineapple tidbits*",
-    "15 oz. can black beans, well rinsed",
-    "1/3 cup finely diced red onion",
-    "1/2 cup coarsely chopped cilantro",
-    "1 lime",
-    "pinch red pepper flakes (optional)",
-    "1/4 tsp salt, or to taste",
-    "2 boneless, skinless chicken breasts (about 2/3 lb. each)",
-    "1 Tbsp jerk seasoning",
-    "1 Tbsp cooking oil"
+    {
+      "category": "All",
+      "items": [
+        "4 cups cooked rice",
+        "2 cups pineapple tidbits*",
+        "15 oz. can black beans, well rinsed",
+        "1/3 cup finely diced red onion",
+        "1/2 cup coarsely chopped cilantro",
+        "1 lime",
+        "pinch red pepper flakes (optional)",
+        "1/4 tsp salt, or to taste",
+        "2 boneless, skinless chicken breasts (about 2/3 lb. each)",
+        "1 Tbsp jerk seasoning",
+        "1 Tbsp cooking oil"
+      ]
+    }
   ],
   "instructions": [
     "Begin cooking your rice first. If you plan on packing this for meal prep, transfer the cooked rice to your meal prep containers and refrigerate them as you finish the rest of the recipe, so they can begin to cool down.",

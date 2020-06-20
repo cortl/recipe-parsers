@@ -8,23 +8,28 @@
   ],
   "source": "https://www.budgetbytes.com/basic-chili/",
   "ingredients": [
-    "2 Tbsp olive oil",
-    "1 yellow onion",
-    "2 cloves garlic",
-    "1 lb ground beef",
-    "15 oz can  kidney beans",
-    "15 oz can black beans",
-    "15 oz can diced tomatoes",
-    "6 oz can  tomato paste",
-    "1 cup water",
-    "1 Tbsp chili powder**",
-    "1 tsp ground cumin",
-    "1/4 tsp cayenne powder",
-    "1/4 tsp garlic powder",
-    "1/2 tsp onion powder",
-    "1/2 Tbsp brown sugar",
-    "1 tsp salt",
-    "1/2 tsp Freshly ground pepper"
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp olive oil",
+        "1 yellow onion",
+        "2 cloves garlic",
+        "1 lb ground beef",
+        "15 oz can  kidney beans",
+        "15 oz can black beans",
+        "15 oz can diced tomatoes",
+        "6 oz can  tomato paste",
+        "1 cup water",
+        "1 Tbsp chili powder**",
+        "1 tsp ground cumin",
+        "1/4 tsp cayenne powder",
+        "1/4 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1/2 Tbsp brown sugar",
+        "1 tsp salt",
+        "1/2 tsp Freshly ground pepper"
+      ]
+    }
   ],
   "instructions": [
     "Dice the onion and mince the garlic. Add both to a large pot with the olive oil and cook over medium heat until they are soft and transparent. Add the ground beef and continue to sauté until the beef is fully browned.",

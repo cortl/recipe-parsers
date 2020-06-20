@@ -8,13 +8,18 @@
   ],
   "source": "https://www.budgetbytes.com/2017/09/skillet-pineapple-bbq-chicken/",
   "ingredients": [
-    "1 Tbsp cooking oil ",
-    "6 boneless skinless chicken thighs* (about 2.3 lbs.)",
-    "Pinch Salt and pepper",
-    "20 oz. can Pineapple slices in juice",
-    "1/2 cup BBQ sauce",
-    "1 jalapeño (optional), sliced thinly",
-    "2 green onions, sliced"
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp cooking oil ",
+        "6 boneless skinless chicken thighs* (about 2.3 lbs.)",
+        "Pinch Salt and pepper",
+        "20 oz. can Pineapple slices in juice",
+        "1/2 cup BBQ sauce",
+        "1 jalapeño (optional), sliced thinly",
+        "2 green onions, sliced"
+      ]
+    }
   ],
   "instructions": [
     "Heat a large skillet over medium. Once hot add the cooking oil and swirl to coat the surface. While waiting for the skillet to heat, season both sides of the chicken thighs with a pinch of salt and pepper.",

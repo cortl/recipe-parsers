@@ -1,15 +1,18 @@
 {
-    "title": "Chicken Pot Pie",
-    "slug": "chicken-pot-pie",
-    "rating": 8,
-    "notes": [
-        "https://www.geniuskitchen.com/recipe/adobo-seasoning-442098",
-        "used adobo seasoning from here, could definitely lay off the flour a little",
-        "let the pie crust come to room temperature before handling"
-    ],
-    "source": "https://girlwiththeironcast.com/chicken-pot-pie/",
-    "image": "../images/chicken-pot-pie.jpg",
-    "ingredients": [
+  "title": "Chicken Pot Pie",
+  "slug": "chicken-pot-pie",
+  "rating": 8,
+  "notes": [
+    "https://www.geniuskitchen.com/recipe/adobo-seasoning-442098",
+    "used adobo seasoning from here, could definitely lay off the flour a little",
+    "let the pie crust come to room temperature before handling"
+  ],
+  "source": "https://girlwiththeironcast.com/chicken-pot-pie/",
+  "image": "../images/chicken-pot-pie.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 1/2 lbs boneless, skinless chicken breast, cut into bite size cubes",
         "2 tbsp olive oil",
         "1/2 tsp kosher salt",
@@ -28,14 +31,16 @@
         "2 pre-made pie crusts, room temperature",
         "1 egg, whisked",
         "Non-stick cooking spray"
-    ],
-    "instructions": [
-        "Preheat oven to 375 degrees F",
-        "Season sliced chicken breast with kosher salt and freshly ground black pepper. In a large cast iron (or regular skillet) over medium high heat, add 2 tbsp of olive oil and the chicken. Brown chicken till fully cooked through. Remove from skillet and set aside.",
-        "Lower the heat to medium, add 3 tbsp of butter, carrots, potatoes, garlic, thyme, 1/4 tsp black pepper and bouillon paste. Sauté for about 8 minutes until carrots and potatoes begin to soften. Add the chicken back into the skillet, add the frozen peas, fresh parsley, and stir to combine everything.",
-        "Sprinkle the flour over the vegetables and carefully mix until flour has been absorbed. Once flour is mixed in, add the milk and the chicken broth and carefully mix all the ingredients. Bring to a soft boil, once the mixture reaches a boil, lower the heat to simmer and gently stir until sauce thickens, 3-4 minutes. Sauce is ready when you can run a spoon through and the mixture stays separated. Taste the gravy and adjust seasoning if necessary. Remove from heat.",
-        "In a 9 inch pie dish, spray non-stick cooking spray, and gently roll your pie crust into the pie dish. Gently press the dough into the dish to ensure it’s evenly spread and reaching to the ends/edges of the pie dish (you may trim the ends hanging off if needed). Add the pie filling to the dish. Take your second pie dough and carefully roll it over the filling. Using a fork, press the edges of the pie dough down so it seals the edges. ",
-        "In a small bowl whisk the egg. Using a brush, carefully brush the entire top of the pie dough with the egg wash. Using a knife, cut a “+” in the middle of the pie as a vent to allow the steam to escape.",
-        "Bake for 30-35 minutes until the pie crust is golden brown. Remove from the oven and allow to cool for 10 minutes before serving."
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F",
+    "Season sliced chicken breast with kosher salt and freshly ground black pepper. In a large cast iron (or regular skillet) over medium high heat, add 2 tbsp of olive oil and the chicken. Brown chicken till fully cooked through. Remove from skillet and set aside.",
+    "Lower the heat to medium, add 3 tbsp of butter, carrots, potatoes, garlic, thyme, 1/4 tsp black pepper and bouillon paste. Sauté for about 8 minutes until carrots and potatoes begin to soften. Add the chicken back into the skillet, add the frozen peas, fresh parsley, and stir to combine everything.",
+    "Sprinkle the flour over the vegetables and carefully mix until flour has been absorbed. Once flour is mixed in, add the milk and the chicken broth and carefully mix all the ingredients. Bring to a soft boil, once the mixture reaches a boil, lower the heat to simmer and gently stir until sauce thickens, 3-4 minutes. Sauce is ready when you can run a spoon through and the mixture stays separated. Taste the gravy and adjust seasoning if necessary. Remove from heat.",
+    "In a 9 inch pie dish, spray non-stick cooking spray, and gently roll your pie crust into the pie dish. Gently press the dough into the dish to ensure it’s evenly spread and reaching to the ends/edges of the pie dish (you may trim the ends hanging off if needed). Add the pie filling to the dish. Take your second pie dough and carefully roll it over the filling. Using a fork, press the edges of the pie dough down so it seals the edges. ",
+    "In a small bowl whisk the egg. Using a brush, carefully brush the entire top of the pie dough with the egg wash. Using a knife, cut a “+” in the middle of the pie as a vent to allow the steam to escape.",
+    "Bake for 30-35 minutes until the pie crust is golden brown. Remove from the oven and allow to cool for 10 minutes before serving."
+  ]
 }

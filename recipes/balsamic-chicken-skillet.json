@@ -8,16 +8,21 @@
   ],
   "source": "https://www.budgetbytes.com/2016/08/balsamic-chicken-skillet/",
   "ingredients": [
-    "2 Tbsp olive oil ",
-    "2 Tbsp brown sugar ",
-    "1/4 cup balsamic vinegar ",
-    "1 Tbsp soy sauce ",
-    "2 cloves garlic, minced",
-    " Freshly cracked pepper ",
-    "6 boneless, skinless chicken thighs",
-    "4 oz. whole milk mozzarella ",
-    "2 Roma tomatoes ",
-    "1/4 bunch fresh parsley "
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp olive oil ",
+        "2 Tbsp brown sugar ",
+        "1/4 cup balsamic vinegar ",
+        "1 Tbsp soy sauce ",
+        "2 cloves garlic, minced",
+        " Freshly cracked pepper ",
+        "6 boneless, skinless chicken thighs",
+        "4 oz. whole milk mozzarella ",
+        "2 Roma tomatoes ",
+        "1/4 bunch fresh parsley "
+      ]
+    }
   ],
   "instructions": [
     "Prepare the marinade by stirring together the olive oil, brown sugar, balsamic vinegar, soy sauce, minced garlic, and some freshly cracked pepper (about 10-15 cranks of a pepper mill).",

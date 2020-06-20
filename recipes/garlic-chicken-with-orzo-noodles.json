@@ -7,15 +7,20 @@
   ],
   "source": "http://allrecipes.com/recipe/84109/garlic-chicken-with-orzo-noodles/",
   "ingredients": [
-    "1 cup uncooked orzo pasta",
-    "2 tablespoons olive oil",
-    "2 cloves garlic",
-    "¼ teaspoon crushed red pepper",
-    "2 skinless, boneless chicken breast halves - cut into bite-size pieces",
-    "salt to taste",
-    "1 tablespoon chopped fresh parsley",
-    "2 cups fresh spinach leaves",
-    "grated Parmesan cheese for topping"
+    {
+      "category": "All",
+      "items": [
+        "1 cup uncooked orzo pasta",
+        "2 tablespoons olive oil",
+        "2 cloves garlic",
+        "¼ teaspoon crushed red pepper",
+        "2 skinless, boneless chicken breast halves - cut into bite-size pieces",
+        "salt to taste",
+        "1 tablespoon chopped fresh parsley",
+        "2 cups fresh spinach leaves",
+        "grated Parmesan cheese for topping"
+      ]
+    }
   ],
   "instructions": [
     "Bring a large pot of lightly salted water to a boil. Add orzo pasta, cook for 8 to 10 minutes, until al dente, and drain.",

@@ -1,13 +1,16 @@
 {
-    "title": "Simple Beef, Basil, and Orzo Skillet",
-    "rating": 6,
-    "slug": "simple-beef-basil-orzo-skillet",
-    "notes": [
-        "Would be better with fresh basil and lemon, mushrooms never re-heat well in a microwave"
-    ],
-    "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
-    "image": "../images/simple-beef-basil-orzo-skillet.jpg",
-    "ingredients": [
+  "title": "Simple Beef, Basil, and Orzo Skillet",
+  "rating": 6,
+  "slug": "simple-beef-basil-orzo-skillet",
+  "notes": [
+    "Would be better with fresh basil and lemon, mushrooms never re-heat well in a microwave"
+  ],
+  "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
+  "image": "../images/simple-beef-basil-orzo-skillet.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 pound ground beef",
         "1 onion",
         "4 cloves garlic",
@@ -21,14 +24,16 @@
         "8 ounces dry orzo",
         "Salt, pepper, and crushed red pepper to taste",
         "Extra virgin olive oil and flaky sea salt, optional, for serving"
-    ],
-    "instructions": [
-        "Prepare Ingredients: Peel and dice the onion. Peel and mince the garlic. Slice the mushrooms. Halve the cherry tomatoes. Using a vegetable peeler, peel off 4 pieces of lemon zest and set aside. Juice the lemon into a small bowl. Pick the basil leaves from the stems and reserve a few leaves for garnish.",
-        "Brown the Beef: Heat 1 teaspoon oil in a wide skillet over medium high. Add the beef and season with salt, pepper, and crushed red pepper to taste. Cook, breaking up with a spoon, for 8-10 minutes until well browned all over and cooked through. Using a slotted spoon, transfer the beef to a bowl. If there is excessive oil in the skillet, drain off all but a couple teaspoons.",
-        "Sauté the Aromatics: Return the skillet to medium heat. Add the onions and cook, stirring often, until softened and well browned, about 8-10 minutes. Add the garlic and cook for 45 seconds until fragrant.",
-        "If the skillet seems dry, add the remaining 1 teaspoon of oil and the sliced mushrooms. Cook for 10-12 minutes until well-browned. Season with salt, pepper, and crushed red pepper to taste.",
-        "Prepare the Rest of the Skillet Orzo: Pour the chicken stock into the skillet and scrape up any browned bits stuck to the bottom. Add the cooked beef. Add the halved cherry tomatoes and the strips of lemon zest and bring to a boil. Reduce heat to medium and pour in the orzo. Cook, stirring often to keep the orzo from sticking to the bottom, for about 6-8 minutes until just under al dente.",
-        "Add the basil leaves, baby spinach, and lemon juice, and stir to combine. Cook for 5 more minutes or until the spinach is wilted. Taste and season with salt, pepper, and crushed red pepper.",
-        "To Serve: Spoon the orzo into shallow bowls and garnish with the reserved basil leaves. Drizzle with a teaspoon of extra virgin olive oil and a sprinkle of flaky sea salt, if desired. Enjoy!"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare Ingredients: Peel and dice the onion. Peel and mince the garlic. Slice the mushrooms. Halve the cherry tomatoes. Using a vegetable peeler, peel off 4 pieces of lemon zest and set aside. Juice the lemon into a small bowl. Pick the basil leaves from the stems and reserve a few leaves for garnish.",
+    "Brown the Beef: Heat 1 teaspoon oil in a wide skillet over medium high. Add the beef and season with salt, pepper, and crushed red pepper to taste. Cook, breaking up with a spoon, for 8-10 minutes until well browned all over and cooked through. Using a slotted spoon, transfer the beef to a bowl. If there is excessive oil in the skillet, drain off all but a couple teaspoons.",
+    "Sauté the Aromatics: Return the skillet to medium heat. Add the onions and cook, stirring often, until softened and well browned, about 8-10 minutes. Add the garlic and cook for 45 seconds until fragrant.",
+    "If the skillet seems dry, add the remaining 1 teaspoon of oil and the sliced mushrooms. Cook for 10-12 minutes until well-browned. Season with salt, pepper, and crushed red pepper to taste.",
+    "Prepare the Rest of the Skillet Orzo: Pour the chicken stock into the skillet and scrape up any browned bits stuck to the bottom. Add the cooked beef. Add the halved cherry tomatoes and the strips of lemon zest and bring to a boil. Reduce heat to medium and pour in the orzo. Cook, stirring often to keep the orzo from sticking to the bottom, for about 6-8 minutes until just under al dente.",
+    "Add the basil leaves, baby spinach, and lemon juice, and stir to combine. Cook for 5 more minutes or until the spinach is wilted. Taste and season with salt, pepper, and crushed red pepper.",
+    "To Serve: Spoon the orzo into shallow bowls and garnish with the reserved basil leaves. Drizzle with a teaspoon of extra virgin olive oil and a sprinkle of flaky sea salt, if desired. Enjoy!"
+  ]
 }

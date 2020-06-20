@@ -8,11 +8,16 @@
   ],
   "source": "https://www.budgetbytes.com/pressure-cooker-chicken-rice/",
   "ingredients": [
-    "1 whole split chicken (3-4 lbs. total)",
-    "2 Tbsp (approx.) seasoning blend of choice* ",
-    "2 cups water ",
-    "1.5 cups long grain white rice ",
-    " Handful parsley (optional)"
+    {
+      "category": "All",
+      "items": [
+        "1 whole split chicken (3-4 lbs. total)",
+        "2 Tbsp (approx.) seasoning blend of choice* ",
+        "2 cups water ",
+        "1.5 cups long grain white rice ",
+        " Handful parsley (optional)"
+      ]
+    }
   ],
   "instructions": [
     "Season the chicken well on both sides with your favorite spice or seasoning blend. If your sblend blend does not contain salt, season the chicken liberally with salt as well.",

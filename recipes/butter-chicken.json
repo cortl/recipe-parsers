@@ -1,13 +1,16 @@
 {
-    "title": "Butter Chicken",
-    "rating": 9,
-    "slug": "butter-chicken",
-    "notes": [
-        "Try marinating the chicken in yogurt first too"
-    ],
-    "image": "../images/butter-chicken.jpg",
-    "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
-    "ingredients": [
+  "title": "Butter Chicken",
+  "rating": 9,
+  "slug": "butter-chicken",
+  "notes": [
+    "Try marinating the chicken in yogurt first too"
+  ],
+  "image": "../images/butter-chicken.jpg",
+  "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "400g Chicken breast",
         "1 Tbsp Ginger paste",
         "1 Tbsp Garlic",
@@ -26,22 +29,24 @@
         "1/2 Tbsp + 1 Tsp Garam Massala",
         "1 Tsp Salt",
         "4 Tbsp Heavy Cream"
-    ],
-    "instructions": [
-        "Marinade the chicken with 1 Tbsp ginger paste, 1 Tbsp garlic, 1/2 tsp salt, 1 tsp red chili peppers, 1 tsp paprika for 1-2 hours.",
-        "Melt 1 tbsp butter and 1 tbsp oil in a pan",
-        "Add the cashew and fry 30 secs",
-        "Add the chopped onion and tomato. Cook 5 mins",
-        "Add the sugar, ginger and garlic paste, paprika, red chili powder, Garam masala,salt and 1 tbsp heavy cream and 1 cup warm water",
-        "cover and cook for 10 mins.",
-        "Cool a bit and blend to a smooth paste in a mixer",
-        "Strain the mixture. Discard the seeds and skin that will be leftover once completely strained.",
-        "Heat 1 tbsp oil and 1 tbsp butter in a pan",
-        "Fry the marinated chicken for 3-4 mins on each side. Set aside once done",
-        "In the same pan, add the strained mixture. Bring to a boil",
-        "Add the chicken pieces and 1 tbsp butter.",
-        "Cover and cook 5 mins",
-        "Add kasoori methi, 1 tsp garam masala and 3 tbsp heavy cream",
-        "Mix well. turn off heat let is rest for 5 mins"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "Marinade the chicken with 1 Tbsp ginger paste, 1 Tbsp garlic, 1/2 tsp salt, 1 tsp red chili peppers, 1 tsp paprika for 1-2 hours.",
+    "Melt 1 tbsp butter and 1 tbsp oil in a pan",
+    "Add the cashew and fry 30 secs",
+    "Add the chopped onion and tomato. Cook 5 mins",
+    "Add the sugar, ginger and garlic paste, paprika, red chili powder, Garam masala,salt and 1 tbsp heavy cream and 1 cup warm water",
+    "cover and cook for 10 mins.",
+    "Cool a bit and blend to a smooth paste in a mixer",
+    "Strain the mixture. Discard the seeds and skin that will be leftover once completely strained.",
+    "Heat 1 tbsp oil and 1 tbsp butter in a pan",
+    "Fry the marinated chicken for 3-4 mins on each side. Set aside once done",
+    "In the same pan, add the strained mixture. Bring to a boil",
+    "Add the chicken pieces and 1 tbsp butter.",
+    "Cover and cook 5 mins",
+    "Add kasoori methi, 1 tsp garam masala and 3 tbsp heavy cream",
+    "Mix well. turn off heat let is rest for 5 mins"
+  ]
 }

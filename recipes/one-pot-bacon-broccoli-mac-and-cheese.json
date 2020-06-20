@@ -8,15 +8,20 @@
   ],
   "source": "https://www.budgetbytes.com/2017/05/one-pot-bacon-broccoli-mac-cheese/",
   "ingredients": [
-    "1/2 lb frozen broccoli florets",
-    "4 oz bacon",
-    "8 oz medium cheddar",
-    "1/2 lb pasta",
-    "1 cup evaporated milk",
-    "1/2 tsp smoked paprika",
-    "1/2 tsp hot sauce",
-    "1/2 tsp Dijon mustard",
-    "1/4 tsp salt"
+    {
+      "category": "All",
+      "items": [
+        "1/2 lb frozen broccoli florets",
+        "4 oz bacon",
+        "8 oz medium cheddar",
+        "1/2 lb pasta",
+        "1 cup evaporated milk",
+        "1/2 tsp smoked paprika",
+        "1/2 tsp hot sauce",
+        "1/2 tsp Dijon mustard",
+        "1/4 tsp salt"
+      ]
+    }
   ],
   "instructions": [
     "Prepare the ingredients before beginning because the process goes quickly once it's begun. Thaw the broccoli florets and chop them into small bite-sized pieces. Slice the bacon into small pieces. Shred the cheddar cheese.",

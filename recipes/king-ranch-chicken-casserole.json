@@ -8,19 +8,24 @@
   ],
   "source": "https://www.budgetbytes.com/king-ranch-chicken-casserole/",
   "ingredients": [
-    "1 lb. boneless, skinless chicken breast",
-    "1 Tbsp  chili powder",
-    "1 Tbsp cooking oil",
-    "2 Tbsp butter",
-    "1 yellow onion",
-    "1 green bell pepper",
-    "2 Tbsp all-purpose flour",
-    "1 cup chicken broth",
-    "1 10 oz. can diced tomatoes with green chiles (Rotel)",
-    "1/2 cup sour cream",
-    "8 oz. cheddar cheese, shredded",
-    "5 cups tortilla chip strips*",
-    "2 green onions"
+    {
+      "category": "All",
+      "items": [
+        "1 lb. boneless, skinless chicken breast",
+        "1 Tbsp  chili powder",
+        "1 Tbsp cooking oil",
+        "2 Tbsp butter",
+        "1 yellow onion",
+        "1 green bell pepper",
+        "2 Tbsp all-purpose flour",
+        "1 cup chicken broth",
+        "1 10 oz. can diced tomatoes with green chiles (Rotel)",
+        "1/2 cup sour cream",
+        "8 oz. cheddar cheese, shredded",
+        "5 cups tortilla chip strips*",
+        "2 green onions"
+      ]
+    }
   ],
   "instructions": [
     "Place the chicken breasts on a cutting board, cover with plastic wrap, and use a mallet or rolling pin to pound the chicken to an even thickness, about 3/4 to 1-inch thick. Season both sides of the chicken breasts with chili powder.",

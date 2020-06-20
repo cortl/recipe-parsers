@@ -8,15 +8,20 @@
   ],
   "source": "https://www.budgetbytes.com/easy-oven-baked-fish-with-tomatoes/",
   "ingredients": [
-    "1 15 oz. can fire roasted diced tomatoes",
-    "2 cloves garlic, minced",
-    "2 Tbsp olive oil",
-    "1/2 tsp dried oregano",
-    "1/4 tsp salt",
-    " freshly cracked pepper",
-    "1/2 Tbsp lemon juice",
-    "1 lb. white fish (four 4oz. fillets)",
-    " chopped fresh parsley for garnish (optional)"
+    {
+      "category": "All",
+      "items": [
+        "1 15 oz. can fire roasted diced tomatoes",
+        "2 cloves garlic, minced",
+        "2 Tbsp olive oil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp salt",
+        " freshly cracked pepper",
+        "1/2 Tbsp lemon juice",
+        "1 lb. white fish (four 4oz. fillets)",
+        " chopped fresh parsley for garnish (optional)"
+      ]
+    }
   ],
   "instructions": [
     "Preheat the oven to 400ºF. Drain the excess liquid from the can of diced tomatoes. Combine the diced tomatoes in a bowl with the garlic, olive oil, oregano, salt, some freshly cracked pepper (about 10 cranks of a pepper mill), and lemon juice. ",

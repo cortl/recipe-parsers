@@ -1,14 +1,17 @@
 {
-    "title": "Garlic Butter Steak and Potatoes Skillet",
-    "rating": 9,
-    "slug": "garlic-butter-steak-and-potatoes-skillet",
-    "notes": [
-        "Really good, might need to cook steak in batches in order to brown it, my skillet isn't big enough",
-        "Par-boil the potatoes so that they cook quicker and get crispier"
-    ],
-    "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
-    "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
-    "ingredients": [
+  "title": "Garlic Butter Steak and Potatoes Skillet",
+  "rating": 9,
+  "slug": "garlic-butter-steak-and-potatoes-skillet",
+  "notes": [
+    "Really good, might need to cook steak in batches in order to brown it, my skillet isn't big enough",
+    "Par-boil the potatoes so that they cook quicker and get crispier"
+  ],
+  "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
+  "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
         "1 1/2 lb flank steak",
         "1 1/2 lb baby yellow potatoes, quartered",
         "1 tablespoon olive oil",
@@ -21,12 +24,14 @@
         "1/3 cup soy sauce",
         "1 tablespoon olive oil",
         "1 tablespoon Sriracha"
-    ],
-    "instructions": [
-        "In a large bowl, combine the steak strips with soy sauce, olive oil, pepper, and hot sauce. Set aside to marinate while you cook potatoes.",
-        "In a large skillet over medium-high heat, mix 1 tablespoon olive oil and 1 tablespoon butter. When butter is melted, add potatoes. Cook for about 4 minutes, stir and cook an additional 4-5 minutes until potatoes are golden and fork tender. Transfer to a plate and set aside.",
-        "Keep the same skillet over medium heat and add remaining 2 tablespoons butter, garlic, red chili pepper flakes, and fresh herbs. Lay the steak strips in one layer in the skillet, keeping the drained marinade for later. Cook on each side for 1 minute each, until nicely browned – adjust timing depending on how you like your steak.",
-        "Right before the steak is done, you can stir in the reserved marinade if you like, and cook for one minute. Add the potatoes back to the pan and heat through. Adjust seasoning with salt and pepper if necessary.",
-        "Remove from heat and serve immediately, garnished with more crushed chili pepper, fresh herbs, and a sprinkle of parmesan cheese over the potatoes if you like. Enjoy!"
-    ]
+      ]
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the steak strips with soy sauce, olive oil, pepper, and hot sauce. Set aside to marinate while you cook potatoes.",
+    "In a large skillet over medium-high heat, mix 1 tablespoon olive oil and 1 tablespoon butter. When butter is melted, add potatoes. Cook for about 4 minutes, stir and cook an additional 4-5 minutes until potatoes are golden and fork tender. Transfer to a plate and set aside.",
+    "Keep the same skillet over medium heat and add remaining 2 tablespoons butter, garlic, red chili pepper flakes, and fresh herbs. Lay the steak strips in one layer in the skillet, keeping the drained marinade for later. Cook on each side for 1 minute each, until nicely browned – adjust timing depending on how you like your steak.",
+    "Right before the steak is done, you can stir in the reserved marinade if you like, and cook for one minute. Add the potatoes back to the pan and heat through. Adjust seasoning with salt and pepper if necessary.",
+    "Remove from heat and serve immediately, garnished with more crushed chili pepper, fresh herbs, and a sprinkle of parmesan cheese over the potatoes if you like. Enjoy!"
+  ]
 }
