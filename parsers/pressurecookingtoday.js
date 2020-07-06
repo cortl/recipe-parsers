@@ -28,7 +28,8 @@ const parse = async (source, notes, rating) => {
         notes: [notes],
         source: source,
         ingredients,
-        instructions
+        instructions,
+        createdDate: new Date().toLocaleDateString()
     };
 }
 
