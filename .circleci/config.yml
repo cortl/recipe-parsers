@@ -25,7 +25,9 @@ workflows:
                 - master
     jobs:
       - update
-      - publish
+      - publish:
+          requires:
+            - update
 
 jobs:
   update:
