@@ -10,9 +10,8 @@
   "source": "https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
   "ingredients": [
     {
-      "category": "All",
+      "category": "Chicken",
       "items": [
-        "For the chicken:",
         "2 tablespoons fresh lemon juice",
         "1 tablespoon chopped fresh oregano",
         "1/2 teaspoon ground coriander seed",
@@ -20,14 +19,23 @@
         "1/4 cup light olive oil",
         "Kosher salt and freshly ground black pepper",
         "2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)",
-        "1 tablespoon vegetable or canola oil",
-        "For the rice:",
+        "1 tablespoon vegetable or canola oil"
+      ]
+    },
+    {
+      "category": "Rice",
+      "items": [
         "2 tablespoons unsalted butter",
         "1/2 teaspoon turmeric",
         "1/4 teaspoon ground cumin",
         "1 1/2 cups long-grain or Basmati rice",
         "2 1/2 cups chicken broth",
-        "Kosher salt and freshly ground black pepper ",
+        "Kosher salt and freshly ground black pepper "
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
         "For the sauce:",
         "1/2 cup mayonnaise",
         "1/2 cup Greek yogurt",
