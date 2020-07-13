@@ -20,4 +20,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
+    - run: echo $GCP_KEY > credentials.json
+    - run: npm start
     - run: npm test
