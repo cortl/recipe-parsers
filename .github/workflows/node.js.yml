@@ -17,5 +17,6 @@ jobs:
     - run: npm ci
     - run: echo $GCP_KEY > credentials.json
     - run: pwd
+    - run: ls
     - run: npm start
     - run: npm test
