@@ -16,6 +16,6 @@ jobs:
         node-version: '12'
     - run: npm ci
     - run: echo $GCP_KEY > credentials.json
-    - run: cat $GOOGLE_APPLICATION_CREDENTIALS
+    - run: echo `cat $GOOGLE_APPLICATION_CREDENTIALS`
     - run: npm start
     - run: npm test
