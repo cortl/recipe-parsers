@@ -92,3 +92,4 @@
     - [Quick Seasoned Black Beans](recipes/quick-seasoned-black-beans.json)
     - [Green Chile Chicken Enchiladas](recipes/green-chile-chicken-enchiladas.json)
     - [Charred Corn and Zucchini Salad](recipes/charred-corn-and-zucchini-salad.json)
+    - [Blackened Salmon with Zucchini](recipes/blackened-salmon-with-zucchini.json)
