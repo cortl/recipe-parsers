@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "google-auth-library": "^5.7.0",
     "googleapis": "^46.0.0",
-    "open": "^7.0.0",
+    "open": "^7.1.0",
     "server-destroy": "^1.0.1",
     "url-parse": "^1.4.7"
   }
