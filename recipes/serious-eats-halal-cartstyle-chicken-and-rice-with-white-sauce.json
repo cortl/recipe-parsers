@@ -36,15 +36,18 @@
     {
       "category": "Sauce",
       "items": [
-        "For the sauce:",
         "1/2 cup mayonnaise",
         "1/2 cup Greek yogurt",
         "1 tablespoon sugar",
         "2 tablespoons white vinegar",
         "1 teaspoon lemon juice",
         "1/4 cup chopped fresh parsley",
-        "Kosher salt and freshly ground black pepper",
-        "To serve:",
+        "Kosher salt and freshly ground black pepper"
+      ]
+    },
+    {
+      "category": "To Serve",
+      "items": [
         "1 head iceberg lettuce, shredded",
         "1 large tomato, cut into wedges",
         "Fluffy pocketless pita bread, brushed in butter, lightly toasted, and cut into 1 × 3-inch strips",
