@@ -10,7 +10,7 @@
   "source": "https://www.budgetbytes.com/beef-kofta-meatballs-with-roasted-vegetables/",
   "ingredients": [
     {
-      "category": "All",
+      "category": "Vegetables",
       "items": [
         "1 zucchini",
         "1 yellow squash",
@@ -19,7 +19,12 @@
         "2 Tbsp olive oil",
         "1/4 tsp garlic powder",
         "1/2 tsp dried oregano",
-        " salt & pepper",
+        "Salt & pepper"
+      ]
+    },
+    {
+      "category": "Meatballs",
+      "items": [
         "1 lb. ground beef",
         "2 cloves garlic, minced",
         "1/4 red onion, minced",
@@ -28,8 +33,12 @@
         "1/4  tsp  cumin",
         "1/8 tsp cinnamon",
         "1/8 tsp cloves",
-        "3/4 tsp salt",
-        "2 Tbsp  cooking oil",
+        "3/4 tsp salt"
+      ]
+    },
+    {
+      "category": "Sides",
+      "items": [
         "4 cups cooked rice",
         "2 Tbsp  parsley, chopped, for garnish"
       ]
