@@ -7,7 +7,7 @@ const parse = async (source, notes, rating) => {
         .then(res => res.data)
         .then(data => cheerio.load(data));
 
-    const ingredients = $('.ingredient').map((_, element) => $(element).text()).get()
+    const items = $('.ingredient').map((_, element) => $(element).text()).get()
     const instructions = $('.recipe-procedure-text')
         .map((_, element) => $(element).text()).get()
         .map(instruction => instruction.replace(/\n/gi, ''))
@@ -27,7 +27,12 @@ const parse = async (source, notes, rating) => {
         rating,
         notes: [notes],
         source: source,
-        ingredients,
+        ingredients: [
+            {
+                category: 'All',
+                items
+            }
+        ],
         instructions,
         createdDate: new Date().toLocaleDateString()
     };
