@@ -93,3 +93,5 @@
     - [Green Chile Chicken Enchiladas](recipes/green-chile-chicken-enchiladas.json)
     - [Charred Corn and Zucchini Salad](recipes/charred-corn-and-zucchini-salad.json)
     - [Blackened Salmon with Zucchini](recipes/blackened-salmon-with-zucchini.json)
+    - [One Pot Lemon Artichoke Chicken and Rice](recipes/one-pot-lemon-artichoke-chicken-and-rice.json)
+    - [Easy One-Bowl Coffee Cake Recipe](recipes/easy-onebowl-coffee-cake-recipe.json)
