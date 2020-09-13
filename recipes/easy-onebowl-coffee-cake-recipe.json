@@ -1,7 +1,7 @@
 {
   "title": "Easy One-Bowl Coffee Cake Recipe",
   "slug": "easy-onebowl-coffee-cake-recipe",
-  "image": "",
+  "image": "../images/easy-onebowl-coffee-cake.jpg",
   "rating": 8,
   "notes": [
     ""
@@ -9,16 +9,19 @@
   "source": "https://www.seriouseats.com/recipes/2017/05/easy-coffee-cake-recipe.html",
   "ingredients": [
     {
-      "category": "All",
+      "category": "For the Topping:",
       "items": [
-        "For the Topping:",
         "4 ounces light brown sugar (about 1/2 cup, packed; 115g)",
         "2 1/2 ounces whole wheat flour (about 1/2 cup, spooned; 70g)",
         "1 tablespoon (5g) ground cinnamon",
         "1/4 teaspoon (1g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight",
         "Shy 1/4 teaspoon ground cardamom",
-        "2 ounces unsalted butter (about 4 tablespoons; 55g), soft, about 70°F (21°C)",
-        "For the Coffee Cake:",
+        "2 ounces unsalted butter (about 4 tablespoons; 55g), soft, about 70°F (21°C)"
+      ]
+    },
+    {
+      "category": "For the Coffee Cake",
+      "items": [
         "14 ounces plain or quick-toasted sugar (2 cups; 395g)",
         "6 ounces unsalted butter (about 12 tablespoons; 170g), about 65°F (18°C)",
         "4 teaspoons baking powder",
