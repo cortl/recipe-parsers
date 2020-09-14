@@ -95,3 +95,5 @@
     - [Blackened Salmon with Zucchini](recipes/blackened-salmon-with-zucchini.json)
     - [One Pot Lemon Artichoke Chicken and Rice](recipes/one-pot-lemon-artichoke-chicken-and-rice.json)
     - [Easy One-Bowl Coffee Cake Recipe](recipes/easy-onebowl-coffee-cake-recipe.json)
+    - [New York-Style Pizza Sauce Recipe](recipes/new-yorkstyle-pizza-sauce-recipe.json)
+    - [Foolproof Pan Pizza Recipe](recipes/foolproof-pan-pizza-recipe.json)
