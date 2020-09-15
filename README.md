@@ -97,3 +97,4 @@
     - [Easy One-Bowl Coffee Cake Recipe](recipes/easy-onebowl-coffee-cake-recipe.json)
     - [New York-Style Pizza Sauce Recipe](recipes/new-yorkstyle-pizza-sauce-recipe.json)
     - [Foolproof Pan Pizza Recipe](recipes/foolproof-pan-pizza-recipe.json)
+    - [Beef Taco Skillet](recipes/beef-taco-skillet.json)

@@ -1,0 +1,45 @@
+{
+  "title": "Beef Taco Skillet",
+  "slug": "beef-taco-skillet",
+  "image": "../images/beef-taco-skillet.jpg",
+  "rating": 6,
+  "notes": [
+    "Another taco based meal"
+  ],
+  "source": "https://www.budgetbytes.com/beef-taco-skillet/",
+  "ingredients": [
+    {
+      "category": "Homemade Taco Seasoning",
+      "items": [
+        "1 Tbsp chili powder*",
+        "1 tsp smoked paprika",
+        "1 tsp ground cumin",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp dried oregano",
+        "1/4 tsp salt",
+        "1/4 tsp freshly cracked black pepper"
+      ]
+    },
+    {
+      "category": "Skillet Ingredients",
+      "items": [
+        "1/2 lb. ground beef",
+        "1 15oz. can black beans",
+        "1 pint grape tomatoes (or one large tomato)",
+        "4 oz. tortilla chips",
+        "2 oz. shredded cheddar cheese",
+        "1 green onion"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine the ingredients for the homemade taco seasoning in a small bowl (chili powder, smoked paprika, cumin, cayenne, oregano, salt, and pepper).",
+    "Slice the green onion and cut the grape tomatoes in half (if using one large tomato, cut it into a small dice).",
+    "Add the ground beef to a skillet and cook over medium until it is fully browned. If you're using a higher fat content beef (20% or higher), drain the excess fat before moving to the next step. If you're using a very lean ground beef (<10% fat) you may need to add a touch of oil to the skillet to keep the beef from sticking.",
+    "While the beef is cooking, rinse and drain the can of black beans. Add the black beans to the skillet with the prepared taco seasoning. Continue to stir and cook over medium heat for about 2 minutes more, or until heated through.",
+    "Add the tomatoes to the skillet and continue to cook over medium, stirring often, until the tomatoes begin to break down a bit (about three more minutes).",
+    "Finally, add the tortilla chips and stir to combine with the other ingredients in the skillet.",
+    "Top the skillet with the shredded cheese, place a lid on top, and let it heat for 1-2 minutes, or just until the cheese is melted. Sprinkle the sliced green onions over top just before serving."
+  ],
+  "createdDate": "9/15/2020"
+}
