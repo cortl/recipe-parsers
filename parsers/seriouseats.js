@@ -19,9 +19,13 @@ const parse = async (source, notes, rating) => {
     const image = imageUrl
         ? await util.downloadImage(slug, imageUrl)
         : "";
+    const servings = $('.yield').text().split(' ')
+        .map(word => parseInt(word))
+        .find(Number.isInteger)
 
     return {
         title,
+        servings,
         slug: util.createSlug(title),
         image,
         rating,

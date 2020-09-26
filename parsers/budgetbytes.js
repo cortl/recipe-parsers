@@ -52,8 +52,12 @@ const parse = async (source, notes, rating) => {
         ? await util.downloadImage(slug, imageUrl)
         : "";
 
+
+    const servings = parseInt($('.wprm-recipe-servings').text());
+
     return {
         title,
+        servings,
         slug,
         image,
         rating,

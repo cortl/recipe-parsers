@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "node test.js",
     "migrate": "node migrate.js",
-    "local": "node parsers/test.js"
+    "local": "node parsers/local.js"
   },
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
   ],
   "homepage": "https://github.com/cortl/recipes#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
-    "google-auth-library": "^5.7.0",
+    "google-auth-library": "^5.10.1",
     "googleapis": "^46.0.0",
     "url-parse": "^1.4.7"
   }

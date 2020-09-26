@@ -14,14 +14,21 @@ const parse = async (source, notes, rating) => {
 
     const ingredientBlock = $('.mv-create-ingredients');
     select = cheerio.load(cheerio.html($(ingredientBlock)));
-    const ingredients = select('li').map((_, element) => $(element).text()).get()
-        .map(ingredient => ingredient.split(' ').filter(Boolean).join(' '));
+    const ingredients = select('li')
+        .map((_, element) => $(element).text()).get()
+        .map(ingredient => ingredient.split(' ').filter(Boolean).join(' '))
+        .map(str => str.replace(/[\t\n\r]/gm,''));
     const title = $('h1').text();
     const slug = util.createSlug(title);
     const imageUrl = $('img').map((_, element) => $(element).attr('data-lazy-src')).get()[0]
     const image = await util.downloadImage(slug, imageUrl);
+    const servings = $('.mv-create-yield').text()
+        .split(' ')
+        .map(word => parseInt(word))
+        .find(Boolean);
     return {
         title,
+        servings,
         slug,
         rating,
         image,
