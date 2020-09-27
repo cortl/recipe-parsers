@@ -38,5 +38,19 @@
     "After 3 hours on high or 6 hours on low, the chicken should be fall-apart tender. Turn the slow cooker off, then add the heavy cream. Stir gently to combine the cream with the tomato sauce. Taste the sauce and add salt if needed.",
     "To serve, spoon the chicken and tomato sauce over cooked rice and top with fresh cilantro."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ]
 }

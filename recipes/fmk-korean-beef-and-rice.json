@@ -8,6 +8,12 @@
   "createdDate": "06/13/2020",
   "source": "https://fitmencook.com/korean-beef-and-rice/",
   "image": "../images/fmk-korean-ground-beef.jpg",
+  "time": [
+    {
+      "label": "Total time",
+      "units": "20 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

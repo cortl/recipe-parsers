@@ -8,6 +8,20 @@
   "createdDate": "11/24/2019",
   "source": "https://thesaltymarshmallow.com/instant-pot-mashed-potatoes/",
   "image": "../images/instant-pot-mashed-potatoes.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

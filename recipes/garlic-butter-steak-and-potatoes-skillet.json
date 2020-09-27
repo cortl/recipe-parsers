@@ -9,6 +9,16 @@
   "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
   "createdDate": "01/06/2019",
   "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "30 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

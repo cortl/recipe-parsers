@@ -38,5 +38,19 @@
     "After the sauce has simmered for 30 minutes, add the macaroni and stir to combine. Continue to let the macaroni simmer in the sauce, with the lid on, stirring occasionally, until the pasta is tender (about 10-12 minutes).",
     "Once the pasta is tender, taste the goulash and add salt to taste. Remove the bay leaves, then serve."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "10 minutes"
+    }
+  ]
 }

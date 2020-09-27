@@ -5,6 +5,20 @@
   "notes": [],
   "source": "https://fitmencook.com/healthy-chicken-recipes/",
   "image": "../images/spiced-creamy-chicken-pilaf.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "40 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

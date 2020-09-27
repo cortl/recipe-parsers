@@ -7,6 +7,20 @@
   ],
   "source": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
   "image": "../images/easy-keto-chicken-parm.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

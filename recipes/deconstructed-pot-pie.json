@@ -8,6 +8,16 @@
     "createdDate": "11/01/2019",
     "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
     "image": "../images/deconstructed-chicken-pot-pie.jpg",
+    "time": [
+        {
+           "label": "Prep",
+           "units": "15 minutes"
+        },
+        {
+            "label": "Cook",
+            "units": "30 minutes"
+          }
+    ],
     "ingredients": [
         {
             "category": "All",

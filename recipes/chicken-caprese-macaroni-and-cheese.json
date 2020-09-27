@@ -3,6 +3,16 @@
   "rating": 6,
   "slug": "chicken-caprese-macaroni-and-cheese",
   "notes": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "30 minutes"
+    }
+  ],
   "source": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
   "image": "../images/chicken-caprese-macaroni-and-cheese.jpg",
   "ingredients": [

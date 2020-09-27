@@ -31,5 +31,19 @@
     "Once the chicken is cooked through, remove it to a clean plate. Pour the remaining marinade into the skillet and let it boil over medium heat, stirring often, until it has reduced to a thick and rich glaze.",
     "Turn the heat under the skillet down to medium-low, return the chicken to the skillet, and spoon some of the glaze over each piece. Place a slice of mozzarella on top of each piece of chicken, followed by two slices of tomato. Place a lid on the skillet and let it heat through until the mozzarella is melted. Top the chicken with the chopped fresh parsley, then serve."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "10 minutes"
+    }
+  ]
 }

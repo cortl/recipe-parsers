@@ -33,5 +33,23 @@
     "Salt and pepper the gravy to taste.",
     "Pour gravy over the pork chops in the serving bowl. Serve pork chops over prepared rice or mashed potatoes."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook Time",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Additional Time",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total Time",
+      "units": "45 minutes"
+    }
+  ]
 }

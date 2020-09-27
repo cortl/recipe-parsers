@@ -58,5 +58,15 @@
     "Using a large spoon, place small dollops of the cornbread batter mixture on top of the beef filling, then use the back of the spoon to spread it into an even layer. Transfer the skillet to the oven and bake until pale golden brown and a skewer inserted into the cornbread comes out clean, about 20 minutes.",
     "Let cool 15 minutes, then serve with sour cream."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Active time",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Total time",
+      "units": "4 hours (or 2 1/4 hours with the pressure cooker)"
+    }
+  ]
 }

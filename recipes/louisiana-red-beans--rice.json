@@ -8,6 +8,24 @@
   ],
   "createdDate": "08/10/2015",
   "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
+  "time": [
+    {
+      "label": "Soaking",
+      "units": "8 hours"
+    },
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "2 hours"
+    },
+    {
+      "label": "Total",
+      "units": "10 hours 15 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

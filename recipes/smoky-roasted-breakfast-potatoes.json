@@ -7,6 +7,20 @@
     "test"
   ],
   "source": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "50 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "1 hour"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

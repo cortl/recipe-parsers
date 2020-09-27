@@ -1,6 +1,7 @@
 const fs = require("fs");
 const assert = require('assert');
 const path = require('path');
+const { type } = require("os");
 
 const fieldIsA = (name, field, type) => {
     assert.strictEqual(typeof (field), type, `❌ ${name} isn\'t a ${type}`)
@@ -20,7 +21,7 @@ items.forEach(item => {
     try {
         const recipe = JSON.parse(fs.readFileSync(`recipes/${item}`));
         const {
-            title, servings, rating, slug, notes,
+            title, servings, time, rating, slug, notes,
             source, image, instructions, ingredients,
             createdDate, ...unused
         } = recipe;
@@ -51,6 +52,16 @@ items.forEach(item => {
             assert.ok(Array.isArray(items), '❌ items is not an array');
         })
         console.log('✅ ingredients')
+
+        assert.ok(Array.isArray(time), '❌ time is not an array');
+        time.forEach(time => {
+            const { label, units, ...extra } = time;
+
+            assert.ok(!Object.keys(extra).length, '❌ extra fields underneath time');
+            assert.strictEqual(typeof label, 'string', '❌ label is not a string');
+            assert.strictEqual(typeof units, 'string', '❌ units is not a string')
+        });
+        console.log('✅ time')
 
         if (image) {
             const imagePath = path.normalize(`recipes/${image}`);

@@ -5,6 +5,20 @@
   "notes": [
     "Less sugary than other recipes, pretty good"
   ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 min"
+    },
+    {
+      "label": "Inactive",
+      "units": "2 hours"
+    },
+    {
+      "label": "Cook",
+      "units": "9 min"
+    }
+  ],
   "createdDate": "12/18/2019",
   "source": "https://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe-1914697",
   "image": "../images/alton-brown-sugar-cookies.jpg",

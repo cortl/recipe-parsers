@@ -30,5 +30,23 @@
     "Grill for 4 to 6 minutes per side or until cooked through.",
     "Transfer to serving plate and garnish with additional basil, if desired."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "prep",
+      "units": "20 mins"
+    },
+    {
+      "label": "cook",
+      "units": "12 mins"
+    },
+    {
+      "label": "additional",
+      "units": "15 mins"
+    },
+    {
+      "label": "total",
+      "units": "47 mins"
+    }
+  ]
 }

@@ -35,5 +35,15 @@
     "When turkey is cooked, remove from oven and transfer rack to a new baking sheet. Allow to rest at room temperature for 20 minutes before carving. Carefully pour any collected juices from out of the roasting pan through a fine-mesh strainer into a liquid measuring cup. Skim off excess fat and dicard. Whisk juices into gravy.",
     "Carve turkey and serve with gravy"
   ],
-  "servings": 10
+  "servings": 10,
+  "time": [
+    {
+      "label": "Active time",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total time",
+      "units": "2 hours"
+    }
+  ]
 }

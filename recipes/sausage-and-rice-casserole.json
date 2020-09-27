@@ -7,6 +7,20 @@
   ],
   "source": "https://therecipecritic.com/sausage-and-rice-casserole/",
   "image": "../images/sausage-and-rice-casserole.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "1 hour"
+    },
+    {
+      "label": "Total",
+      "units": "1 hour 20 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

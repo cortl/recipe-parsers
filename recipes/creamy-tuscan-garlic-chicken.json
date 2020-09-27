@@ -7,6 +7,20 @@
   ],
   "source": "https://therecipecritic.com/2016/05/creamy-tuscan-garlic-chicken",
   "image": "../images/creamy-tuscan-garlic-chicken.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "25 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

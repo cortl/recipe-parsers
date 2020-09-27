@@ -8,6 +8,12 @@
   "createdDate": "06/13/2020",
   "source": "https://fitmencook.com/chicken-tinga-tacos/",
   "image": "../images/chicken-tinga.jpg",
+  "time": [
+    {
+      "label": "Total time",
+      "units": "35 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

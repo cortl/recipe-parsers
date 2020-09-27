@@ -5,6 +5,20 @@
   "notes": [],
   "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
   "image": "../images/white-chicken-chili.jpeg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "55 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

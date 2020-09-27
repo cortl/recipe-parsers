@@ -8,6 +8,12 @@
   "createdDate": "07/28/2019",
   "source": "https://fitmencook.com/chili-sauce-recipe/",
   "image": "../images/orange-chili-sauce.jpg",
+  "time": [
+    {
+      "label": "Total",
+      "units": "15 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

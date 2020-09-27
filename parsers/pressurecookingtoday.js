@@ -26,9 +26,20 @@ const parse = async (source, notes, rating) => {
         .split(' ')
         .map(word => parseInt(word))
         .find(Boolean);
+
+    const time = $('.mv-create-time').map((i, element) => {
+        const label = $(element).find('.mv-create-time-label').text();
+        const units = $(element).find('span.mv-time-part').text();
+        return {
+            label,
+            units
+        }
+    }).get();
+
     return {
         title,
         servings,
+        time,
         slug,
         rating,
         image,

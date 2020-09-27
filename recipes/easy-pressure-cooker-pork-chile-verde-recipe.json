@@ -30,5 +30,15 @@
     "In a pressure cooker, combine pork, tomatillos, Poblano peppers, Anaheim peppers, serrano peppers, onion, garlic, cumin, and a big pinch of salt. Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 30 minutes. Release pressure.",
     "Using tongs, transfer pork pieces to a bowl and set aside. Add cilantro and fish sauce to remaining contents of pressure cooker. Blend with an immersion blender or in a countertop blender, then season to taste with salt. Return pork to sauce and stir gently to combine. Serve immediately with tortillas and lime wedges."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Active time",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total time",
+      "units": "45 minutes"
+    }
+  ]
 }

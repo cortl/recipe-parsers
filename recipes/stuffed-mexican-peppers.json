@@ -31,5 +31,19 @@
     "Place the steamed peppers into the prepared baking dish, and fill lightly with the meat filling. Press 1 cube of Colby-Jack cheese into the center of the filling in each pepper, and spoon the remaining can of tomato sauce over the peppers. Cover the dish with aluminum foil.                            ",
     "Bake in the preheated oven until the peppers are tender and the filling is hot, 25 to 30 minutes.                            "
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "prep",
+      "units": "15 mins"
+    },
+    {
+      "label": "cook",
+      "units": "1 hr"
+    },
+    {
+      "label": "total",
+      "units": "1 hr 15 mins"
+    }
+  ]
 }

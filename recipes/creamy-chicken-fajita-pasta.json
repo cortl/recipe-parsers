@@ -37,5 +37,19 @@
     "Add the onion and bell pepper to the skillet and continue to sauté over medium heat just until they begin to soften slightly on the edges and have a little brown color. Add the canned tomatoes (with juices) and the cream cheese. Stir the mixture over medium heat until the cream cheese melts in and forms a creamy sauce with the tomatoes.",
     "Finally, add the cooked and drained pasta and cooked chicken back to the skillet. Stir until everything is evenly combined and coated in creamy sauce. Top with sliced green onions and serve."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ]
 }

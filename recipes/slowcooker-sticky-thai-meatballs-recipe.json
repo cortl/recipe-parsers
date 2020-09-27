@@ -45,5 +45,15 @@
     "In a small bowl, combine remaining scallion, cilantro, chopped peanuts, and lime juice.",
     "Once the cooking time is up, switch the slow cooker to the “warm” setting. Right before serving, sprinkle approximately 3/4 of the peanut mixture over the meatballs and stir. Top with the remaining peanut mixture and serve."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Active time",
+      "units": "1 hour"
+    },
+    {
+      "label": "Total time",
+      "units": "9 hours"
+    }
+  ]
 }

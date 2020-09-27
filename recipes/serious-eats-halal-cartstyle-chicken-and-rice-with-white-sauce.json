@@ -8,6 +8,24 @@
   ],
   "createdDate": "04/20/2019",
   "source": "https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
+  "time": [
+    {
+      "label": "Marinade",
+      "units": "1 hour"
+    },
+    {
+      "label": "Prep",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "1 hour 45 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "Chicken",

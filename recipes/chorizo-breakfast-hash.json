@@ -32,5 +32,19 @@
     "While the bell pepper and onion are cooking, dice the boiled potatoes into 1/4-inch cubes. After removing the bell pepper and onion from the skillet, add an additional tablespoon of oil and swirl to coat the surface of the skillet. Add the diced potatoes along with another pinch of salt and pepper, and a 1/2 tsp of chili powder. Cook the potatoes in the hot oil, stirring only occasionally, until the potatoes are brown and crispy (about 10 minutes). Avoid stirring too often as this will prevent the potatoes from forming a brown crispy exterior.",
     "Finally, add the chorizo, bell pepper, and onion back to the skillet and stir to combine. Top with sliced green onion. Divide the hash between four plates, add a fried egg, and top with a dollop of sour cream and salsa."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "35 minutes"
+    }
+  ]
 }

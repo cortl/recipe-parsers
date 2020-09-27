@@ -2,8 +2,19 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const util = require('./util');
 
+const getMetaInfo = ($, header) => $('.recipe-info-section').find('.recipe-meta-item')
+    .map((_, element) => {
+        const select = cheerio.load(cheerio.html($(element)));
+        const header = select('.recipe-meta-item-header').text().trim();
+        const body = select('.recipe-meta-item-body').text().trim();
+        return {
+            header,
+            body
+        }
+    }).get()
+    .find(section => section.header.toLowerCase().includes(header.toLowerCase()))
+
 const parse = async (source, notes, rating) => {
-    console.log(source)
     const $ = await axios.get(source)
         .then(res => res.data)
         .then(data => cheerio.load(data));
@@ -20,21 +31,23 @@ const parse = async (source, notes, rating) => {
         .map(instruction => instruction.trim())
 
     const title = $('h1.headline').text();
-    const servings = $('.recipe-info-section').find('.recipe-meta-item')
-        .map((_, element) => {
+    const servings = getMetaInfo($, 'Servings:').body;
+
+    const time = $('.two-subcol-content-wrapper').first()
+        .find('.recipe-meta-item').map((_, element) => {
             const select = cheerio.load(cheerio.html($(element)));
-            const header = select('.recipe-meta-item-header').text().trim();
-            const body = select('.recipe-meta-item-body').text().trim();
+            const label = select('.recipe-meta-item-header').text().trim().replace(':', '');
+            const units = select('.recipe-meta-item-body').text().trim();
             return {
-                header,
-                body
+                label,
+                units
             }
-        }).get()
-        .find(section => section.header.includes('Servings:')).body;
+        }).get();
 
     return {
         title,
         servings: parseInt(servings),
+        time,
         slug: util.createSlug(title),
         rating,
         notes: [notes],

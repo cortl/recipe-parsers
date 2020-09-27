@@ -7,6 +7,16 @@
     ""
   ],
   "source": "https://www.budgetbytes.com/glazed-chicken-meal-prep/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "35 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "Sweet and Spicy Glazed Chicken Thighs",

@@ -8,6 +8,20 @@
   "createdDate": "06/13/2020",
   "source": "https://www.kingarthurflour.com/recipes/simple-tortillas-recipe",
   "image": "../images/simple-tortillas.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Bake",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "35 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

@@ -40,5 +40,19 @@
     "Remove the cooked fish to a clean plate. Add the sliced zucchini to the skillet in its place. Quickly sauté the zucchini in the residual butter and spices until it is tender. Serve the salmon and zucchini immediately."
   ],
   "createdDate": "7/25/2020",
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ]
 }

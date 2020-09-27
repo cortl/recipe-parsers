@@ -5,6 +5,20 @@
   "source": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
   "image": "../images/korean-ground-beef-and-rice-bowls.jpg",
   "slug": "korean-ground-beef-and-rice-bowls",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "20 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

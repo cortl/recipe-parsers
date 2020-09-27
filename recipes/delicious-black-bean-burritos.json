@@ -29,5 +29,19 @@
     "Cut cream cheese into cubes and add to skillet with salt. Cook for 2 minutes stirring occasionally. Stir cilantro into mixture.                            ",
     "Spoon mixture evenly down center of warmed tortilla and roll tortillas up. Serve immediately.                            "
   ],
-  "servings": 2
+  "servings": 2,
+  "time": [
+    {
+      "label": "prep",
+      "units": "10 mins"
+    },
+    {
+      "label": "cook",
+      "units": "15 mins"
+    },
+    {
+      "label": "total",
+      "units": "25 mins"
+    }
+  ]
 }

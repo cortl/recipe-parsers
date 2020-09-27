@@ -8,6 +8,20 @@
   ],
   "source": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
   "image": "../images/lime-cilantro-rice.jpg",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

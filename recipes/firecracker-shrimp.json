@@ -8,6 +8,16 @@
   "source": "https://www.reddit.com/r/recipes/comments/8sk5wf/firecracker_shrimp/",
   "image": "../images/firecracker-shrimp.jpg",
   "slug": "firecracker-shrimp",
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "10 minutes"
+    }
+  ],
   "ingredients": [
     {
       "category": "All",

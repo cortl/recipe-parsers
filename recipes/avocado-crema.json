@@ -3,6 +3,12 @@
   "rating": 8,
   "slug": "avocado-crema",
   "notes": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 mins"
+    }
+  ],
   "source": "https://fitmencook.com/",
   "image": "../images/avocado-crema.jpg",
   "ingredients": [

@@ -3,6 +3,12 @@
     "rating": "0-10 as a number",
     "slug": "page url",
     "servings": "number",
+    "time": [
+        {
+            "label": "name for the time: e.g. prep time, cook time, etc",
+            "units": "number of minutes/hrs (string)"
+        }
+    ],
     "notes": [
         "anything additional people should know about this recipe"
     ],

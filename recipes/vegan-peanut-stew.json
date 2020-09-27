@@ -42,5 +42,19 @@
     "Finally, taste the stew and add salt or red pepper, if desired. Serve the stew with a scoop of cooked rice (about 3/4 cup), a few chopped peanuts, fresh cilantro, and a drizzle of sriracha, if desired."
   ],
   "createdDate": "7/11/2020",
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "55 minutes"
+    }
+  ]
 }

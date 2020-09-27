@@ -27,5 +27,19 @@
     "While the pork is browning, begin boiling water for your noodles. Once boiling, add your noodles and cook according to the package directions. Drain the noodles in a colander.",
     "Once the sauce has reduced and the noodles have drained, add the noodles to the skillet and toss until everything is combined and coated in sauce. Top with sliced green onions and serve!"
   ],
-  "servings": 3
+  "servings": 3,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "25 minutes"
+    }
+  ]
 }

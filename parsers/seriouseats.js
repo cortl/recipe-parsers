@@ -23,9 +23,20 @@ const parse = async (source, notes, rating) => {
         .map(word => parseInt(word))
         .find(Number.isInteger)
 
+    const time = $('.recipe-about').find('li').map((i, element) => {
+        const label = $(element).find('.label').text().trim().replace(':', '');
+        const units = $(element).find('.info').text().trim();
+        return {
+            label,
+            units
+        }
+    }).get()
+    .filter((_, i) => i === 1 || i === 2);
+
     return {
         title,
         servings,
+        time,
         slug: util.createSlug(title),
         image,
         rating,

@@ -48,5 +48,19 @@
     "Pour the prepared green chile enchilada sauce over the enchiladas, then top with the remaining shredded pepper jack cheese. Bake in the preheated oven for 30 minutes, or until the sauce is bubbling around the edges. Serve hot."
   ],
   "createdDate": "7/11/2020",
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "10 minutes"
+    }
+  ]
 }

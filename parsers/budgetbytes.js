@@ -55,9 +55,25 @@ const parse = async (source, notes, rating) => {
 
     const servings = parseInt($('.wprm-recipe-servings').text());
 
+    const time = [
+        {
+            label: "Prep",
+            units: `${$('.wprm-recipe-prep_time-minutes').text()} minutes`
+        },
+        {
+            label: "Cook",
+            units: `${$('.wprm-recipe-cook_time-minutes').text()} minutes`
+        },
+        {
+            label: "Total",
+            units: `${$('.wprm-recipe-total_time-minutes').text()} minutes`
+        }
+    ]
+
     return {
         title,
         servings,
+        time,
         slug,
         image,
         rating,

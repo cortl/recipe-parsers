@@ -51,5 +51,19 @@
     "Add the drained pasta to the pot with the sautéed kale. Toss the pasta and kale together. Allow them to cool to the point that steam is no longer rising from the pot. You want the pasta warm, but not hot enough to melt the Parmesan.",
     "Season the pasta and kale with salt and freshly cracked pepper to your liking. Add the grated Parmesan cheese and toss to coat. Add a pinch of red pepper flakes over top if desired."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": " minutes"
+    }
+  ]
 }

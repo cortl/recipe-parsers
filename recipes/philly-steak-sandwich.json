@@ -35,5 +35,19 @@
     "Preheat oven on broiler setting.                            ",
     "Divide the meat between the bottoms of 4 rolls, layer with onion and green pepper, then top with sliced cheese. Place on cookie sheet, and broil until cheese is melted. Cover with tops of rolls, and serve.                            "
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "prep",
+      "units": "15 mins"
+    },
+    {
+      "label": "cook",
+      "units": "25 mins"
+    },
+    {
+      "label": "total",
+      "units": "40 mins"
+    }
+  ]
 }

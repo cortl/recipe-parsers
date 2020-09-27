@@ -5,6 +5,16 @@
   "notes": [
     "Recipe looks strange with 12g of baking powder, but very good!"
   ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "10 minutes"
+    }
+  ],
   "source": "https://www.reddit.com/r/recipes/comments/g9mp4f/best_pancake_recipe_ever/",
   "image": "../images/cakey-reddit-pancakes.jpg",
   "ingredients": [

@@ -15,6 +15,20 @@
       ]
     }
   ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total",
+    "units": "30 minutes"
+    }
+  ],
   "instructions": [
     "Preheat the oven to 400ºF. Prepare a large baking sheet by lining it with aluminum foil and then placing one or two wire racks on top to hold the bacon above the surface of the baking sheet.",
     "Lay the strips of bacon across the wire rack so they are close, but not overlapping. ",

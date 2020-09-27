@@ -38,5 +38,19 @@
     "Turn the heat off under the skillet and pour on the prepared orange sauce. Stir to coat the chicken pieces in sauce.",
     "Serve the chicken and sauce over cooked rice, garnished with sliced green onions and any left over orange zest."
   ],
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "25 minutes"
+    }
+  ]
 }

@@ -8,6 +8,24 @@
   "createdDate": "02/05/2019",
   "source": "https://www.asweetpeachef.com/healthy-chicken-fajitas-meal-prep/",
   "image": "../images/healthy-chicken-fajitas-meal-prep.jpg",
+  "time": [
+    {
+      "label": "Marinating",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Prep",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "40 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "1 hour"
+    }
+  ],
   "ingredients": [
     {
       "category": "Chicken",

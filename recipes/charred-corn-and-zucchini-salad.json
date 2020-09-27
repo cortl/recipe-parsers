@@ -31,5 +31,19 @@
     "Season the vegetables with a couple generous pinches of salt and pepper, then toss to combine. Finally, crumble the feta over top and gently toss one more time to combine. Serve immediately or refrigerate for later. This salad can be served slightly warm or cold."
   ],
   "createdDate": "7/11/2020",
-  "servings": 4
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "40 minutes"
+    }
+  ]
 }

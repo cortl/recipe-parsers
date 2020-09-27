@@ -47,5 +47,19 @@
     "Once the red beans have thickened, add the cooked sausage back to the pot along with 1/4 cup chopped fresh parsley. Stir to combine. Taste the red beans and add salt to your liking. Start with 1 tsp and add more as needed. I used 1 Tbsp total (3 tsp). ",
     "Serve the red beans in a bowl topped with a scoop of rice and a sprinkle of sliced green onions."
   ],
-  "servings": 6
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "15 minutes"
+    }
+  ]
 }
