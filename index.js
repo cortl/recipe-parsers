@@ -11,8 +11,8 @@ const pressurecookingtoday = require('./parsers/pressurecookingtoday');
 const PARSERS = {
     'www.budgetbytes.com': budgetbytes.parse,
     'www.seriouseats.com': seriouseats.parse,
-    // 'allrecipes.com': allrecipes.parse,
-    // 'www.allrecipes.com': allrecipes.parse,
+    'allrecipes.com': allrecipes.parse,
+    'www.allrecipes.com': allrecipes.parse,
     'www.pressurecookingtoday.com': pressurecookingtoday.parse
 };
 
@@ -47,7 +47,9 @@ const createRecipe = ({ url, notes, rating }) => {
                 fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
                 return recipe;
             })
-            .catch(console.error);
+            .catch(e => {
+                console.error(url, e)
+            });
     } else {
         const site = URL(url).hostname;
         sitesNeeded[site] = (sitesNeeded[site] || 0) + 1;

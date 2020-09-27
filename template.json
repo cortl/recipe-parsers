@@ -2,6 +2,7 @@
     "title": "Recipe name",
     "rating": "0-10 as a number",
     "slug": "page url",
+    "servings": "number",
     "notes": [
         "anything additional people should know about this recipe"
     ],

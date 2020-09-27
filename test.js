@@ -20,7 +20,7 @@ items.forEach(item => {
     try {
         const recipe = JSON.parse(fs.readFileSync(`recipes/${item}`));
         const {
-            title, rating, slug, notes,
+            title, servings, rating, slug, notes,
             source, image, instructions, ingredients,
             createdDate, ...unused
         } = recipe;
@@ -29,6 +29,7 @@ items.forEach(item => {
         console.log('✅ exact number of fields')
 
         fieldIsA('title', title, 'string');
+        fieldIsA('servings', servings, 'number');
         fieldIsA('rating', rating, 'number');
         fieldIsA('slug', slug, 'string');
         fieldIsA('source', source, 'string');
@@ -59,7 +60,7 @@ items.forEach(item => {
         console.log('Looks 👌')
     } catch (err) {
         console.error(err);
-        assert.fail('❌ failed to test')
+        assert.fail(`❌ failed: ${item}`)
     } finally {
         console.groupEnd()
     }
