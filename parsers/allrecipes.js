@@ -52,10 +52,10 @@ const parse = async (source, notes, rating) => {
         rating,
         notes: [notes],
         source: source,
-        ingredients: {
+        ingredients: [{
             category: 'All',
             items: ingredients
-        },
+        }],
         instructions
     };
 }
