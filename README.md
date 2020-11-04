@@ -124,3 +124,4 @@
     - [The Ultimate Beef Stroganoff Recipe](recipes/the-ultimate-beef-stroganoff-recipe.json)
     - [Classic Butternut Squash Soup Recipe](recipes/classic-butternut-squash-soup-recipe.json)
     - [Sausage Gravy Recipe](recipes/sausage-gravy-recipe.json)
+    - [Chili Cornbread Skillet](recipes/chili-cornbread-skillet.json)
