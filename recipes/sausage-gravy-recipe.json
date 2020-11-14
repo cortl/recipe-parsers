@@ -1,0 +1,42 @@
+{
+  "title": "Sausage Gravy Recipe",
+  "servings": 3,
+  "time": [
+    {
+      "label": "Active time",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total time",
+      "units": "15 minutes"
+    }
+  ],
+  "slug": "sausage-gravy-recipe",
+  "image": "../images/sausage-gravy-recipe.jpg",
+  "rating": 8,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.seriouseats.com/recipes/2012/11/sausage-gravy-recipe.html",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3/4 lb bulk pork breakfast sausage ",
+        "1 to 2 tablespoons butter, as needed ",
+        "1/4 cup all-purpose flour ",
+        "2 cups whole milk ",
+        "1 teaspoon finely chopped fresh sage (optional) ",
+        "1/4 teaspoon crushed red pepper (optional) ",
+        "Kosher salt, to taste ",
+        "Freshly ground black pepper, to taste"
+      ]
+    }
+  ],
+  "instructions": [
+    "Place sausage in medium saucepan over medium-high heat. Cook sausage, breaking apart with wooden spoon, until browned and cooked through. Using a slotted spoon, transfer sausage to a plate, leaving drippings in pan. If less than 3 tablespoons of drippings remain, melt enough butter in pan to equal about 3 tablespoons.",
+    "Whisk flour into sausage drippings and cook, stirring constantly, until mixture turns light brown, about 1 minute. Slowly whisk in milk and bring to a boil. Reduce to a simmer and cook until slightly thickened, about 4 minutes, stirring occasionally.",
+    "Stir in sausage, sage (if using), and crushed red pepper (if using). Remove from heat and season with salt and pepper to taste. Use immediately."
+  ],
+  "createdDate": "10/13/2020"
+}
