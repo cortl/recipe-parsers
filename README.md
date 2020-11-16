@@ -125,3 +125,5 @@
     - [Classic Butternut Squash Soup Recipe](recipes/classic-butternut-squash-soup-recipe.json)
     - [Sausage Gravy Recipe](recipes/sausage-gravy-recipe.json)
     - [Chili Cornbread Skillet](recipes/chili-cornbread-skillet.json)
+    - [Easy Roasted Brussels Sprouts](recipes/easy-roasted-brussels-sprouts.json)
+    - [Honey Mustard Pork Chops](recipes/honey-mustard-pork-chops.json)
