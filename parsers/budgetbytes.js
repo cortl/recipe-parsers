@@ -2,6 +2,8 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const util = require('./util');
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const parse = async (source, notes, rating) => {
     const $ = await axios.get(source)
         .then(res => res.data)
@@ -40,16 +42,24 @@ const parse = async (source, notes, rating) => {
     const title = $('h1').text();
     const slug = util.createSlug(title);
 
-    const imageUrl = $('#content').find('img')
+    let imageUrl = $('#content').find('img')
         .map((_, element) => $(element).attr('data-lazy-src'))
         .get()[0];
+
+    if (!imageUrl) {
+        imageUrl = $('#content').find('img')
+            .map((_, element) => {
+                return $(element).attr('data-src')
+            })
+            .get()[0];
+    }
 
     if (!Boolean(imageUrl)) {
         console.log(`no image for ${title} from ${source}`);
     }
 
     const image = imageUrl
-        ? await util.downloadImage(slug, imageUrl)
+        ? await util.downloadImage(slug, imageUrl).catch(e => console.error(e.message, e.stack))
         : "";
 
 

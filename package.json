@@ -7,7 +7,8 @@
     "start": "node index.js",
     "test": "node test.js",
     "migrate": "node migrate.js",
-    "local": "node parsers/local.js"
+    "local": "node parsers/local.js",
+    "dev": "nodemon --watch parsers --exec 'npm run local'"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,8 @@
     "google-auth-library": "^5.10.1",
     "googleapis": "^46.0.0",
     "url-parse": "^1.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }

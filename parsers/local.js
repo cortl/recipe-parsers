@@ -1,10 +1,11 @@
-const parser = require('./allrecipes');
+const parser = require('./budgetbytes');
+
+const SOURCE = 'https://www.budgetbytes.com/easy-roasted-brussels-sprouts/',
+    RATING = 8.2,
+    NOTES = 'test';
 
 const main = async () => {
-    const rating = 8.2, notes = 'test';
-    const source = 'https://www.allrecipes.com/recipe/203800/pico-de-gallo/';
-
-    const result = await parser.parse(source, notes, rating);
+    const result = await parser.parse(SOURCE, NOTES, RATING);
     console.log(JSON.stringify(result, null, 2));
 };
 
