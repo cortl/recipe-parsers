@@ -127,3 +127,4 @@
     - [Chili Cornbread Skillet](recipes/chili-cornbread-skillet.json)
     - [Easy Roasted Brussels Sprouts](recipes/easy-roasted-brussels-sprouts.json)
     - [Honey Mustard Pork Chops](recipes/honey-mustard-pork-chops.json)
+    - [BraveTart: Glossy Fudge Brownies Recipe](recipes/bravetart-glossy-fudge-brownies-recipe.json)
