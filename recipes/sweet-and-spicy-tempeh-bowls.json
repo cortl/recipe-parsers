@@ -1,0 +1,66 @@
+{
+  "title": "Sweet and Spicy Tempeh Bowls",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "sweet-and-spicy-tempeh-bowls",
+  "image": "../images/sweet-and-spicy-tempeh-bowls.jpg",
+  "rating": 8,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/sweet-and-spicy-tempeh-bowls/",
+  "ingredients": [
+    {
+      "category": "Sweet and Spicy Tempeh",
+      "items": [
+        "8 oz. tempeh",
+        "1/2 cup water",
+        "1/2 tsp garlic powder",
+        "1/2  tsp smoked paprika",
+        "1/2 tsp cayenne pepper",
+        "1/2 tsp salt",
+        "2 Tbsp brown sugar",
+        "1 Tbsp olive oil"
+      ]
+    },
+    {
+      "category": "Polenta",
+      "items": [
+        "1 cup cornmeal",
+        "3 cups water",
+        "1/2 tsp salt",
+        "2 Tbsp butter"
+      ]
+    },
+    {
+      "category": "Bowl Toppings",
+      "items": [
+        "1 15oz. can black beans, rinsed",
+        "2 oz. shredded cheddar",
+        "1 avocado, sliced",
+        "2 green onions, sliced",
+        "4 Tbsp ranch dressing"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cut the block of tempeh into 32 thin triangles. For the block I used, I first cut it into 8 equal-sized squares, then cut each square into two triangles, then cut the thickness of each triangle in half to make the pieces thinner. Add the tempeh triangles to a large non-stick skillet.",
+    "Make the sweet and spicy marinade by combining the water, garlic powder, smoked paprika, cayenne, salt, brown sugar, and olive oil. Pour this mixture over the tempeh in the skillet. Turn the skillet on to medium-high and simmer the tempeh, stirring occasionally, until the liquid evaporates and the tempeh begins to brown just slightly (about 10 minutes). Remove the tempeh from the heat.",
+    "To make the polenta, combine the cornmeal, salt, and water in a medium sauce pot. Place the pot over medium-high heat and bring it up to a boil while whisking. Once it reaches a boil, turn the heat down to medium-low and continue to simmer 2-3 minutes more, or until the polenta has thickened. Remove the polenta from the heat and stir in the butter.",
+    "To build the bowls, start with 1 cup of the polenta, add 1/4 of the sweet and spicy tempeh triangles, 1/4 of the rinsed black beans, a pinch or two of shredded cheddar (about 1/2 oz.), 1/4 of the avocado, a sprinkle of green onions, and a light drizzle of ranch. Serve immediately, or refrigerate and reheat later."
+  ],
+  "createdDate": "12/12/2020"
+}

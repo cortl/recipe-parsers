@@ -130,3 +130,4 @@
     - [BraveTart: Glossy Fudge Brownies Recipe](recipes/bravetart-glossy-fudge-brownies-recipe.json)
     - [Old-Fashioned Flaky Pie Crust Recipe](recipes/oldfashioned-flaky-pie-crust-recipe.json)
     - [BraveTart's Easy, Old-Fashioned Apple Pie Recipe](recipes/bravetarts-easy-oldfashioned-apple-pie-recipe.json)
+    - [Sweet and Spicy Tempeh Bowls](recipes/sweet-and-spicy-tempeh-bowls.json)
