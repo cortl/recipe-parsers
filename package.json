@@ -1,6 +1,6 @@
 {
   "name": "@cortl/recipes",
-  "version": "2.0.72",
+  "version": "2.0.73",
   "description": "Collection of my recipes scraped and archived from the web",
   "main": "index.js",
   "scripts": {
