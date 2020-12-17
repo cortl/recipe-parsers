@@ -31,7 +31,6 @@
     - [Easiest Burrito Bowl Meal Prep](recipes/easiest-burrito-bowl-meal-prep.json)
     - [Apple Spice Pork Chops](recipes/apple-spice-pork-chops.json)
     - [Lemon Basil Grilled Chicken](recipes/lemon-basil-grilled-chicken.json)
-    - [Pressure Cooker (Instant Pot) Honey Sesame Chicken](recipes/pressure-cooker-instant-pot-honey-sesame-chicken.json)
     - [Pressure Cooker Beef and Broccoli](recipes/pressure-cooker-beef-and-broccoli.json)
     - [Garlic Parmesan Kale Pasta Meal Prep](recipes/garlic-parmesan-kale-pasta-meal-prep.json)
     - [Spinach and Feta Turkey Meatballs](recipes/spinach-and-feta-turkey-meatballs.json)
@@ -131,3 +130,5 @@
     - [Old-Fashioned Flaky Pie Crust Recipe](recipes/oldfashioned-flaky-pie-crust-recipe.json)
     - [BraveTart's Easy, Old-Fashioned Apple Pie Recipe](recipes/bravetarts-easy-oldfashioned-apple-pie-recipe.json)
     - [Sweet and Spicy Tempeh Bowls](recipes/sweet-and-spicy-tempeh-bowls.json)
+    - [Pasta with 5 Ingredient Butter Tomato Sauce](recipes/pasta-with-5-ingredient-butter-tomato-sauce.json)
+    - [Chicken Parmesan Meatballs](recipes/chicken-parmesan-meatballs.json)
