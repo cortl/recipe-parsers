@@ -132,3 +132,4 @@
     - [Sweet and Spicy Tempeh Bowls](recipes/sweet-and-spicy-tempeh-bowls.json)
     - [Pasta with 5 Ingredient Butter Tomato Sauce](recipes/pasta-with-5-ingredient-butter-tomato-sauce.json)
     - [Chicken Parmesan Meatballs](recipes/chicken-parmesan-meatballs.json)
+    - [The Best Spinach Lasagna Recipe](recipes/the-best-spinach-lasagna-recipe.json)
