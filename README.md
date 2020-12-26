@@ -135,3 +135,4 @@
     - [The Best Spinach Lasagna Recipe](recipes/the-best-spinach-lasagna-recipe.json)
     - [The Best Crispy Roast Potatoes Ever Recipe](recipes/the-best-crispy-roast-potatoes-ever-recipe.json)
     - [Herb Roasted Pork Tenderloin](recipes/herb-roasted-pork-tenderloin.json)
+    - [BraveTart: One-Bowl, Overnight Cinnamon Rolls Recipe](recipes/bravetart-onebowl-overnight-cinnamon-rolls-recipe.json)
