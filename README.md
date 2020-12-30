@@ -136,3 +136,4 @@
     - [The Best Crispy Roast Potatoes Ever Recipe](recipes/the-best-crispy-roast-potatoes-ever-recipe.json)
     - [Herb Roasted Pork Tenderloin](recipes/herb-roasted-pork-tenderloin.json)
     - [BraveTart: One-Bowl, Overnight Cinnamon Rolls Recipe](recipes/bravetart-onebowl-overnight-cinnamon-rolls-recipe.json)
+    - [Bacon, Egg, and Cheese Breakfast Burrito Recipe](recipes/bacon-egg-and-cheese-breakfast-burrito-recipe.json)
