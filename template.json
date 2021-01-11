@@ -2,7 +2,7 @@
     "title": "Recipe name",
     "rating": "0-10 as a number",
     "slug": "page url",
-    "servings": "number",
+    "servings": "serving size as a number",
     "time": [
         {
             "label": "name for the time: e.g. prep time, cook time, etc",
