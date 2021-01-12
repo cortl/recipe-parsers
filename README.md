@@ -138,3 +138,5 @@
     - [BraveTart: One-Bowl, Overnight Cinnamon Rolls Recipe](recipes/bravetart-onebowl-overnight-cinnamon-rolls-recipe.json)
     - [Bacon, Egg, and Cheese Breakfast Burrito Recipe](recipes/bacon-egg-and-cheese-breakfast-burrito-recipe.json)
     - [Tomato Lentil Soup](recipes/tomato-lentil-soup.json)
+    - [Slow Cooker Hamburger Stew](recipes/slow-cooker-hamburger-stew.json)
+    - [Potatoes Au Gratin](recipes/potatoes-au-gratin.json)
