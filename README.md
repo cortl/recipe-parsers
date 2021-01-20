@@ -140,3 +140,4 @@
     - [Tomato Lentil Soup](recipes/tomato-lentil-soup.json)
     - [Slow Cooker Hamburger Stew](recipes/slow-cooker-hamburger-stew.json)
     - [Potatoes Au Gratin](recipes/potatoes-au-gratin.json)
+    - [Sheet Pan Cranberry Chicken Dinner](recipes/sheet-pan-cranberry-chicken-dinner.json)
