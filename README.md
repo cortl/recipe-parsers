@@ -136,6 +136,5 @@
     - [Bacon, Egg, and Cheese Breakfast Burrito Recipe](recipes/bacon-egg-and-cheese-breakfast-burrito-recipe.json)
     - [Tomato Lentil Soup](recipes/tomato-lentil-soup.json)
     - [Slow Cooker Hamburger Stew](recipes/slow-cooker-hamburger-stew.json)
-    - [Potatoes Au Gratin](recipes/potatoes-au-gratin.json)
     - [Sheet Pan Cranberry Chicken Dinner](recipes/sheet-pan-cranberry-chicken-dinner.json)
     - [Chunky Ham and Bean Soup](recipes/chunky-ham-and-bean-soup.json)
