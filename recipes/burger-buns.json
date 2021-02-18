@@ -5,8 +5,16 @@
     "servings": 6,
     "time": [
         {
-            "label": "name for the time: e.g. prep time, cook time, etc",
-            "units": "number of minutes/hrs (string)"
+            "label": "Active Time",
+            "units": "20 minutes"
+        },
+        {
+            "label": "First Proof",
+            "units": "1 1/2 - 2 hours"
+        },
+        {
+            "label": "Second Proof",
+            "units": "1 1/2 - 2 hours"
         }
     ],
     "notes": [
@@ -25,7 +33,7 @@
             ]
         },
         {
-            "category": "Tangzhong",
+            "category": "Buns",
             "items": [
                 "1/2 cup(120g) whole milk @ 95f (30c)",
                 "1 tablespoons (9g) instant yeast",

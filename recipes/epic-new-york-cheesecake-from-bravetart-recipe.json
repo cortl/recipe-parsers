@@ -1,5 +1,5 @@
 {
-  "title": "Epic New York Cheesecake From BraveTart Recipe",
+  "title": "New York Cheesecake",
   "servings": 8,
   "time": [
     {
@@ -20,13 +20,16 @@
   "source": "https://www.seriouseats.com/recipes/2019/07/epic-new-york-cheesecake-from-bravetart.html",
   "ingredients": [
     {
-      "category": "All",
+      "category": "Graham Cracker Crust",
       "items": [
-        "For the Graham Cracker Crust:",
         "7 ounces graham cracker crumbs, store-bought or homemade, see note (about 1 3/4 cups; 200g)",
         "1 ounce unsalted butter, melted (about 2 tablespoons; 30g)",
-        "Pinch of salt",
-        "For the Cheesecake:",
+        "Pinch of salt"
+      ]
+    },
+    {
+      "category": "Cheesecake",
+      "items": [
         "32 ounces full-fat cream cheese, such as Philadelphia, brought to about 70°F/21°C (about 4 cups; 905g)",
         "8 ounces fresh goat cheese (not pre-crumbled), brought to about 70°F/21°C (about 1 cup; 225g)",
         "1/2 ounce lemon juice, freshly squeezed (about 1 tablespoon; 15g)",
@@ -35,8 +38,12 @@
         "1/4 teaspoon orange flower water",
         "14 ounces plain or toasted sugar (about 2 cups; 395g)",
         "6 large eggs (about 10 1/2 ounces; 300g)",
-        "6 ounces heavy cream (about 3/4 cup; 170g)",
-        "To Serve: ",
+        "6 ounces heavy cream (about 3/4 cup; 170g)"
+      ]
+    },
+    {
+      "category": "To Serve",
+      "items": [
         "16 ounces (volume will vary; 455g) fresh fruit, such as pitted and halved cherries, blueberries, sliced peaches, small strawberries, or some assortment thereof, optional",
         "1 recipe (about 1/2 cup) complementary Fruit Syrup or jelly, for saucing the fruit, optional"
       ]

@@ -1,5 +1,5 @@
 {
-  "title": "Cuban-Style Pollo a la Plancha (Marinated and Griddled Chicken) Recipe",
+  "title": "Cuban-Style Pollo a la Plancha",
   "servings": 4,
   "time": [
     {
@@ -11,8 +11,8 @@
       "units": "1 hour 15 minutes"
     }
   ],
-  "slug": "cubanstyle-pollo-a-la-plancha-marinated-and-griddled-chicken-recipe",
-  "image": "../images/cubanstyle-pollo-a-la-plancha-marinated-and-griddled-chicken-recipe.jpg",
+  "slug": "cuban-pollo-a-la-plancha",
+  "image": "../images/cuban-pollo-a-la-plancha.jpg",
   "rating": 7,
   "notes": [
     ""
