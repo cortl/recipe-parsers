@@ -1,0 +1,57 @@
+{
+  "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing",
+  "servings": 2,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "45 minutes"
+    }
+  ],
+  "slug": "roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing",
+  "image": "../images/roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing.jpg",
+  "rating": 6,
+  "notes": [
+    "Use at least 2 heads of broccoli if using fresh. Only roasted for about 20 minutes total."
+  ],
+  "source": "https://www.budgetbytes.com/roasted-broccoli-salad-almonds-simple-sesame-dressing/",
+  "ingredients": [
+    {
+      "category": "SIMPLE SESAME DRESSING",
+      "items": [
+        "2 Tbsp neutral oil*",
+        "1 Tbsp rice vinegar",
+        "4 tsp soy sauce",
+        "1 tsp toasted sesame oil",
+        "1 Tbsp brown sugar",
+        "1 tsp grated fresh ginger",
+        "1/2 Tbsp sesame seeds"
+      ]
+    },
+    {
+      "category": "SALAD",
+      "items": [
+        "1 lb frozen broccoli florets",
+        "1 Tbsp neutral oil",
+        "Pinch of salt",
+        "1/3 cup sliced almonds",
+        "1 cup crunchy chow mein noodles",
+        "2 green onions"
+      ]
+    }
+  ],
+  "instructions": [
+    "Make the dressing first to allow the flavors time to blend. Add the oil, rice vinegar, soy sauce, toasted sesame oil, brown sugar, fresh grated ginger, and sesame seeds to a small jar or bowl. Whisk the ingredients together or close the jar and shake to combine. Set the dressing aside until ready to use.",
+    "Spread the broccoli florets out on a baking sheet. Begin to preheat the oven to 400ºF. Place the baking sheet with broccoli on the stove top as the oven preheats to allow them to begin to thaw. Once the broccoli is soft enough to slice, cut any large florets into smaller bite-sized pieces. Drizzle the broccoli with 1 Tbsp oil and and pinch of salt, and toss to coat.",
+    "Roast the broccoli for 30 minutes in the preheated oven, stirring after 20 minutes. Sprinkle the sliced almonds over the broccoli after 25 minutes, and allow them to roast together for the final five minutes. Take the broccoli and almonds out of the oven and allow them to cool (5-10 minutes).",
+    "Once the broccoli is mostly cooled, add the crunchy lo mein noodles and sliced green onions, and stir to combine. Give the simple sesame dressing another stir or shake, and then drizzle the dressing over the baking sheet. Stir until everything is coated in dressing. Serve immediately."
+  ],
+  "createdDate": "2/19/2021"
+}
